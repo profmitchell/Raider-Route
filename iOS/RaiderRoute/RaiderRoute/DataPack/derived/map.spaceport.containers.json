@@ -1,0 +1,4943 @@
+[
+  {
+    "id": "20cef201-6a52-f9c7-0421-ed423efcb18d",
+    "mapID": "spaceport",
+    "lat": 2434.064781282964,
+    "lng": 3093.7641365516247,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case - Hidden Bunker"
+  },
+  {
+    "id": "685f5467-0dac-85f4-1f36-b844ea74ecc3",
+    "mapID": "spaceport",
+    "lat": 2982.5314444268247,
+    "lng": 3137.1283693771784,
+    "category": "containers",
+    "subcategory": "baron_husk",
+    "instanceName": ""
+  },
+  {
+    "id": "9f853d35-6d93-8967-e86f-fc4874633442",
+    "mapID": "spaceport",
+    "lat": 3183.003155839123,
+    "lng": 4388.217943001509,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Case inside Security Terminal"
+  },
+  {
+    "id": "b16ab216-14c5-8073-7712-42276abaf102",
+    "mapID": "spaceport",
+    "lat": 3030.306110774949,
+    "lng": 4098.744457147823,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "5c27f888-de1c-f6bf-7376-2b755a545f2d",
+    "mapID": "spaceport",
+    "lat": 1757.4735078802635,
+    "lng": 4598.021598607312,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "4b8a86be-d540-7371-72d2-a740afe31993",
+    "mapID": "spaceport",
+    "lat": 1610.0,
+    "lng": 4301.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "297b5ced-91da-8a9c-de1e-4b4bc33ae622",
+    "mapID": "spaceport",
+    "lat": 2637.054455926343,
+    "lng": 4318.214104153751,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "e3fc612b-f304-bb16-d6d4-112168e3f6a3",
+    "mapID": "spaceport",
+    "lat": 2641.5566586379705,
+    "lng": 4445.698295102294,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "c5b2dcbc-0045-2995-b344-75ccae778e08",
+    "mapID": "spaceport",
+    "lat": 2513.3838720329436,
+    "lng": 4062.1215437073774,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "2c633759-dbbe-0899-d0f6-425a8426063e",
+    "mapID": "spaceport",
+    "lat": 2511.13277067713,
+    "lng": 4070.8704587724737,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "4dfe4662-7235-2170-195c-8ec17f37417c",
+    "mapID": "spaceport",
+    "lat": 2585.295277961229,
+    "lng": 3909.4895691258525,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "fa5a52a2-dbfe-4455-f37c-9315d6a2355e",
+    "mapID": "spaceport",
+    "lat": 2365.0397711821606,
+    "lng": 4004.2099194048355,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Locker"
+  },
+  {
+    "id": "07aa770c-d167-4c22-5943-1e2410d80286",
+    "mapID": "spaceport",
+    "lat": 1274.2064196981585,
+    "lng": 4181.122397156055,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "32c5d821-ffe7-034f-9f41-645eae74cf53",
+    "mapID": "spaceport",
+    "lat": 1316.253308446349,
+    "lng": 4201.5,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "c4b8d24f-39c3-6e1d-a263-8ca5e63f5033",
+    "mapID": "spaceport",
+    "lat": 1309.125,
+    "lng": 4206.5,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "ef22197c-da09-feec-cf6c-69f9d697a2ff",
+    "mapID": "spaceport",
+    "lat": 1300.375,
+    "lng": 3679.875,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "3af6051d-92c0-ae98-3449-c52b9399767d",
+    "mapID": "spaceport",
+    "lat": 1303.3401842794322,
+    "lng": 3708.2273652729878,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": ""
+  },
+  {
+    "id": "31768f9e-0b1b-440b-c381-75527d0bec68",
+    "mapID": "spaceport",
+    "lat": 1120.8277058900646,
+    "lng": 3379.132017280232,
+    "category": "containers",
+    "subcategory": "baron_husk",
+    "instanceName": ""
+  },
+  {
+    "id": "346b81a3-2e70-07ec-cadf-60252bb599f0",
+    "mapID": "spaceport",
+    "lat": 1141.2512695081425,
+    "lng": 3097.998680877789,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "f44c8b86-62fe-4f95-a34f-73bab5f6d217",
+    "mapID": "spaceport",
+    "lat": 2191.0,
+    "lng": 3068.0,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": ""
+  },
+  {
+    "id": "5f855971-0130-8644-df6c-3f57ad6a9406",
+    "mapID": "spaceport",
+    "lat": 2582.572689483703,
+    "lng": 3549.456726596404,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "7b1ff298-015f-ef1f-fa13-4eff5e1001b4",
+    "mapID": "spaceport",
+    "lat": 3234.6433528074012,
+    "lng": 3898.22092297892,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": ""
+  },
+  {
+    "id": "8e79995a-7278-98f8-7393-ca0616d03c90",
+    "mapID": "spaceport",
+    "lat": 2837.4481763964927,
+    "lng": 4032.6013269742275,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "da3fcbd6-2fe0-13c9-2c43-8aa0f4de191e",
+    "mapID": "spaceport",
+    "lat": 2087.0584868297756,
+    "lng": 3466.538740232932,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "4ae4778d-bf8c-7847-a22e-0a0581d24b4e",
+    "mapID": "spaceport",
+    "lat": 2008.570817239596,
+    "lng": 3386.86186352775,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "064f2051-961e-20d0-9d23-96b886743b4e",
+    "mapID": "spaceport",
+    "lat": 2054.0,
+    "lng": 3473.0,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "76e0bc9d-71b9-4b7b-a284-47afefd9b5c7",
+    "mapID": "spaceport",
+    "lat": 2095.0,
+    "lng": 3470.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "625ecd78-c2dc-4078-02c6-b35d2cabc493",
+    "mapID": "spaceport",
+    "lat": 2219.0,
+    "lng": 3365.5,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e6c0daa9-854a-456a-a641-8953b686cd5e",
+    "mapID": "spaceport",
+    "lat": 2230.5,
+    "lng": 3357.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "f6d122e4-2833-757f-7a77-f8962532ef17",
+    "mapID": "spaceport",
+    "lat": 1844.9267350666498,
+    "lng": 3370.312832336888,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "dcc4af09-0957-3e6a-96a4-085caae39889",
+    "mapID": "spaceport",
+    "lat": 1619.0,
+    "lng": 3349.5,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "16bd19f8-e985-57e8-4396-512ab93342aa",
+    "mapID": "spaceport",
+    "lat": 1593.5375341036463,
+    "lng": 3347.61802873266,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "b43ba514-e4d9-d67e-792b-fa82f8308f4b",
+    "mapID": "spaceport",
+    "lat": 1604.5,
+    "lng": 3360.5,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e5cef148-33b0-df4c-1d29-f5c08b2382e1",
+    "mapID": "spaceport",
+    "lat": 1547.5,
+    "lng": 3464.5,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "d36cebc1-4a0f-460d-8a1d-d94dd0430489",
+    "mapID": "spaceport",
+    "lat": 1553.5,
+    "lng": 3475.5,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "c85d8bda-ac55-1be7-6427-b4fc510fedaf",
+    "mapID": "spaceport",
+    "lat": 1709.5,
+    "lng": 3402.5,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "481d4b08-a3ef-10f2-281b-6bb79f04b1f6",
+    "mapID": "spaceport",
+    "lat": 1772.0466648373222,
+    "lng": 4298.781120539423,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": ""
+  },
+  {
+    "id": "97c4075a-36d1-5521-966f-a946c0b6f99d",
+    "mapID": "spaceport",
+    "lat": 2021.9741368199168,
+    "lng": 3918.109969618835,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6db890f9-1bf9-5ed3-455f-8ce827147c7a",
+    "mapID": "spaceport",
+    "lat": 1434.0319450473046,
+    "lng": 4130.035817108298,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "aee3b590-ed83-655e-5d81-2ac1e3a16008",
+    "mapID": "spaceport",
+    "lat": 1613.5006041450051,
+    "lng": 3352.1987623621026,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "4669646b-3e96-73d0-e3d5-d4a82ab79b12",
+    "mapID": "spaceport",
+    "lat": 2030.070119653471,
+    "lng": 3923.219094854309,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "3a2dfcd1-59c0-b911-302d-586483634d06",
+    "mapID": "spaceport",
+    "lat": 1995.5532321976614,
+    "lng": 3933.9677619342838,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "de3e179b-7683-23d9-c356-0e43ce53d99d",
+    "mapID": "spaceport",
+    "lat": 2002.5566586379705,
+    "lng": 3944.4664600123992,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "f4f0b2e8-831e-8597-02ea-5c5eb07c5f1f",
+    "mapID": "spaceport",
+    "lat": 1894.6392335798039,
+    "lng": 3782.2586544611686,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Grenade Tube"
+  },
+  {
+    "id": "755b450a-398b-47c1-b70f-cdffdc1ea763",
+    "mapID": "spaceport",
+    "lat": 1441.319023383298,
+    "lng": 4083.7372329193445,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "7133771b-75d5-2800-ca20-d65f74447421",
+    "mapID": "spaceport",
+    "lat": 2887.6377918495787,
+    "lng": 4105.435151890886,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a9d8b40d-c442-f52d-9858-bd56f754ac26",
+    "mapID": "spaceport",
+    "lat": 2731.676097298774,
+    "lng": 4059.6162162380283,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e6ae8445-4aca-fc2c-0820-34762ee30abe",
+    "mapID": "spaceport",
+    "lat": 2975.3767640235806,
+    "lng": 4454.08724118977,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "65087b09-d726-a9af-91c8-c95b135c2a4b",
+    "mapID": "spaceport",
+    "lat": 3288.146215866483,
+    "lng": 3761.705319663511,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b65f6d5f-493b-ece5-c185-e2638c595cbf",
+    "mapID": "spaceport",
+    "lat": 3560.5155838780934,
+    "lng": 3594.141791729633,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b26c7a3d-6e6c-345e-d812-fb2431de3d7b",
+    "mapID": "spaceport",
+    "lat": 2162.619998225189,
+    "lng": 3513.4085407532184,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6a0e348c-470f-6ce7-39dd-fd25a2c2856b",
+    "mapID": "spaceport",
+    "lat": 1406.5844372790489,
+    "lng": 3673.428332300062,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "89f6ffc7-3e82-b520-0cab-f229d78af597",
+    "mapID": "spaceport",
+    "lat": 1662.7097470960725,
+    "lng": 3355.4677619342838,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3aaf58c8-949d-b0ec-88af-fffed3e06bff",
+    "mapID": "spaceport",
+    "lat": 1328.971120003108,
+    "lng": 2876.948667079975,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1e38d76c-eb4b-4cf1-8e46-b6e012da5770",
+    "mapID": "spaceport",
+    "lat": 2050.1930662646914,
+    "lng": 4652.178233890645,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "9d26f82a-f654-8210-454c-017a3179c0ec",
+    "mapID": "spaceport",
+    "lat": 1408.5100345751912,
+    "lng": 2817.9559826410414,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "046f1e53-c19b-4dde-8406-4fef13bdbc2f",
+    "mapID": "spaceport",
+    "lat": 1931.272354764419,
+    "lng": 3824.4900818487513,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "3e3cef77-48db-3f68-9474-b6d40661f2bc",
+    "mapID": "spaceport",
+    "lat": 2162.1311436833034,
+    "lng": 4974.570008642744,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "79d97469-38ed-72d1-6e99-6360f5c8699d",
+    "mapID": "spaceport",
+    "lat": 3493.1849654236144,
+    "lng": 4671.07480051029,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "4e08012a-bdc6-bfaf-76ab-0ca8c58fc89b",
+    "mapID": "spaceport",
+    "lat": 3648.8269503961264,
+    "lng": 4622.30885578975,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d10c7af9-d6b6-4c87-b623-cbe319e350b9",
+    "mapID": "spaceport",
+    "lat": 1560.0,
+    "lng": 3904.0,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "77f2f6b9-808e-0ffe-7d84-d4e7b4c87221",
+    "mapID": "spaceport",
+    "lat": 1855.1693640495707,
+    "lng": 4706.8068195908245,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9ea2b392-750f-6e8d-ca81-07fea47a10b5",
+    "mapID": "spaceport",
+    "lat": 1931.0509071131657,
+    "lng": 4506.425480471172,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "02f87a06-7a31-102c-b8ce-2e1ee5c82402",
+    "mapID": "spaceport",
+    "lat": 1998.5839477875763,
+    "lng": 4477.929014259144,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ac810a2f-e587-1f4d-36fe-e48360ffac68",
+    "mapID": "spaceport",
+    "lat": 1928.159084728643,
+    "lng": 4318.900557966522,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "baa1ef43-5391-47aa-8e94-7756bfdf04a7",
+    "mapID": "spaceport",
+    "lat": 2008.0,
+    "lng": 3916.0,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "9e20e963-7c3b-4a50-b95e-06621c4730ae",
+    "mapID": "spaceport",
+    "lat": 1436.8409793710646,
+    "lng": 4154.959446252153,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "d32d7947-0270-43ab-9e98-99bb5f81d361",
+    "mapID": "spaceport",
+    "lat": 2380.792644235448,
+    "lng": 3989.7898708341295,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "2d8029b8-50ea-492b-b438-adf44da0b824",
+    "mapID": "spaceport",
+    "lat": 2241.9369967368784,
+    "lng": 3344.4237879423317,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "539b73d4-ee00-481c-99b8-9052ce4eb7ee",
+    "mapID": "spaceport",
+    "lat": 2206.0,
+    "lng": 3372.0,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "07f0c2e2-bb4f-457f-aa9f-6486ccf3a308",
+    "mapID": "spaceport",
+    "lat": 1857.0,
+    "lng": 3348.0,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "71105dd1-2a7d-5113-c0de-fe2f7ae11877",
+    "mapID": "spaceport",
+    "lat": 2290.5680789974003,
+    "lng": 4050.501551113314,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "170339b2-5aa1-189d-3e30-5190f01f3068",
+    "mapID": "spaceport",
+    "lat": 2324.3436407030804,
+    "lng": 3947.872065300927,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2615766e-803c-636e-35b7-ceb0ed17583f",
+    "mapID": "spaceport",
+    "lat": 2326.4252537905513,
+    "lng": 3934.7908350608554,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "347500a6-2fcd-b027-b93f-b20074abcd32",
+    "mapID": "spaceport",
+    "lat": 1473.7576731795475,
+    "lng": 2845.774155359843,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "20fd5809-b8b7-0d45-8661-f3ee344ea4c6",
+    "mapID": "spaceport",
+    "lat": 2024.1563651883755,
+    "lng": 2908.004277034345,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "9ecfee62-3004-144f-74f1-4ec2ea1f22c7",
+    "mapID": "spaceport",
+    "lat": 1654.9914647354642,
+    "lng": 4637.432700144066,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "23acb3c9-3085-a9b6-53f1-80e204b2207e",
+    "mapID": "spaceport",
+    "lat": 1469.4600213182455,
+    "lng": 3503.995714380731,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e8d08d57-55c2-861f-aea6-b221c462cc53",
+    "mapID": "spaceport",
+    "lat": 1472.527136740871,
+    "lng": 3486.373823319574,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "07ae929a-789b-a78d-b31c-899db1715298",
+    "mapID": "spaceport",
+    "lat": 1318.1864199955996,
+    "lng": 2720.309769056395,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c9fbbb8b-e024-68ad-0b6b-ff97b5dc8371",
+    "mapID": "spaceport",
+    "lat": 1290.8391894483668,
+    "lng": 2753.604053081035,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b3de4acf-4668-c206-7091-c166b31a1270",
+    "mapID": "spaceport",
+    "lat": 1381.7984562685112,
+    "lng": 2855.865068299573,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2756da87-696f-0197-0331-421412be9724",
+    "mapID": "spaceport",
+    "lat": 2801.2657574407826,
+    "lng": 4348.337754469403,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "7933a36c-d098-8284-12ba-9e378a33f77a",
+    "mapID": "spaceport",
+    "lat": 1579.6384034564314,
+    "lng": 3414.580202561572,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "c5cbf3b8-41ba-22af-c610-fc2ac99f89f3",
+    "mapID": "spaceport",
+    "lat": 1587.4723639735664,
+    "lng": 3504.4661917194308,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "57b8d745-3841-2734-2f95-660d97e1c9c2",
+    "mapID": "spaceport",
+    "lat": 1604.6258117676048,
+    "lng": 3338.1325654771695,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "16d27c14-51f3-49d9-a4be-6b52801e4a2c",
+    "mapID": "spaceport",
+    "lat": 2028.7873381946422,
+    "lng": 3918.4374439339663,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "6d464d6f-a90f-1f1c-5b5a-d7593474a662",
+    "mapID": "spaceport",
+    "lat": 1976.9405017481881,
+    "lng": 3574.894326030134,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "718bc715-98a1-b6c5-d239-2941503888a1",
+    "mapID": "spaceport",
+    "lat": 2009.4699194075101,
+    "lng": 3581.4472157992677,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "f66c5f79-d913-f7fe-e9b1-a4376f0ad3be",
+    "mapID": "spaceport",
+    "lat": 3465.265420546729,
+    "lng": 4325.473599537808,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "b814f0fc-a9ab-afce-4274-874e2358d2cd",
+    "mapID": "spaceport",
+    "lat": 3478.7175333582904,
+    "lng": 4386.011749845569,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "e57dc9e2-af69-35ab-c268-e25ac7f26fd4",
+    "mapID": "spaceport",
+    "lat": 3587.1751929015086,
+    "lng": 4491.953512884152,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "2495887e-e02f-284d-0d7b-fae86d146719",
+    "mapID": "spaceport",
+    "lat": 3599.3977362032792,
+    "lng": 4542.859304485123,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "59b37403-34f5-f584-0e69-48ad5ee5ca8e",
+    "mapID": "spaceport",
+    "lat": 3683.0530627501807,
+    "lng": 4511.749421688079,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "724170c4-9001-72bd-3410-21afc890d86c",
+    "mapID": "spaceport",
+    "lat": 3678.4288989712054,
+    "lng": 4563.038687921044,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "15159a58-454d-d29d-1819-53232667f01d",
+    "mapID": "spaceport",
+    "lat": 3528.3537654172183,
+    "lng": 4525.622747800275,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "7b116f0b-1395-2043-385a-d2945fd402c1",
+    "mapID": "spaceport",
+    "lat": 3633.0280182321844,
+    "lng": 4517.635075190223,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "21cd6ce6-13f7-e553-bc71-716356c5bb6b",
+    "mapID": "spaceport",
+    "lat": 2534.246421476398,
+    "lng": 3963.2208335397054,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "72512e55-e736-c47d-bade-9bfc976737c3",
+    "mapID": "spaceport",
+    "lat": 2331.331057572047,
+    "lng": 5248.318667298522,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "29e7f0c1-9e92-4386-9a46-f8973cceee30",
+    "mapID": "spaceport",
+    "lat": 2168.25,
+    "lng": 5174.375,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Data Server"
+  },
+  {
+    "id": "aaaa334a-ea7b-44a4-b27e-63bb3af4bbb5",
+    "mapID": "spaceport",
+    "lat": 3536.7019600180924,
+    "lng": 4105.142960989393,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "4bdd2569-520f-4807-92ee-334e86480339",
+    "mapID": "spaceport",
+    "lat": 3486.036431249679,
+    "lng": 4125.260961442318,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "48796441-1275-4793-b625-d051b322cfbb",
+    "mapID": "spaceport",
+    "lat": 3487.1096235176246,
+    "lng": 4121.25,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "PC"
+  },
+  {
+    "id": "17050837-d163-6751-75f4-d48a03ac01a0",
+    "mapID": "spaceport",
+    "lat": 3472.4817467902144,
+    "lng": 4239.8890788332465,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a8929929-62f6-c999-00ec-861778473fc4",
+    "mapID": "spaceport",
+    "lat": 3461.550093391916,
+    "lng": 4264.280701891015,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9b572ac6-28c5-5745-8140-4773d19e6e82",
+    "mapID": "spaceport",
+    "lat": 3385.5,
+    "lng": 4324.6130664315015,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "4a6c0aa6-33ff-4dd7-913a-0762437806da",
+    "mapID": "spaceport",
+    "lat": 1482.80292014819,
+    "lng": 3607.1284675278753,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "93dc853a-ab52-4478-a882-f4023c3fc256",
+    "mapID": "spaceport",
+    "lat": 1975.0,
+    "lng": 3912.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "weapon case at the top of east tower"
+  },
+  {
+    "id": "045b6ce8-4d65-4203-b94c-51b124971993",
+    "mapID": "spaceport",
+    "lat": 1997.5,
+    "lng": 3913.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "launch tower loot event chest"
+  },
+  {
+    "id": "9f31dcc4-9b0b-4aa1-84ea-16e9bddcb064",
+    "mapID": "spaceport",
+    "lat": 1972.8279195104674,
+    "lng": 3448.559771846792,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "f4f0a766-f747-4a83-9722-45c30be7cff0",
+    "mapID": "spaceport",
+    "lat": 2418.0,
+    "lng": 3704.0,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "1a47ac2b-fd8a-40fa-b0c9-40ee94691a02",
+    "mapID": "spaceport",
+    "lat": 2339.93765928985,
+    "lng": 4852.43881044073,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "45c46fed-23e0-4e08-aee5-c11a4b4ee32d",
+    "mapID": "spaceport",
+    "lat": 1277.7421029780194,
+    "lng": 3710.875880514642,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "beabf232-6ae1-4362-92a3-35ec7ddffaaa",
+    "mapID": "spaceport",
+    "lat": 2497.9295450632158,
+    "lng": 4149.143624244494,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "83622dea-8b9f-4e9a-8d15-dbd45ece8f20",
+    "mapID": "spaceport",
+    "lat": 2497.9295450632158,
+    "lng": 4141.413777996976,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "6b6967c7-bf80-4298-b624-4b2e85a3ba10",
+    "mapID": "spaceport",
+    "lat": 2371.63614409968,
+    "lng": 2849.640328181786,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "c3c455d1-c96e-40d9-ad55-8071e52b6653",
+    "mapID": "spaceport",
+    "lat": 2377.2929983491726,
+    "lng": 2846.8119010570404,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "efb63afa-b2e1-4f9c-8757-496275afd1a0",
+    "mapID": "spaceport",
+    "lat": 2487.8212845856924,
+    "lng": 4935.209527261292,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "e432d6d8-88d0-44de-8d4d-d110a5a53874",
+    "mapID": "spaceport",
+    "lat": 3142.0094555955043,
+    "lng": 4177.152942772827,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "44f5807f-76de-cc6c-ae4b-2ebcc3d04150",
+    "mapID": "spaceport",
+    "lat": 1998.283763633183,
+    "lng": 4601.850931962051,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "8ec69a85-78c8-4b17-91e5-553b5600c735",
+    "mapID": "spaceport",
+    "lat": 3053.287081163512,
+    "lng": 3623.215146799869,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "43ac2f24-9538-441c-bd7c-6658c95a438e",
+    "mapID": "spaceport",
+    "lat": 3222.9927086482835,
+    "lng": 3512.906488934768,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "5f2fc22f-f12a-4e77-a56b-15d04f66e2bd",
+    "mapID": "spaceport",
+    "lat": 3145.8621873552215,
+    "lng": 4572.7947061497,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "911ad7c4-a08f-4f27-ab3a-9c48ed51a182",
+    "mapID": "spaceport",
+    "lat": 3679.194910302474,
+    "lng": 4314.443413229872,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "c5b879bc-8dd3-446d-aa69-6285080c2045",
+    "mapID": "spaceport",
+    "lat": 3711.3128374403236,
+    "lng": 4252.30734147098,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "43820dc0-1a5c-4274-8e57-f010110cee59",
+    "mapID": "spaceport",
+    "lat": 3713.6919431542383,
+    "lng": 4376.876786767515,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider cache "
+  },
+  {
+    "id": "9b18f477-1326-4f99-96f3-58cf4608bb6a",
+    "mapID": "spaceport",
+    "lat": 3218.750067961164,
+    "lng": 3522.8059838713793,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "6f6de73d-8cdc-49b9-b1f9-5552e88d4e7e",
+    "mapID": "spaceport",
+    "lat": 1469.8982213915356,
+    "lng": 4356.484878890319,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "ddc89b87-2489-4532-a4ac-68240cd8e80f",
+    "mapID": "spaceport",
+    "lat": 2824.5,
+    "lng": 3294.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "2325f6bf-1ff5-4093-a1ec-ba6fd59e43ed",
+    "mapID": "spaceport",
+    "lat": 3004.0,
+    "lng": 3980.0,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Ark Courier [HB]"
+  },
+  {
+    "id": "500d9fb1-bb5d-4305-bf94-6a5a509a09f6",
+    "mapID": "spaceport",
+    "lat": 2826.930498973997,
+    "lng": 3792.1363061243965,
+    "category": "containers",
+    "subcategory": "baron_husk",
+    "instanceName": "Baron Husk"
+  },
+  {
+    "id": "b165ca06-3ba0-43a2-996c-618bd0a8c734",
+    "mapID": "spaceport",
+    "lat": 2114.249275747777,
+    "lng": 3299.1834643211337,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "d1874405-887a-447b-a990-2398c31fc6d6",
+    "mapID": "spaceport",
+    "lat": 1583.9026575698078,
+    "lng": 3378.909753899917,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "8402dd4f-4e82-4e62-8bf1-dc855b5af907",
+    "mapID": "spaceport",
+    "lat": 2247.9354988838786,
+    "lng": 3434.5,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "50ff9ae0-48c2-4748-8dcc-f5cb24873c68",
+    "mapID": "spaceport",
+    "lat": 3003.2218615349525,
+    "lng": 4499.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "8bc4759c-60f1-4e37-bee4-5889072a3d1d",
+    "mapID": "spaceport",
+    "lat": 2177.0,
+    "lng": 4661.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "b3ab5d2b-48e9-1ec9-6e1e-5e7d117443a9",
+    "mapID": "spaceport",
+    "lat": 1900.425898473395,
+    "lng": 3800.85179694679,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "f0c6367a-14be-44fb-892f-5e9dc2006e35",
+    "mapID": "spaceport",
+    "lat": 1574.0196949212548,
+    "lng": 2582.3539648932715,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "04e1ff9b-6187-4abe-8091-70bc47e9df35",
+    "mapID": "spaceport",
+    "lat": 2864.093190354152,
+    "lng": 4809.927495251247,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "3a8f787a-c41a-485f-ae3e-038f55d4a640",
+    "mapID": "spaceport",
+    "lat": 2123.263448515629,
+    "lng": 3595.6730716248835,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "a62b292d-8445-4aa0-97d7-5ed94f6dc58f",
+    "mapID": "spaceport",
+    "lat": 1739.0777315167554,
+    "lng": 2598.6155774040235,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "eceddf41-d598-4809-89f6-adf956776ab6",
+    "mapID": "spaceport",
+    "lat": 1679.1604463838423,
+    "lng": 3047.937835751974,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "5337a501-f51a-46e4-bc51-a2d44549eecb",
+    "mapID": "spaceport",
+    "lat": 3580.7887399286765,
+    "lng": 3494.5217126239177,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "9a9e83a2-072d-4796-864f-53abd18e2338",
+    "mapID": "spaceport",
+    "lat": 2305.168106668145,
+    "lng": 5286.330296150629,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "9d2d2d30-9ef7-4560-9c87-e1daf2c2f684",
+    "mapID": "spaceport",
+    "lat": 2822.468817799093,
+    "lng": 3455.66381848514,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "b00800ed-6dec-4815-8302-35b76c8cf41d",
+    "mapID": "spaceport",
+    "lat": 3487.944468302981,
+    "lng": 3866.1123308738465,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "65a7c317-cc98-47ff-81a9-5ce4329c88a6",
+    "mapID": "spaceport",
+    "lat": 3554.5400667431336,
+    "lng": 4076.601990229328,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "70b888ea-3837-4647-9697-0872de2ed66c",
+    "mapID": "spaceport",
+    "lat": 2900.0,
+    "lng": 4680.0,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier [HB]"
+  },
+  {
+    "id": "390bef6f-fb2e-4582-ac16-476693f0bd1b",
+    "mapID": "spaceport",
+    "lat": 3320.0,
+    "lng": 4580.0,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier [HB]"
+  },
+  {
+    "id": "bf6aa58e-eb15-46ba-bd86-eb07e7e65600",
+    "mapID": "spaceport",
+    "lat": 1495.9547227363582,
+    "lng": 3603.1200810781306,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "916ecab3-c7f2-40f6-a886-f88114e3e1bd",
+    "mapID": "spaceport",
+    "lat": 2559.173711485856,
+    "lng": 3208.4807962773416,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "06e91cf5-6420-4828-81f2-765d636b890c",
+    "mapID": "spaceport",
+    "lat": 2165.728717485942,
+    "lng": 3348.0290773326647,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "b3d2e9c9-6e10-4d34-b3b7-9df9a218f49d",
+    "mapID": "spaceport",
+    "lat": 2727.3108550365137,
+    "lng": 4958.9398564612575,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Baskets"
+  },
+  {
+    "id": "6b874d85-82b6-4022-8b52-6f363a1a1f2f",
+    "mapID": "spaceport",
+    "lat": 981.0,
+    "lng": 3864.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "86a1860f-6747-48c4-a09a-2433d1d5d396",
+    "mapID": "spaceport",
+    "lat": 1656.5655111987905,
+    "lng": 3012.2616223018927,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "f8a18fa5-3c7c-470a-b9da-1f862cf1873e",
+    "mapID": "spaceport",
+    "lat": 2568.5653826601338,
+    "lng": 3562.050410227233,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Watch Tower Top floor"
+  },
+  {
+    "id": "e001e502-137c-4853-b033-3770af1684f0",
+    "mapID": "spaceport",
+    "lat": 2128.0861322973697,
+    "lng": 4584.39342833549,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "On top of pipes"
+  },
+  {
+    "id": "359aad51-d913-4f92-b09a-75be0a1d0ec7",
+    "mapID": "spaceport",
+    "lat": 3171.6153757122574,
+    "lng": 4201.468737304614,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "570f5a59-271c-4d61-8805-084f8b59593d",
+    "mapID": "spaceport",
+    "lat": 2050.6096654409876,
+    "lng": 2579.5255377685253,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "d7c99438-b8fd-4a70-9bc5-2a87b58baa84",
+    "mapID": "spaceport",
+    "lat": 2865.0,
+    "lng": 3471.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "67e5beae-3546-412e-8c84-9e1b4622b597",
+    "mapID": "spaceport",
+    "lat": 2259.488667786731,
+    "lng": 2651.346397294962,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "ae1aff5e-5154-4d46-b7ff-14eb185147ae",
+    "mapID": "spaceport",
+    "lat": 2896.7411375536785,
+    "lng": 3312.912804407053,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "First Wave Rocketeer"
+  },
+  {
+    "id": "f2912a14-b085-414a-a7ef-69823cf8943b",
+    "mapID": "spaceport",
+    "lat": 3553.9186822435877,
+    "lng": 4142.585077581389,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider cache"
+  },
+  {
+    "id": "c4e6cc7b-5e37-4343-b6a6-55a72318afad",
+    "mapID": "spaceport",
+    "lat": 3095.713488034705,
+    "lng": 5006.316010800756,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "e7a41b51-f933-4559-9a89-13df47d274c3",
+    "mapID": "spaceport",
+    "lat": 3466.2374413764555,
+    "lng": 4854.995159626835,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "a19800e2-414f-4af7-aa2d-6dea3936fe2b",
+    "mapID": "spaceport",
+    "lat": 3003.261547078642,
+    "lng": 2957.0122442396873,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "e390c967-d70a-4ecd-af43-0746d10fd848",
+    "mapID": "spaceport",
+    "lat": 2046.3670247538685,
+    "lng": 2909.037297801456,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "751ef8cd-e0da-408c-b806-94fb580d2080",
+    "mapID": "spaceport",
+    "lat": 2698.4437875656736,
+    "lng": 3109.855623658436,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "d388e837-81b0-4fa0-9fdc-7a11aa2fccf5",
+    "mapID": "spaceport",
+    "lat": 1786.9048824141435,
+    "lng": 3244.178370048831,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "3178d708-8d40-444f-93c0-e6998224d851",
+    "mapID": "spaceport",
+    "lat": 1466.5233482024782,
+    "lng": 3498.9699838707065,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "afd18f6a-cd80-47ee-a8e2-07f064660538",
+    "mapID": "spaceport",
+    "lat": 1866.7900418632464,
+    "lng": 3348.4495255402912,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "2x Security Lockers"
+  },
+  {
+    "id": "6e45cdd6-2479-4d6d-82bf-2e104e25e8eb",
+    "mapID": "spaceport",
+    "lat": 2444.0,
+    "lng": 3176.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "5a67883d-f445-49bd-900d-e2f50baaf660",
+    "mapID": "spaceport",
+    "lat": 2204.1953876575435,
+    "lng": 3977.897799684102,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Fuel Container"
+  },
+  {
+    "id": "e6b72230-3fe7-48a7-a92e-7ce78b3a1996",
+    "mapID": "spaceport",
+    "lat": 1377.6200839171365,
+    "lng": 3521.6741870825567,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "6091f087-56cb-4c67-af99-a0a16189b7f7",
+    "mapID": "spaceport",
+    "lat": 1487.1034973109029,
+    "lng": 2463.4425387281367,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "9430b2f5-3ffa-4eac-bcc6-e624cb957710",
+    "mapID": "spaceport",
+    "lat": 2590.687700033428,
+    "lng": 3657.4064821908687,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Containers Med Crate"
+  },
+  {
+    "id": "5cc89eed-2cff-4649-9c94-4c82f7162d93",
+    "mapID": "spaceport",
+    "lat": 2193.75,
+    "lng": 4793.75,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "a957d3b4-8375-4def-98d6-2f6e47b0588a",
+    "mapID": "spaceport",
+    "lat": 1038.4751131761261,
+    "lng": 3421.94347342033,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Tower Util Bag"
+  },
+  {
+    "id": "3391344c-a1a7-4146-b85d-5186ac46a108",
+    "mapID": "spaceport",
+    "lat": 2823.17769101646,
+    "lng": 3772.1649687886315,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "15a85f24-fc9a-4057-90a8-dbc1d3365b31",
+    "mapID": "spaceport",
+    "lat": 2561.552125715861,
+    "lng": 2839.826590626498,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "cd089634-68cd-4c70-adc2-05796c81bc41",
+    "mapID": "spaceport",
+    "lat": 1839.5,
+    "lng": 2480.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "fa6876c8-0a9c-461f-9e0d-84704aa96096",
+    "mapID": "spaceport",
+    "lat": 1420.5078988707503,
+    "lng": 2829.718330148975,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "1b6cacac-23c6-4eb0-8469-5ec13ecd065a",
+    "mapID": "spaceport",
+    "lat": 1743.0,
+    "lng": 2425.5,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "fc7eabf0-3717-4d4b-82b6-36167986fb14",
+    "mapID": "spaceport",
+    "lat": 2558.416249257736,
+    "lng": 4619.528601491715,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "725ae499-0b4b-46e2-8cf8-bc1124b902af",
+    "mapID": "spaceport",
+    "lat": 2738.0542406435475,
+    "lng": 4592.658543806626,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "c5155ab2-4b04-408f-904c-64187c14a0d1",
+    "mapID": "spaceport",
+    "lat": 3103.0796864033296,
+    "lng": 4581.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "2527355b-9b05-4c85-9c84-f6659a6ce8af",
+    "mapID": "spaceport",
+    "lat": 1206.6104222679107,
+    "lng": 2961.742081112237,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "6c5ed8eb-4d11-4864-a575-07f028b08e0e",
+    "mapID": "spaceport",
+    "lat": 2316.4818151671298,
+    "lng": 4964.59671071075,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "363ff9fc-7d64-4bb5-904a-fba8ab4fc5c7",
+    "mapID": "spaceport",
+    "lat": 2903.8043733326326,
+    "lng": 4828.180886911048,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier"
+  },
+  {
+    "id": "30ad1c1b-3fba-4cd6-9ffa-62648e032f2a",
+    "mapID": "spaceport",
+    "lat": 2066.1660146270915,
+    "lng": 3033.1345378996953,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "04bbed7d-5543-4d8a-aa40-c0ae4308f195",
+    "mapID": "spaceport",
+    "lat": 1939.947454185293,
+    "lng": 2910.805064754423,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "8ea14600-493a-412a-a67d-c122a1faec6a",
+    "mapID": "spaceport",
+    "lat": 2046.7205781444616,
+    "lng": 2882.1672401163673,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "219df096-e6b9-4690-9a55-a9b2a2c20883",
+    "mapID": "spaceport",
+    "lat": 2209.708691207961,
+    "lng": 2778.9296500631317,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "d1f2863a-4aed-4d06-af44-980cdb701a82",
+    "mapID": "spaceport",
+    "lat": 2824.1506106296006,
+    "lng": 4929.755234424902,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "26e9e2ed-4c3e-4758-89e9-7b2e265782c8",
+    "mapID": "spaceport",
+    "lat": 1260.503726465318,
+    "lng": 3260.9962983539053,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket for Lush Bloom / Cold Snap"
+  },
+  {
+    "id": "c9f87d8e-1d51-4489-8b1f-424c1bde21b0",
+    "mapID": "spaceport",
+    "lat": 3244.1570097274234,
+    "lng": 4230.009708064679,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "baskets location"
+  },
+  {
+    "id": "a8ae0cc7-61b1-4f92-9c73-8c2d3944b1fe",
+    "mapID": "spaceport",
+    "lat": 2606.1473925284636,
+    "lng": 3109.671247952209,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "f867cab8-d0c8-48d4-98e7-4b7f08b9edab",
+    "mapID": "spaceport",
+    "lat": 1111.6650609654107,
+    "lng": 3624.26354974351,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "dd43cd48-7efc-4626-8ef7-f300001dc5ee",
+    "mapID": "spaceport",
+    "lat": 964.4936495384508,
+    "lng": 3939.9989847714423,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "3360215d-6f64-4ed6-a78d-410effe49bdc",
+    "mapID": "spaceport",
+    "lat": 2557.992145253226,
+    "lng": 3956.7223827286075,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Inside Locked Control Tower"
+  },
+  {
+    "id": "dc775674-ee6e-4f07-83c9-f2af47948b61",
+    "mapID": "spaceport",
+    "lat": 1350.5739520663058,
+    "lng": 4198.800066685719,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "3917c7aa-deb4-4b39-bd63-ce8c364973ba",
+    "mapID": "spaceport",
+    "lat": 1974.1474750450657,
+    "lng": 4697.515132501357,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "14f4573c-251e-4f54-8912-e17f06262391",
+    "mapID": "spaceport",
+    "lat": 2312.23917448001,
+    "lng": 4840.853024003104,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "3c61a878-2748-4cbb-866d-0bab3452715b",
+    "mapID": "spaceport",
+    "lat": 1782.700400337875,
+    "lng": 3223.9968560827415,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "c2e07538-0455-405b-bb1f-afb44b64c263",
+    "mapID": "spaceport",
+    "lat": 2796.821477133855,
+    "lng": 3532.605840480855,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "515e4cc4-f215-4376-bdac-6f6dab3e2b73",
+    "mapID": "spaceport",
+    "lat": 2222.0,
+    "lng": 3223.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "bbc1c767-c3af-47d7-a4cc-0a31bc6da0ea",
+    "mapID": "spaceport",
+    "lat": 2540.634664803265,
+    "lng": 5205.013016314176,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "fbd3cde6-4d7e-4866-ad57-a193d8a91ff4",
+    "mapID": "spaceport",
+    "lat": 2339.373827235834,
+    "lng": 3842.896617709476,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "WC underground"
+  },
+  {
+    "id": "1f3fe711-c72d-42ae-9171-184157b82547",
+    "mapID": "spaceport",
+    "lat": 1170.1798011626777,
+    "lng": 3610.432801148261,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "dce56c29-23eb-48c8-8df3-a9b16e5c0e23",
+    "mapID": "spaceport",
+    "lat": 2842.569260369921,
+    "lng": 4029.801545982134,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapong Case"
+  },
+  {
+    "id": "8d1fb44f-7a02-4b23-bb1a-eb615a046c13",
+    "mapID": "spaceport",
+    "lat": 3099.435241247872,
+    "lng": 4291.681541935796,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "042a358c-eb84-4d71-92ac-250cacbf7ddd",
+    "mapID": "spaceport",
+    "lat": 2571.0,
+    "lng": 3360.375,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "inside the vertical pipe"
+  },
+  {
+    "id": "bc5b611f-71d9-4170-bf05-4d70fd442c0d",
+    "mapID": "spaceport",
+    "lat": 2941.25,
+    "lng": 4732.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "81a2e752-7506-4360-a351-445f771d1046",
+    "mapID": "spaceport",
+    "lat": 1839.8813565751275,
+    "lng": 2411.6909189476532,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket Rataria"
+  },
+  {
+    "id": "c36d52ed-ac9c-475f-8d49-4be494995145",
+    "mapID": "spaceport",
+    "lat": 3248.913838187434,
+    "lng": 4247.847814789719,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "e0767879-8154-469d-a251-20712c5cce40",
+    "mapID": "spaceport",
+    "lat": 2499.1187521782185,
+    "lng": 3825.679288963754,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "f12e66f1-a62f-42e1-983d-3f40fc1f0c58",
+    "mapID": "spaceport",
+    "lat": 1689.9852070358484,
+    "lng": 3119.7551185950474,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "0f0bed13-ce3b-43d0-b7bc-5cadd5fcd28c",
+    "mapID": "spaceport",
+    "lat": 1559.6451313260688,
+    "lng": 3015.2346400893994,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "a217263f-c0e9-44a9-b955-9991e36e9beb",
+    "mapID": "spaceport",
+    "lat": 1338.5531367861345,
+    "lng": 3203.9008255562467,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "dbce2a37-a96c-4913-99f9-f1eeda5f8a5a",
+    "mapID": "spaceport",
+    "lat": 1196.175150698409,
+    "lng": 3991.735283209383,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "b7f0ca7b-46c8-41a8-abc9-aa4632c07043",
+    "mapID": "spaceport",
+    "lat": 1637.6276534291335,
+    "lng": 2637.4065531694996,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "f0303b3f-9450-47f8-b70b-1f733875870c",
+    "mapID": "spaceport",
+    "lat": 3200.365291650314,
+    "lng": 4330.321927986417,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "5baea37f-3414-436a-93a8-0f4a3214ece7",
+    "mapID": "spaceport",
+    "lat": 3193.724585133608,
+    "lng": 4786.382395624143,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "b926cae0-635d-43ec-9d21-f2b63bbfc047",
+    "mapID": "spaceport",
+    "lat": 2132.0,
+    "lng": 3492.3743745420556,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "9ebbc76f-88fd-429d-890c-ff975897cca5",
+    "mapID": "spaceport",
+    "lat": 2485.4947247233054,
+    "lng": 3481.631232110793,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "43eca1b2-50a4-4d9b-b77c-291313441719",
+    "mapID": "spaceport",
+    "lat": 2262.0,
+    "lng": 3218.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "a0828778-0d5d-4f8f-a050-d572cb7b8ea3",
+    "mapID": "spaceport",
+    "lat": 2118.0,
+    "lng": 5240.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "10166af6-6c2a-4a7e-a145-a80c21fd0020",
+    "mapID": "spaceport",
+    "lat": 2082.1281359718714,
+    "lng": 2750.294542004715,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "fb90de35-f80c-4dfb-a77f-844147ec20a6",
+    "mapID": "spaceport",
+    "lat": 1383.9397800844167,
+    "lng": 4117.035032139421,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "bf39e62b-3631-4257-87a1-303e9b1d574f",
+    "mapID": "spaceport",
+    "lat": 3196.5887251273143,
+    "lng": 4455.959059915196,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "fe0e9d28-2004-4da2-bd7e-51670db3f62f",
+    "mapID": "spaceport",
+    "lat": 3600.7184501164056,
+    "lng": 4674.963620603026,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "10fcbe00-4a41-4ec6-9d9f-f1dd344138e8",
+    "mapID": "spaceport",
+    "lat": 3481.0,
+    "lng": 4256.0,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "30a8bc32-d6ba-4d0a-8dcc-879be11466fa",
+    "mapID": "spaceport",
+    "lat": 1046.0,
+    "lng": 3414.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "basket"
+  },
+  {
+    "id": "19deb788-0cb9-4101-9da2-d50d6dca87e4",
+    "mapID": "spaceport",
+    "lat": 1858.0,
+    "lng": 3024.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "f21cc1b4-7aa1-4b2c-95e9-0345da4a1d3b",
+    "mapID": "spaceport",
+    "lat": 1397.1493939440468,
+    "lng": 4086.336129925426,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "South Trench Tower Weapon Case"
+  },
+  {
+    "id": "e1e6c2ec-8c32-4ce6-a33a-064b2556274e",
+    "mapID": "spaceport",
+    "lat": 1535.8359287371811,
+    "lng": 3442.195810816113,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "37e12ae9-ec3c-497b-bbd0-35934afdefa3",
+    "mapID": "spaceport",
+    "lat": 2786.310271943183,
+    "lng": 5245.932286560298,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raiders backpack"
+  },
+  {
+    "id": "7b90fcf6-c85c-4888-9e7c-90c2d77fb886",
+    "mapID": "spaceport",
+    "lat": 1273.1457595263787,
+    "lng": 3662.1060197651295,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "73d7cfff-fc46-438b-9b51-ab079f7e83ef",
+    "mapID": "spaceport",
+    "lat": 1962.1917397544898,
+    "lng": 4778.234188080934,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Top of pipes"
+  },
+  {
+    "id": "65fb8b58-a950-4de3-b6ed-ec06479599e3",
+    "mapID": "spaceport",
+    "lat": 1588.515383935579,
+    "lng": 2915.047705441542,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket by rusty tower"
+  },
+  {
+    "id": "5d8a7e73-7471-4e05-bae2-0d5c76eef2e0",
+    "mapID": "spaceport",
+    "lat": 2943.134655667264,
+    "lng": 3188.7619020013904,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": "Locker"
+  },
+  {
+    "id": "32d6502b-97b8-44ae-989f-354ec6c6ced6",
+    "mapID": "spaceport",
+    "lat": 3198.4977973568284,
+    "lng": 3204.061558986087,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": "Locker"
+  },
+  {
+    "id": "b674ae18-7eec-486f-a67e-44b1088e5721",
+    "mapID": "spaceport",
+    "lat": 3273.9968454453037,
+    "lng": 3126.089193825043,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": "Small building above Word \"Fuel storage\""
+  },
+  {
+    "id": "60fd91ab-d64f-42fe-b8b4-e6028de0b418",
+    "mapID": "spaceport",
+    "lat": 2219.3063150014527,
+    "lng": 4118.615902316241,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "59fddd53-1de5-4f5d-9df2-3a260defb576",
+    "mapID": "spaceport",
+    "lat": 1311.6830791010457,
+    "lng": 3673.419728264114,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Ammo Crate"
+  },
+  {
+    "id": "c0bdc928-cc25-4059-9633-dafe94b49145",
+    "mapID": "spaceport",
+    "lat": 3529.0,
+    "lng": 3571.0,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "2e38550c-b98d-43e3-b20e-7a00f1929cb5",
+    "mapID": "spaceport",
+    "lat": 2528.125,
+    "lng": 2820.125,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "942c7a40-fdc0-478e-a815-ad6b22588a49",
+    "mapID": "spaceport",
+    "lat": 1145.512985522207,
+    "lng": 3269.6617562065953,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "27a6f60e-3230-4ed4-b17d-bb4033e3b7e9",
+    "mapID": "spaceport",
+    "lat": 3664.0,
+    "lng": 4428.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "95a864a8-9e67-45ce-9f9c-4f64c3c9c5e5",
+    "mapID": "spaceport",
+    "lat": 1313.8043994446052,
+    "lng": 3272.4901833313415,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "d040bec0-4648-42aa-b82b-17deb06b8919",
+    "mapID": "spaceport",
+    "lat": 2115.274932570719,
+    "lng": 5147.967854183241,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "ARC Wasp Husk"
+  },
+  {
+    "id": "ebc5af99-f61f-44f0-885f-0321ad42b602",
+    "mapID": "spaceport",
+    "lat": 2196.4214366427022,
+    "lng": 5336.7490994077,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "ARC Rocketeer Husk"
+  },
+  {
+    "id": "d55d20d0-15d0-4fe5-9c1d-d4ebf7c90c76",
+    "mapID": "spaceport",
+    "lat": 1125.7139956489837,
+    "lng": 3247.034339208626,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "cd2f56fd-f7c2-41ff-868e-35a4ed977a3b",
+    "mapID": "spaceport",
+    "lat": 2134.6267714298842,
+    "lng": 2628.1477241560137,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "f0032ce9-10a5-45f1-96a9-b79140767df7",
+    "mapID": "spaceport",
+    "lat": 1190.1962254981179,
+    "lng": 3696.8595794770126,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "9e480cb7-f619-4b5f-8d48-749b3006cb03",
+    "mapID": "spaceport",
+    "lat": 3137.1283693771784,
+    "lng": 4746.12559597586,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Nature Baskets"
+  },
+  {
+    "id": "4b34319c-9fd0-4809-8dce-f429c8696578",
+    "mapID": "spaceport",
+    "lat": 2746.367692218632,
+    "lng": 4870.892485357142,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Nature Basket"
+  },
+  {
+    "id": "dc57965f-a464-47be-88d9-9ab01dd257c9",
+    "mapID": "spaceport",
+    "lat": 1051.8536932199067,
+    "lng": 2971.2339768342986,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "c494f3fc-54ba-412e-b786-51b63641b7db",
+    "mapID": "spaceport",
+    "lat": 2065.6620440707497,
+    "lng": 4611.686165355184,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "4b8953df-d65e-488c-afc0-5647fc87fb26",
+    "mapID": "spaceport",
+    "lat": 3368.4904916918513,
+    "lng": 3218.4827093755503,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "08eb0418-d77f-4985-aab4-74b6e30da190",
+    "mapID": "spaceport",
+    "lat": 2105.125,
+    "lng": 5261.0,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "a86c3039-0a50-49f4-a7db-44ae6373bdc2",
+    "mapID": "spaceport",
+    "lat": 2276.8838354206828,
+    "lng": 2875.096172304502,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "56868625-4356-4bcf-a549-48c540c7eeb3",
+    "mapID": "spaceport",
+    "lat": 3288.861615463064,
+    "lng": 3110.995991674095,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "528cf042-4c1c-4af5-a305-0e30de8082f4",
+    "mapID": "spaceport",
+    "lat": 3360.0,
+    "lng": 3188.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "ad04a818-e652-4630-aea6-880b6766b1f1",
+    "mapID": "spaceport",
+    "lat": 2501.156495356478,
+    "lng": 3054.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "raider cache"
+  },
+  {
+    "id": "baf4d163-757c-4b95-aede-ad2506bd0089",
+    "mapID": "spaceport",
+    "lat": 1144.4600211603056,
+    "lng": 3628.4680318197784,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Nature Basket"
+  },
+  {
+    "id": "4b539f71-ab8c-4016-a936-6256a91b0e28",
+    "mapID": "spaceport",
+    "lat": 1158.2877300126504,
+    "lng": 3272.6979804874886,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "0aa9f88c-9f2d-4346-9e73-87645732144c",
+    "mapID": "spaceport",
+    "lat": 2918.7312906517927,
+    "lng": 4713.230638769739,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "c5c1d9f1-64d2-41e0-bd07-5d36033f47b4",
+    "mapID": "spaceport",
+    "lat": 2643.161463982923,
+    "lng": 3435.3220534641105,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "d1e00982-613d-4773-84ce-946116d472e3",
+    "mapID": "spaceport",
+    "lat": 2624.0732649832776,
+    "lng": 2992.4758979814687,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "ab4bd5cc-bded-4915-b254-209a662b771f",
+    "mapID": "spaceport",
+    "lat": 1483.0,
+    "lng": 4293.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "6b22e567-be49-493e-a24c-d83ca79e881a",
+    "mapID": "spaceport",
+    "lat": 1551.5,
+    "lng": 4233.5,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "c72104c5-35d9-43e9-b3b3-f87194af4a43",
+    "mapID": "spaceport",
+    "lat": 1986.25,
+    "lng": 3916.75,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Roof top"
+  },
+  {
+    "id": "70b83c5f-24ac-4f12-b3fc-069323235e6c",
+    "mapID": "spaceport",
+    "lat": 2394.0,
+    "lng": 2924.75,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "e65da0d0-5223-4680-88b8-dd8f1da41ec9",
+    "mapID": "spaceport",
+    "lat": 1122.6115165625688,
+    "lng": 3152.5880618722135,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Fuel Depot Bus Basket"
+  },
+  {
+    "id": "acb0449d-6999-45ed-9550-b7f7403f9ba4",
+    "mapID": "spaceport",
+    "lat": 1867.6309382785,
+    "lng": 4685.474825793697,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "6923351f-d371-4c31-90ae-e786987e1777",
+    "mapID": "spaceport",
+    "lat": 2624.0,
+    "lng": 4602.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "217bd313-7707-4315-ba0c-7af747d3fe35",
+    "mapID": "spaceport",
+    "lat": 2006.0,
+    "lng": 3862.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "32d1b524-780d-4f59-a02f-87039bc9e106",
+    "mapID": "spaceport",
+    "lat": 2454.0,
+    "lng": 3133.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case - Hidden Bunker"
+  },
+  {
+    "id": "67e0d9b3-b844-492a-85a1-fb17ef35af01",
+    "mapID": "spaceport",
+    "lat": 2350.0,
+    "lng": 3052.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case - Hidden Bunker"
+  },
+  {
+    "id": "f942eae5-3ec6-42fc-8e2e-821135899daa",
+    "mapID": "spaceport",
+    "lat": 2347.0,
+    "lng": 3087.0,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Grenade Tube - Hidden Bunker"
+  },
+  {
+    "id": "ba0c72f8-351a-4837-b78e-c0b4324b7ca6",
+    "mapID": "spaceport",
+    "lat": 3112.9985292692513,
+    "lng": 3947.167773200936,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "71c9a1b4-882b-48a8-b5c9-4cf1a8ee9a56",
+    "mapID": "spaceport",
+    "lat": 2817.1134162472054,
+    "lng": 5064.652320248646,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "a1e6d641-69fe-4626-b8de-97fe32f364f8",
+    "mapID": "spaceport",
+    "lat": 3605.3786709094998,
+    "lng": 4583.204221220487,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "13aadb9f-7aad-472e-9bef-53388b1de511",
+    "mapID": "spaceport",
+    "lat": 3180.046416391569,
+    "lng": 4744.532445531333,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "8136d280-b532-445a-b618-01de59c71c70",
+    "mapID": "spaceport",
+    "lat": 3172.4437352877676,
+    "lng": 4713.768443876458,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "b6b1533e-d53c-4f23-b8d4-815fe6207a7f",
+    "mapID": "spaceport",
+    "lat": 3176.510136435609,
+    "lng": 4688.309641090721,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "b9d54212-f229-4932-bf3c-de7ca34665a2",
+    "mapID": "spaceport",
+    "lat": 3261.115129682013,
+    "lng": 4662.120631676566,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "c81f3b12-9882-4127-ab6e-a4654352ce78",
+    "mapID": "spaceport",
+    "lat": 1530.8252491707021,
+    "lng": 4319.264436950705,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Crashed Arc Probe - E Storm"
+  },
+  {
+    "id": "2522e41c-da65-4f20-bc4c-add477601f33",
+    "mapID": "spaceport",
+    "lat": 1474.9808809918468,
+    "lng": 4231.3269786203,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Crashed Arc Probe - E Storm"
+  },
+  {
+    "id": "eee043d9-236f-4f14-b2ab-6bd37892a7f7",
+    "mapID": "spaceport",
+    "lat": 1372.3054705169661,
+    "lng": 3935.086343544004,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Crashed Arc Probe - E Storm"
+  },
+  {
+    "id": "edda228d-b46c-4d40-9403-b0a2c99f0b33",
+    "mapID": "spaceport",
+    "lat": 1640.923045116467,
+    "lng": 3905.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Crashed Arc Probe - E Storm"
+  },
+  {
+    "id": "0e83eb36-70a9-4641-be3a-f9246f5333d1",
+    "mapID": "spaceport",
+    "lat": 1433.5891771357803,
+    "lng": 3088.370877662067,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "428ec275-61d6-4b76-9687-0eee8755a05e",
+    "mapID": "spaceport",
+    "lat": 3160.0602051226806,
+    "lng": 4306.987404207261,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Nature Basket"
+  },
+  {
+    "id": "ec2febf8-876c-4dde-b95a-dadda1862a82",
+    "mapID": "spaceport",
+    "lat": 3733.0,
+    "lng": 4389.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "129c9aa7-5af8-4856-a2d2-2ca3249ea627",
+    "mapID": "spaceport",
+    "lat": 3047.6302269140197,
+    "lng": 2901.966229989591,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "a9460307-08ab-48a4-a7bb-1752c3dde81d",
+    "mapID": "spaceport",
+    "lat": 3346.0,
+    "lng": 5000.75,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag"
+  },
+  {
+    "id": "6b1948b7-546e-4b82-9308-8a681ea09062",
+    "mapID": "spaceport",
+    "lat": 1614.324781448888,
+    "lng": 3390.5770157894954,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Utility Crate in corner"
+  },
+  {
+    "id": "f9a290c7-1dd2-4df6-b547-8832c957efcf",
+    "mapID": "spaceport",
+    "lat": 2044.9441271691894,
+    "lng": 3442.9223723681066,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "b232115f-3a91-4944-99c0-db5ee8586770",
+    "mapID": "spaceport",
+    "lat": 2081.012660777918,
+    "lng": 3373.0845525193954,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "0835533f-fcd8-4008-bf73-4f1e8fa2abee",
+    "mapID": "spaceport",
+    "lat": 2438.8411303134535,
+    "lng": 3155.1552845220303,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "c23d6037-f6da-4d35-9f5f-ff6bc30e5d27",
+    "mapID": "spaceport",
+    "lat": 2326.059568286268,
+    "lng": 3126.1578216958487,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "1260a47b-ea77-4eee-a180-1cc4170f9d88",
+    "mapID": "spaceport",
+    "lat": 2283.9854614416245,
+    "lng": 3007.7275399604373,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "12c51874-5bc6-4c49-827f-f660cd2ce6f7",
+    "mapID": "spaceport",
+    "lat": 2184.0354504885963,
+    "lng": 2677.1045265256307,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "c674f201-fdc6-482d-afe4-10e3f4620a17",
+    "mapID": "spaceport",
+    "lat": 2170.0330871226897,
+    "lng": 2606.0933160774307,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "637ab276-0536-4f7e-9a49-59095ad413a3",
+    "mapID": "spaceport",
+    "lat": 2569.7399199079246,
+    "lng": 4900.383972142965,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "4d7f3c52-3ab9-4a4d-9560-02a6260a4005",
+    "mapID": "spaceport",
+    "lat": 1401.0979108732663,
+    "lng": 2929.111789632915,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "8681875a-938e-4cc8-a188-bd703c2ab341",
+    "mapID": "spaceport",
+    "lat": 1290.49488326233,
+    "lng": 2726.633279393404,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "e998b442-f3f8-4849-b677-ce989ca72493",
+    "mapID": "spaceport",
+    "lat": 1646.3338372540186,
+    "lng": 3357.7196896079463,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "948afed5-3bdf-47a0-b1b9-628637c0b756",
+    "mapID": "spaceport",
+    "lat": 1690.7122781157384,
+    "lng": 3382.4723346176156,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "8f915d8e-1802-445b-81d0-eb96ac795813",
+    "mapID": "spaceport",
+    "lat": 2750.0908207755474,
+    "lng": 3139.103579163811,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "246ff54a-46cd-40af-a2c5-c248279ec780",
+    "mapID": "spaceport",
+    "lat": 2912.118168295321,
+    "lng": 3123.1010528656248,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "41727c1b-6b98-4a34-9879-6ee9069cf0f1",
+    "mapID": "spaceport",
+    "lat": 3280.180291056291,
+    "lng": 3328.133421061132,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "e2d12dac-db93-4a18-a21b-8293e69035cb",
+    "mapID": "spaceport",
+    "lat": 3313.185861847356,
+    "lng": 3236.118894846563,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "5de57180-41a2-4465-90b8-16479b4ee264",
+    "mapID": "spaceport",
+    "lat": 3255.176070760029,
+    "lng": 3219.1162106547404,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "3238068b-9c64-4f6b-bbad-8473fcaebb2d",
+    "mapID": "spaceport",
+    "lat": 3401.529061948298,
+    "lng": 5105.310960166873,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "c301c9a7-b26c-4539-b73c-3b72248b9540",
+    "mapID": "spaceport",
+    "lat": 3407.1474141623376,
+    "lng": 5125.6402801259865,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "9ed86c7e-2d08-4632-8121-4ebb25d90e05",
+    "mapID": "spaceport",
+    "lat": 3333.472556098755,
+    "lng": 4969.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Desk Drawers"
+  },
+  {
+    "id": "1405bf15-0c72-4325-8ff5-4b73ba9c6873",
+    "mapID": "spaceport",
+    "lat": 2087.4446297130494,
+    "lng": 2929.988000552711,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "c49fc7df-5bd4-4ddc-b205-7a573daa4e12",
+    "mapID": "spaceport",
+    "lat": 1586.3355467872052,
+    "lng": 4480.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "9cdf8d7c-d0d9-4e9a-9591-b11a2f3c73dc",
+    "mapID": "spaceport",
+    "lat": 1781.8595039226211,
+    "lng": 2529.4164170831737,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "484cfc21-4af1-4b57-b6ea-6ae012f85754",
+    "mapID": "spaceport",
+    "lat": 1226.1231585774733,
+    "lng": 3637.3572824236003,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "bf593b05-b91a-4361-8614-9cee7413843f",
+    "mapID": "spaceport",
+    "lat": 1072.1667895447108,
+    "lng": 3961.7987932207834,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "549f8bbc-ab65-48ab-a647-ab2ab08a3b22",
+    "mapID": "spaceport",
+    "lat": 2537.4049330280836,
+    "lng": 4937.323302162185,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "8e100f55-32b7-41d2-946d-9784df6b0631",
+    "mapID": "spaceport",
+    "lat": 2285.4963798389163,
+    "lng": 5341.5649693345,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "aa8473e8-f5b9-49ca-baf3-e5d573de870f",
+    "mapID": "spaceport",
+    "lat": 3301.3593262860836,
+    "lng": 5131.149925878166,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "80aeaf69-aacb-4cca-81ec-d7a4176e3844",
+    "mapID": "spaceport",
+    "lat": 2582.8133394517845,
+    "lng": 3282.439156942875,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "b4e96d30-4a97-47fa-963e-b3039e0026d4",
+    "mapID": "spaceport",
+    "lat": 2512.5,
+    "lng": 4586.25,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "88d44171-ecc7-4a38-955a-2278065c5b06",
+    "mapID": "spaceport",
+    "lat": 3204.656238531906,
+    "lng": 4111.14257417541,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "5a371905-9efd-457c-8163-9a30503e98cc",
+    "mapID": "spaceport",
+    "lat": 1196.3423576927376,
+    "lng": 2996.801929806857,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "d65fbb59-346a-463c-9cde-930c53b5008f",
+    "mapID": "spaceport",
+    "lat": 2016.6685399440335,
+    "lng": 2793.0717856868623,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "ab23f9ab-c9a6-4686-83c1-1bbddb11c9ba",
+    "mapID": "spaceport",
+    "lat": 2849.125,
+    "lng": 3319.625,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "61566029-c7e4-4e78-a161-c721c67fc008",
+    "mapID": "spaceport",
+    "lat": 2382.895624791433,
+    "lng": 3309.9089366030153,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "d1711811-00bf-4fb5-96b1-aa3e76ca89a2",
+    "mapID": "spaceport",
+    "lat": 2558.2249821508362,
+    "lng": 3458.3740341633024,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "dde54952-0a68-4e7c-b263-905da4af9109",
+    "mapID": "spaceport",
+    "lat": 2698.2478856170374,
+    "lng": 3840.2045390664725,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "b554f21b-982d-428d-9d62-49690cfbe6e9",
+    "mapID": "spaceport",
+    "lat": 2885.5957876341413,
+    "lng": 3829.599889240738,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "03c7a665-1da2-452b-aac0-2a19e434a81d",
+    "mapID": "spaceport",
+    "lat": 3212.3014260689465,
+    "lng": 2953.5199619474292,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "7aec3155-60fa-4285-aa4c-cb9c41a80744",
+    "mapID": "spaceport",
+    "lat": 3299.259131533489,
+    "lng": 3268.831550099278,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "3c8794ed-f7e4-4ecb-8714-e2df24b302f2",
+    "mapID": "spaceport",
+    "lat": 1431.0,
+    "lng": 2700.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer husk"
+  },
+  {
+    "id": "8c265d56-6e1f-4919-8ec2-2f6797821508",
+    "mapID": "spaceport",
+    "lat": 1254.0,
+    "lng": 2671.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "ef570f2b-ad80-4825-9ac0-1663e117f42a",
+    "mapID": "spaceport",
+    "lat": 3030.0,
+    "lng": 3181.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "455cf493-d3b5-4ddb-a7f9-b6f3e396afbb",
+    "mapID": "spaceport",
+    "lat": 2983.5,
+    "lng": 3226.5,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "35ba3599-c7fb-4bd7-876d-d6b434363cf7",
+    "mapID": "spaceport",
+    "lat": 2866.0,
+    "lng": 3066.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "71c6eca9-1a6d-4c93-b3bf-d76b88cc553a",
+    "mapID": "spaceport",
+    "lat": 3165.717059372173,
+    "lng": 4474.218157957879,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "159f7134-e270-476f-b6ce-172832e794fd",
+    "mapID": "spaceport",
+    "lat": 3103.3282204938337,
+    "lng": 4317.792868224011,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "da7b1261-d0e1-47c4-b616-7f411ac4968b",
+    "mapID": "spaceport",
+    "lat": 2786.5,
+    "lng": 3746.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "8db2be44-3389-46c1-92a1-c64e95dd2516",
+    "mapID": "spaceport",
+    "lat": 1476.193656977896,
+    "lng": 2819.9461285533316,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "26957a32-6fcf-46aa-b79d-805e32d49c64",
+    "mapID": "spaceport",
+    "lat": 1115.1073939311855,
+    "lng": 2945.806850423157,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "50c8d086-938e-4df2-af3f-421d7b5cdeb4",
+    "mapID": "spaceport",
+    "lat": 1055.0033175303288,
+    "lng": 3331.1800461698253,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "a4e93ec7-f82b-4741-8625-901f1b2f8000",
+    "mapID": "spaceport",
+    "lat": 1026.0119395016804,
+    "lng": 3367.242492010339,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "e968ca1a-db00-4e7c-9abb-57dcc636cfd5",
+    "mapID": "spaceport",
+    "lat": 1102.0976938287718,
+    "lng": 3402.321556022785,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "219fa61c-32f4-41ee-9dcc-b8bb11772790",
+    "mapID": "spaceport",
+    "lat": 3005.0,
+    "lng": 3169.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "First wave husk"
+  },
+  {
+    "id": "6cbe21e5-7514-4667-9207-e40ed7152cf9",
+    "mapID": "spaceport",
+    "lat": 1994.606296981811,
+    "lng": 3336.6769757267393,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "first wave husk"
+  },
+  {
+    "id": "509f20ca-cc6b-47f7-ac31-15275475711c",
+    "mapID": "spaceport",
+    "lat": 2009.7457581601718,
+    "lng": 5063.873671949074,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "wasp husk"
+  },
+  {
+    "id": "fbc3b82a-19ca-435d-8082-a989c7bed1da",
+    "mapID": "spaceport",
+    "lat": 2090.471814024528,
+    "lng": 4895.694388898331,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "wasp husk"
+  },
+  {
+    "id": "2e93753a-0e82-4475-91aa-e71871bc9ab1",
+    "mapID": "spaceport",
+    "lat": 1821.2706966266674,
+    "lng": 3000.3695511518654,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "ab663f3f-01cc-4346-9e01-5513e5bfa347",
+    "mapID": "spaceport",
+    "lat": 1307.3989138262043,
+    "lng": 3502.0311912081766,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer (at least 3 spawns)"
+  },
+  {
+    "id": "5adc1aec-bb06-40af-9aba-f7e1fcd7bce6",
+    "mapID": "spaceport",
+    "lat": 2860.729604693137,
+    "lng": 4963.811539242677,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "93ba121e-2650-4ae7-8e57-c7aed4d33ade",
+    "mapID": "spaceport",
+    "lat": 2831.298230159257,
+    "lng": 4785.54149920889,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "063d5df9-8db8-4147-954c-3f3a9a0209a9",
+    "mapID": "spaceport",
+    "lat": 3196.5,
+    "lng": 4397.25,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "8c198ae2-3300-426c-89e0-4a57e586946b",
+    "mapID": "spaceport",
+    "lat": 3145.741292803653,
+    "lng": 4355.247442023243,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "a767a26c-16ff-450b-b694-00beb6430da1",
+    "mapID": "spaceport",
+    "lat": 2497.5011511508856,
+    "lng": 3347.443502137116,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "ee82b495-e9cf-42b1-b833-83935ced9d0f",
+    "mapID": "spaceport",
+    "lat": 1062.8930688806952,
+    "lng": 2986.8640669811944,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "aeeea690-d7e8-4e18-8c15-3bf7a74c2b8a",
+    "mapID": "spaceport",
+    "lat": 1318.8306905380177,
+    "lng": 2816.0424483264437,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "8be1ecfb-bc3d-4bfc-8557-efbf59874631",
+    "mapID": "spaceport",
+    "lat": 1896.7853484293403,
+    "lng": 2704.256979516188,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "5ed68486-9085-4121-9a46-3de4b8691e8a",
+    "mapID": "spaceport",
+    "lat": 2262.011357032492,
+    "lng": 5011.742634912139,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "a287c3c1-0702-40b1-82d0-0fd0bb20f114",
+    "mapID": "spaceport",
+    "lat": 2001.625,
+    "lng": 3952.25,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "08713418-7637-42c6-b138-484068930861",
+    "mapID": "spaceport",
+    "lat": 1928.2801922957149,
+    "lng": 4964.59671071075,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "1e2fbd88-0398-47f6-a7e8-47b7d86085ca",
+    "mapID": "spaceport",
+    "lat": 1013.75,
+    "lng": 3379.5,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "5007ac5a-e0c6-4fac-80fc-0a385cd8e367",
+    "mapID": "spaceport",
+    "lat": 3149.71548161851,
+    "lng": 4205.212838929015,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "6146b91f-1c1c-42f8-b85d-083d232b0a1c",
+    "mapID": "spaceport",
+    "lat": 2726.7660587608507,
+    "lng": 4033.6487139302712,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": "Lockers"
+  },
+  {
+    "id": "c83fd9fd-fd02-4d11-a3c1-b1d82d549735",
+    "mapID": "spaceport",
+    "lat": 1279.4736169620403,
+    "lng": 3655.0022786227973,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "e0925966-279f-447f-bae9-3621d9488c08",
+    "mapID": "spaceport",
+    "lat": 1304.919429350316,
+    "lng": 3707.007300370475,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "d1a2d280-d333-4938-a87e-f3d7961110dc",
+    "mapID": "spaceport",
+    "lat": 3198.76996362513,
+    "lng": 4014.439486421233,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "66d8dec3-dc6d-4ce4-bf0a-cdf8237aefcc",
+    "mapID": "spaceport",
+    "lat": 2837.1102905904245,
+    "lng": 4022.221782425324,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "00925db3-60e8-48ee-8f9b-1b2d370588ae",
+    "mapID": "spaceport",
+    "lat": 2731.0145665328,
+    "lng": 4073.067566727231,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "29a33693-363f-4d6e-a065-ef58c6e50444",
+    "mapID": "spaceport",
+    "lat": 2056.397020940173,
+    "lng": 4602.694593437817,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "c7065455-714c-41c0-aab6-250aa7e8c0c2",
+    "mapID": "spaceport",
+    "lat": 2125.5,
+    "lng": 4966.75,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "6011f882-b6ec-4783-b31c-ac717e35962f",
+    "mapID": "spaceport",
+    "lat": 1443.38171709704,
+    "lng": 3500.8856736545968,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "f080b276-aab3-4f45-9952-5b0d4c08a717",
+    "mapID": "spaceport",
+    "lat": 2847.5190078382266,
+    "lng": 3531.291265245618,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "96e97bf0-f1d7-4e6a-9425-666b0e33ed64",
+    "mapID": "spaceport",
+    "lat": 2545.7441044623906,
+    "lng": 4095.562476632483,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "e5371bad-a6c6-4597-8768-7d21132ef66c",
+    "mapID": "spaceport",
+    "lat": 1465.1031656833525,
+    "lng": 3474.863190037951,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Arc Probe"
+  },
+  {
+    "id": "2f582db1-6445-40b3-9d45-4287343ef8dd",
+    "mapID": "spaceport",
+    "lat": 3351.686142824235,
+    "lng": 4324.665073736925,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "41f21977-06b5-4073-8c75-ac760be9f5e4",
+    "mapID": "spaceport",
+    "lat": 2792.258306026389,
+    "lng": 4053.412451486775,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "c2e4874c-a8ff-46c2-99a6-6633a0debe39",
+    "mapID": "spaceport",
+    "lat": 3140.968322030644,
+    "lng": 4272.339171929119,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "6b17aa04-7069-4338-9ba3-dd827f0ca792",
+    "mapID": "spaceport",
+    "lat": 1568.2718144481776,
+    "lng": 4646.793590692027,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raiders backpack"
+  },
+  {
+    "id": "774fb4b4-e795-4c12-991e-96f51df81882",
+    "mapID": "spaceport",
+    "lat": 2258.5,
+    "lng": 4223.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed probe "
+  },
+  {
+    "id": "f673bf9b-395e-42fc-990f-be5d8687dafe",
+    "mapID": "spaceport",
+    "lat": 2140.572807004898,
+    "lng": 4792.504673460966,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "b4a77ea6-e925-4635-9d53-c421a377319f",
+    "mapID": "spaceport",
+    "lat": 3459.447852353782,
+    "lng": 4189.345940794006,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "828c52d8-076a-487a-bf37-301cb078e080",
+    "mapID": "spaceport",
+    "lat": 3350.131318370799,
+    "lng": 4157.391877014365,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "37e115b7-5c80-49c8-9d05-7d9ab8dcd63b",
+    "mapID": "spaceport",
+    "lat": 2444.4681425618946,
+    "lng": 5081.976436387717,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "79125718-9807-4d92-9d96-06fa9c5256c5",
+    "mapID": "spaceport",
+    "lat": 1535.470742614272,
+    "lng": 4527.5,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Med Crate"
+  },
+  {
+    "id": "c8e18447-9fe2-4d5b-ba74-c73339cf5aec",
+    "mapID": "spaceport",
+    "lat": 1624.0,
+    "lng": 3337.5,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "29150dcd-aaf4-4c1a-94b2-1a62070c1a64",
+    "mapID": "spaceport",
+    "lat": 2850.412697897264,
+    "lng": 3545.9695113730763,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "d8589a20-d5ff-2f30-8381-aa7aa75b9a27",
+    "mapID": "spaceport",
+    "lat": 2611.7749285905315,
+    "lng": 4429.129057864323,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c7cb18b5-b78d-f456-99d0-0fe90bcdeccd",
+    "mapID": "spaceport",
+    "lat": 2580.5638624330495,
+    "lng": 4420.212130240032,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8a205939-0176-2f96-7ed9-a51717cde3a8",
+    "mapID": "spaceport",
+    "lat": 2629.609823537664,
+    "lng": 4425.562286814607,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "56a66a6c-46a2-2b51-dfe6-6a4c1116c996",
+    "mapID": "spaceport",
+    "lat": 2590.0758064048537,
+    "lng": 4424.967824972988,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "7c2db70d-8c47-0274-cbb2-a29597e3dbee",
+    "mapID": "spaceport",
+    "lat": 2574.3216492015526,
+    "lng": 4401.783813149829,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "040c7e38-53eb-2f0b-6815-62ecf04d1da4",
+    "mapID": "spaceport",
+    "lat": 2565.865727347648,
+    "lng": 3918.3565289015496,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "366e65a9-0cca-57c0-d70f-2da195b49d88",
+    "mapID": "spaceport",
+    "lat": 2550.3685181459286,
+    "lng": 3927.4793540786677,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5d918566-339c-c048-5c73-97b8278da2af",
+    "mapID": "spaceport",
+    "lat": 2534.9962864377717,
+    "lng": 3941.101106740392,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b0b08b27-0d87-9668-3001-217ea84310b0",
+    "mapID": "spaceport",
+    "lat": 2515.9997074163093,
+    "lng": 3951.473633996567,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "979221a2-6d71-658e-4fe9-beef85324bf7",
+    "mapID": "spaceport",
+    "lat": 2483.9337719573123,
+    "lng": 4086.710250706851,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "62ac620a-beb5-5bbc-dedd-79af5199c7d9",
+    "mapID": "spaceport",
+    "lat": 2505.335645893871,
+    "lng": 4172.333162987047,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8d312102-822a-b093-d68f-35b33a96ca8f",
+    "mapID": "spaceport",
+    "lat": 1269.772159068922,
+    "lng": 3679.9141721147703,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "0cddd71f-e3f2-5ef5-c18d-68d4f219fdd4",
+    "mapID": "spaceport",
+    "lat": 1279.6701706143272,
+    "lng": 3690.695114008112,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "cc51bae0-974a-861e-15f7-6929a1995f62",
+    "mapID": "spaceport",
+    "lat": 1281.0841722636708,
+    "lng": 3678.323541343622,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "d296599f-fbb3-4cb7-5fb1-6efbe1d433e5",
+    "mapID": "spaceport",
+    "lat": 1290.2751829844037,
+    "lng": 3684.8628011805667,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "46bdaf74-1fb7-faf1-a6cd-89329ca6ccdd",
+    "mapID": "spaceport",
+    "lat": 1310.208938954248,
+    "lng": 3648.190127049598,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "eb354482-4b2c-a67b-a801-48f0d47e0920",
+    "mapID": "spaceport",
+    "lat": 1289.625,
+    "lng": 3663.875,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "499cdb21-28ff-bfdd-ee3c-934617ea4aac",
+    "mapID": "spaceport",
+    "lat": 1303.125,
+    "lng": 3653.5,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "File Drawer"
+  },
+  {
+    "id": "5bac6077-d786-848a-11d5-9a87dcbe9514",
+    "mapID": "spaceport",
+    "lat": 1296.9892273298171,
+    "lng": 3685.2196298927956,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "b0b25eba-856d-8f5c-8ef3-072b938174b0",
+    "mapID": "spaceport",
+    "lat": 1323.5271176859203,
+    "lng": 3661.0453595933495,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "2e7c2c76-df3b-478a-bd5d-70c955fb02c9",
+    "mapID": "spaceport",
+    "lat": 1052.1748904055826,
+    "lng": 3396.2338700389873,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "15396bda-3fd6-4ded-acbc-5b864541de0b",
+    "mapID": "spaceport",
+    "lat": 1987.0,
+    "lng": 2726.5,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Lush Bloom Basket"
+  },
+  {
+    "id": "832c7d70-8825-47cf-97e5-df13474ef48a",
+    "mapID": "spaceport",
+    "lat": 2720.299903345767,
+    "lng": 4952.038989429125,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Baskets"
+  },
+  {
+    "id": "0d3c4272-cf59-4d1f-b019-fc247a9418d0",
+    "mapID": "spaceport",
+    "lat": 1836.7303891217027,
+    "lng": 4427.4180891551305,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "On roof grenade case"
+  },
+  {
+    "id": "4ddde2ec-7e3e-40c6-be83-efd4f05f4d58",
+    "mapID": "spaceport",
+    "lat": 2362.443755944255,
+    "lng": 4231.3269786203,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Inside engine"
+  },
+  {
+    "id": "d58b1715-a8ee-4f0a-9101-e4447701ab4a",
+    "mapID": "spaceport",
+    "lat": 2356.1165965991413,
+    "lng": 4224.360974268416,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Inside the rocket engine"
+  },
+  {
+    "id": "b852cf14-5114-480b-b282-a5e9c609d3cb",
+    "mapID": "spaceport",
+    "lat": 1936.0,
+    "lng": 4782.0,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "On top of Pipes"
+  },
+  {
+    "id": "a1043913-8f0e-4229-b9b4-ef63e9ae5e5c",
+    "mapID": "spaceport",
+    "lat": 2336.0102415748192,
+    "lng": 3826.0786894044013,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag in alcove underground"
+  },
+  {
+    "id": "d7ba0b30-d29f-41a4-a17e-dfd4f6719560",
+    "mapID": "spaceport",
+    "lat": 2337.6920344053265,
+    "lng": 3836.169446387446,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Underground, in alcove"
+  },
+  {
+    "id": "95695552-55bb-4218-a547-93c4f1aca6d6",
+    "mapID": "spaceport",
+    "lat": 1437.1567984807884,
+    "lng": 4367.9577334049945,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "48654a0e-d77b-4805-a37b-91f2b04aa3e5",
+    "mapID": "spaceport",
+    "lat": 1981.2190535945333,
+    "lng": 4327.524691494902,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Inside breach room"
+  },
+  {
+    "id": "00be328c-aa16-4ac0-b88b-d3f956d736c5",
+    "mapID": "spaceport",
+    "lat": 3678.5,
+    "lng": 4312.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "fca580d0-58ea-4ff6-9851-78e541aec0f2",
+    "mapID": "spaceport",
+    "lat": 3604.0820357774205,
+    "lng": 4593.817116531042,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "477329ec-fa9b-4f8d-a738-aaa289a42748",
+    "mapID": "spaceport",
+    "lat": 1424.442345751912,
+    "lng": 2737.917456754312,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "9f5106af-70c8-4866-ba5d-fa1e20e6a95b",
+    "mapID": "spaceport",
+    "lat": 1436.8301468048198,
+    "lng": 2764.9642911346973,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "7c70ba7a-6b00-4e74-b9c5-c2d5c559edd7",
+    "mapID": "spaceport",
+    "lat": 1467.7359060028693,
+    "lng": 2757.25,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "58e86697-3a04-484b-9529-1b7181a3b1de",
+    "mapID": "spaceport",
+    "lat": 1451.3387729982592,
+    "lng": 2764.080407658214,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "81dfff80-1b4f-4c1f-a19d-3890ce98be01",
+    "mapID": "spaceport",
+    "lat": 1765.9632837938489,
+    "lng": 2458.963831576219,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "File Drawer"
+  },
+  {
+    "id": "a22e0478-81a0-4c46-a23e-9f2b2d417d7e",
+    "mapID": "spaceport",
+    "lat": 1781.4843302764823,
+    "lng": 2424.75,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "255a72a9-60eb-4ba4-91c0-77a77aaeb845",
+    "mapID": "spaceport",
+    "lat": 1863.1387174905392,
+    "lng": 2435.2757544064693,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Control Panel"
+  },
+  {
+    "id": "0a7f9e75-bf7c-44d6-be7e-c62857f48329",
+    "mapID": "spaceport",
+    "lat": 1879.6169589022284,
+    "lng": 2608.4920485242214,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "69907025-deec-4203-ac3e-059cdd66abb4",
+    "mapID": "spaceport",
+    "lat": 1918.4599065174796,
+    "lng": 2746.5,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "86f78e83-e741-4218-9536-7802da7bd20a",
+    "mapID": "spaceport",
+    "lat": 1895.985030599321,
+    "lng": 2618.625,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "76459aee-55cd-40c7-ab03-3ba0432af587",
+    "mapID": "spaceport",
+    "lat": 1857.4679602301255,
+    "lng": 2422.5,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Data Processing"
+  },
+  {
+    "id": "491873b3-b2c1-4fa7-b489-a1354b902403",
+    "mapID": "spaceport",
+    "lat": 1736.4996498385806,
+    "lng": 2393.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Cabinet Drawer"
+  },
+  {
+    "id": "48489683-2fb9-45fa-b055-4a16808d789a",
+    "mapID": "spaceport",
+    "lat": 1404.722246485418,
+    "lng": 2715.8851971656845,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "3 Drawers Tables"
+  },
+  {
+    "id": "a50e8dfe-94a2-4817-b196-ea109cc54da6",
+    "mapID": "spaceport",
+    "lat": 1736.242387903973,
+    "lng": 2412.009331004269,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "File Drawer"
+  },
+  {
+    "id": "c4b366a3-f2ea-4727-bac5-a25610d41927",
+    "mapID": "spaceport",
+    "lat": 2145.5387508152817,
+    "lng": 3321.8108813191034,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "8a20dd09-7f2c-4d43-8e8d-0ab3bc95d3e4",
+    "mapID": "spaceport",
+    "lat": 1334.3104960990152,
+    "lng": 4180.415290374869,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": null
+  },
+  {
+    "id": "46b8687f-b1de-4b71-a19d-8f0e09ba2fab",
+    "mapID": "spaceport",
+    "lat": 1290.375,
+    "lng": 3663.625,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "73012805-6298-495d-a127-be039465756c",
+    "mapID": "spaceport",
+    "lat": 1273.7894710572896,
+    "lng": 3699.6233347734656,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Data Center"
+  },
+  {
+    "id": "2dd5b67e-9dc8-407a-9f69-359ea79c4136",
+    "mapID": "spaceport",
+    "lat": 3592.5,
+    "lng": 4599.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "3 Drawers Tables"
+  },
+  {
+    "id": "52635ccb-17c1-4356-88c9-4928776b72bc",
+    "mapID": "spaceport",
+    "lat": 3354.106966686901,
+    "lng": 5153.75,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Industrial Trailer"
+  },
+  {
+    "id": "a45c0a51-9153-4914-b395-d88f485fced4",
+    "mapID": "spaceport",
+    "lat": 3408.48419896595,
+    "lng": 5121.75,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "19cda6e8-a8a9-4abe-a1bd-9e4d8d1daa48",
+    "mapID": "spaceport",
+    "lat": 3413.201677724124,
+    "lng": 5098.75,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "835d77b6-dab6-45d8-9568-b5233700e5f2",
+    "mapID": "spaceport",
+    "lat": 3421.448788892414,
+    "lng": 5104.75,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "e684e1c8-a3bf-4bf7-919b-cac94c42e90a",
+    "mapID": "spaceport",
+    "lat": 3599.61904725587,
+    "lng": 4664.625,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "c84fd6b2-ff65-4c8a-a91e-069a40c52e2e",
+    "mapID": "spaceport",
+    "lat": 3598.494441187467,
+    "lng": 4664.75,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "PC"
+  },
+  {
+    "id": "6a7394ec-b821-4ebb-b5b6-31bba02486ec",
+    "mapID": "spaceport",
+    "lat": 3660.4762179701142,
+    "lng": 4631.195863381293,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "0357b6cb-0afc-4f60-8532-4ca849cdf80e",
+    "mapID": "spaceport",
+    "lat": 3692.792988905366,
+    "lng": 4553.7676708413655,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "bded78fb-a11d-4eac-89b5-45f34e8ce3e3",
+    "mapID": "spaceport",
+    "lat": 3717.9498138709823,
+    "lng": 4563.667165777977,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "dc03c992-d0ea-4f99-903c-1a3d5e709c9b",
+    "mapID": "spaceport",
+    "lat": 3753.646202444438,
+    "lng": 4568.086583160393,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "85859e8d-30da-42bc-a8d4-adaa0239ee50",
+    "mapID": "spaceport",
+    "lat": 3737.9185856967274,
+    "lng": 4523.185302555047,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "53a68ab9-3d24-4837-861c-c0af1b94cd7e",
+    "mapID": "spaceport",
+    "lat": 1300.8997006879508,
+    "lng": 2721.830777482318,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "2928ac1a-79bb-4b92-b120-1114e3e54e37",
+    "mapID": "spaceport",
+    "lat": 1314.25,
+    "lng": 2725.75,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "179bc76b-57e3-4f25-9026-e64670b9421b",
+    "mapID": "spaceport",
+    "lat": 1206.5,
+    "lng": 2789.625,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "1bfb9bea-44d8-44ab-bf8e-1482eeb64942",
+    "mapID": "spaceport",
+    "lat": 1395.25,
+    "lng": 2723.375,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "a4537c7c-e133-4395-a19f-f39f8a5d4ea8",
+    "mapID": "spaceport",
+    "lat": 1917.5,
+    "lng": 2626.5,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Storage Box"
+  },
+  {
+    "id": "3398a39e-b935-47f2-8c5d-7e9aac07aff8",
+    "mapID": "spaceport",
+    "lat": 2042.6506510008871,
+    "lng": 2776.29578115249,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "67c687cc-b538-40b4-ac12-6debb4e7dc9b",
+    "mapID": "spaceport",
+    "lat": 1874.125,
+    "lng": 2885.875,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "3 Drawers Tables"
+  },
+  {
+    "id": "350b3020-ca19-454e-821f-9c5bb0be05a0",
+    "mapID": "spaceport",
+    "lat": 1881.875,
+    "lng": 2874.125,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "3 Drawers Tables"
+  },
+  {
+    "id": "6158824a-dd5d-4ec0-a20b-f073cf2570c3",
+    "mapID": "spaceport",
+    "lat": 2361.125,
+    "lng": 2751.375,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "86fff4ef-aa26-414a-9835-babed7aee46a",
+    "mapID": "spaceport",
+    "lat": 2445.326775557802,
+    "lng": 2760.4527071741313,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "e3ca73ac-9774-40f9-a4c3-af8c5a83f490",
+    "mapID": "spaceport",
+    "lat": 2455.207308437033,
+    "lng": 2778.952428309713,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "6c4dfe30-6914-4c68-8da5-32a2bc35bb1c",
+    "mapID": "spaceport",
+    "lat": 3331.125,
+    "lng": 4984.875,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "3 Drawers Tables"
+  },
+  {
+    "id": "e17bccf4-3a3d-46a4-bcbb-d4b3b74d82ca",
+    "mapID": "spaceport",
+    "lat": 3177.0,
+    "lng": 4721.125,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "4bf5e6c8-6719-4057-953b-1d5698d725fb",
+    "mapID": "spaceport",
+    "lat": 3132.5,
+    "lng": 4811.875,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "f5f89e4d-dc6d-499e-a0f2-ce47bbbf4deb",
+    "mapID": "spaceport",
+    "lat": 2809.8553715702874,
+    "lng": 5108.445722666316,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Industrial Trailer"
+  },
+  {
+    "id": "b32f1015-1316-4f0f-a874-efc33e05eea7",
+    "mapID": "spaceport",
+    "lat": 2827.0937480829884,
+    "lng": 4995.765603022318,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Trash Can"
+  },
+  {
+    "id": "e9f70f79-cbc5-4bd9-a51d-586bad094c9a",
+    "mapID": "spaceport",
+    "lat": 2659.7821574331983,
+    "lng": 4993.588088739399,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "77cb656d-3b5b-414b-afdd-d16a0db923d2",
+    "mapID": "spaceport",
+    "lat": 2114.25,
+    "lng": 5241.75,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "393d2aef-6dcc-4345-9e5c-35047321a5d6",
+    "mapID": "spaceport",
+    "lat": 2097.375,
+    "lng": 5255.25,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Industrial Trailer"
+  },
+  {
+    "id": "cff64d5d-c06e-4875-b1c5-b36928bc89b7",
+    "mapID": "spaceport",
+    "lat": 2085.25,
+    "lng": 5268.125,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "9595ab9a-75ae-4fa0-bd63-165470272f13",
+    "mapID": "spaceport",
+    "lat": 2058.75,
+    "lng": 5238.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "a4049e78-452e-4bd8-b591-68034cd68eb8",
+    "mapID": "spaceport",
+    "lat": 1566.034774329699,
+    "lng": 3431.87992561151,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Med & Ammo box"
+  },
+  {
+    "id": "fad5847c-4b39-4d85-af0a-6357ffad78b6",
+    "mapID": "spaceport",
+    "lat": 2158.75,
+    "lng": 5188.125,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Data Server"
+  },
+  {
+    "id": "cebb90e5-73b4-46ff-807b-85bb3642f3eb",
+    "mapID": "spaceport",
+    "lat": 2172.125,
+    "lng": 4947.625,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "e7bdc8e0-108a-448c-9902-3a0800074c0d",
+    "mapID": "spaceport",
+    "lat": 2180.0,
+    "lng": 4960.5,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "e6c546d1-349a-4b2e-8225-d5dda5a84c0e",
+    "mapID": "spaceport",
+    "lat": 2023.0,
+    "lng": 5018.375,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Data Server"
+  },
+  {
+    "id": "9dc6d90e-fac9-4838-ba20-2199dd9de6c7",
+    "mapID": "spaceport",
+    "lat": 2019.75,
+    "lng": 5030.125,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Data Server"
+  },
+  {
+    "id": "9d8a46a9-d681-40ec-af12-3b13e572aa60",
+    "mapID": "spaceport",
+    "lat": 1992.6269093836909,
+    "lng": 3388.4556954459354,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "06ddc483-2624-46fd-bfa1-69bd60a5ebde",
+    "mapID": "spaceport",
+    "lat": 2099.508124784712,
+    "lng": 3307.6660494004864,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "e5eafc44-6ff9-4f94-a608-4c12401af494",
+    "mapID": "spaceport",
+    "lat": 3707.58031198937,
+    "lng": 4371.47833834305,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Industrial Organizer"
+  },
+  {
+    "id": "28001cc4-7244-4881-8f58-689a2fae4c08",
+    "mapID": "spaceport",
+    "lat": 3507.2416805315593,
+    "lng": 4257.136376133609,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "2f4df22d-ee51-4f26-89b7-c2e7c0b5f553",
+    "mapID": "spaceport",
+    "lat": 3481.0882232949957,
+    "lng": 4223.5488040272485,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "82b6de19-bafc-454d-b49f-eeabee269f91",
+    "mapID": "spaceport",
+    "lat": 3500.526603673523,
+    "lng": 4192.789659045633,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "b0016317-631b-4052-bfbb-900df1cf2cee",
+    "mapID": "spaceport",
+    "lat": 3484.3640232780685,
+    "lng": 4127.125,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "PC"
+  },
+  {
+    "id": "9d1c754c-e50f-4790-9b8c-98aaa8ff5ab6",
+    "mapID": "spaceport",
+    "lat": 3393.7482310241517,
+    "lng": 4086.125,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Storage Box"
+  },
+  {
+    "id": "bb9e9ce9-cbb5-4d14-94b0-c94461bdfef3",
+    "mapID": "spaceport",
+    "lat": 3355.5684306022617,
+    "lng": 4201.274940419872,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "513729f0-a13c-4b71-bd92-f9d01c787032",
+    "mapID": "spaceport",
+    "lat": 3217.99990928329,
+    "lng": 3770.5,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Telecommunications Module"
+  },
+  {
+    "id": "55358a05-334b-4868-9b51-679982914d48",
+    "mapID": "spaceport",
+    "lat": 3221.4986392493474,
+    "lng": 3778.75,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Data Server"
+  },
+  {
+    "id": "1ab823e3-7158-4a72-ac6a-b8208b757ffa",
+    "mapID": "spaceport",
+    "lat": 3243.297203950235,
+    "lng": 3726.2759601578086,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "6e879cb0-7523-48e7-a981-8ab03ba4df46",
+    "mapID": "spaceport",
+    "lat": 3210.9369708464737,
+    "lng": 3009.597567292939,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "8eefc60c-0df4-460c-961b-68910ca84cc3",
+    "mapID": "spaceport",
+    "lat": 3282.7367710972144,
+    "lng": 3116.619101569197,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Industrial Trailer"
+  },
+  {
+    "id": "b3f4b9c6-1a57-4d19-8898-fbf9af50dc1e",
+    "mapID": "spaceport",
+    "lat": 3298.8550788287466,
+    "lng": 3133.7396370110755,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "47c94019-c4a7-4de1-9ffd-1ec0eae5ea89",
+    "mapID": "spaceport",
+    "lat": 3313.984332828858,
+    "lng": 3298.599353231812,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Storage Box"
+  },
+  {
+    "id": "2344c4ed-508c-493e-bfe1-85057fbebdd1",
+    "mapID": "spaceport",
+    "lat": 3322.730701365348,
+    "lng": 3302.223408179363,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Electrical Transformer"
+  },
+  {
+    "id": "815134f2-bc4a-41b4-94b4-4175860882e7",
+    "mapID": "spaceport",
+    "lat": 3393.4573562427854,
+    "lng": 3370.945252133983,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "PC"
+  },
+  {
+    "id": "36de1f58-d212-47be-b453-dcea041f9da9",
+    "mapID": "spaceport",
+    "lat": 3514.123529875342,
+    "lng": 3566.987207413353,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "3797431b-53aa-4663-815c-56ea7db2d88f",
+    "mapID": "spaceport",
+    "lat": 1396.2621953847463,
+    "lng": 2774.2606585661065,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "59eaebd2-26b6-449d-b726-a9d7ab693277",
+    "mapID": "spaceport",
+    "lat": 1997.227381170139,
+    "lng": 2826.997914367009,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "d059f035-0bde-4e53-9b39-01eb483db140",
+    "mapID": "spaceport",
+    "lat": 1224.864431503264,
+    "lng": 2818.6470359630785,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Industrial Organizer"
+  },
+  {
+    "id": "bca0e257-a1a6-460d-9699-5dead2fa0967",
+    "mapID": "spaceport",
+    "lat": 1817.7391687190045,
+    "lng": 4748.442176540805,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "14d10dd2-0575-4add-910b-80608b3290f0",
+    "mapID": "spaceport",
+    "lat": 1144.8058787410203,
+    "lng": 3628.8720010493616,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket with candleberries"
+  },
+  {
+    "id": "2ef10cdd-ffec-499d-8ced-6d33e74509ad",
+    "mapID": "spaceport",
+    "lat": 2501.0,
+    "lng": 4095.0,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Case on Roof of Flight Control"
+  },
+  {
+    "id": "2ee98691-b21d-44db-b801-5a07e8d8a43f",
+    "mapID": "spaceport",
+    "lat": 2265.017831557003,
+    "lng": 5310.902402463425,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raiders backpack"
+  },
+  {
+    "id": "b9080416-786e-4abb-bd6f-d04c2d200a54",
+    "mapID": "spaceport",
+    "lat": 2901.3028567291285,
+    "lng": 4549.45983062641,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier"
+  },
+  {
+    "id": "aa599e13-f131-4ea8-89b8-332c970c9000",
+    "mapID": "spaceport",
+    "lat": 3215.616038967358,
+    "lng": 4512.446397877825,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier"
+  },
+  {
+    "id": "12a97271-3e51-48fe-82dd-64d1266d0d32",
+    "mapID": "spaceport",
+    "lat": 1683.4746233379365,
+    "lng": 2991.9094454727165,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "f6c5a0da-1a06-4f48-8957-2c492582c48f",
+    "mapID": "spaceport",
+    "lat": 1588.875,
+    "lng": 2917.125,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "c228c2d7-f7a7-4250-b797-e365ee69fd0a",
+    "mapID": "spaceport",
+    "lat": 3571.7039903963646,
+    "lng": 4462.637275751464,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "2b2b1a9a-0aa4-4e21-8d7b-5d49dad16325",
+    "mapID": "spaceport",
+    "lat": 3602.1906886086936,
+    "lng": 4510.778596040847,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "8151aa95-160d-4b76-a843-9979a139da26",
+    "mapID": "spaceport",
+    "lat": 3622.3651357872072,
+    "lng": 4520.238680712452,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "3b16672f-e7d2-4646-b62b-0c0825aaaff1",
+    "mapID": "spaceport",
+    "lat": 3678.172711314935,
+    "lng": 4566.495593336718,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "a8beeb58-20d6-4832-ad8a-59c329c40d0e",
+    "mapID": "spaceport",
+    "lat": 1778.6391198652352,
+    "lng": 4670.981941455692,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Candleberry Basket"
+  },
+  {
+    "id": "cff85e97-66b4-4a47-9567-49056f467cba",
+    "mapID": "spaceport",
+    "lat": 3735.63212112789,
+    "lng": 4545.886020861581,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Engine Hood"
+  },
+  {
+    "id": "c52ce468-57b8-415d-a4c1-8a9c9f66527d",
+    "mapID": "spaceport",
+    "lat": 1030.4009637982329,
+    "lng": 3396.5874234295807,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Storage Box"
+  },
+  {
+    "id": "f059a556-8225-4678-b6a1-9b9ba4321eee",
+    "mapID": "spaceport",
+    "lat": 3048.875,
+    "lng": 3626.5,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Double basket inside the tower"
+  },
+  {
+    "id": "023cc5b5-d331-404b-97a6-f315082f92fd",
+    "mapID": "spaceport",
+    "lat": 3131.1823338021645,
+    "lng": 4775.558472072177,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "c2c42f50-abdd-4643-922b-15b0db61c302",
+    "mapID": "spaceport",
+    "lat": 1205.004563058573,
+    "lng": 3646.547304747733,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "785bb48d-4ad8-4e6f-89a1-1049e25e2cd7",
+    "mapID": "spaceport",
+    "lat": 1805.9507191504422,
+    "lng": 2991.061684419096,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "e6769fba-1f53-4f5e-a221-6ad1f405c3fd",
+    "mapID": "spaceport",
+    "lat": 3110.0,
+    "lng": 4562.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "2 spawns next to generator"
+  },
+  {
+    "id": "0e70db95-8b9f-418d-ac53-2d2f6c911b75",
+    "mapID": "spaceport",
+    "lat": 3103.375,
+    "lng": 4584.375,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Double basket spawn next to the generator"
+  },
+  {
+    "id": "8e26e8a6-4a59-4231-9bdc-16b2c666e268",
+    "mapID": "spaceport",
+    "lat": 2259.2784436829174,
+    "lng": 5319.720946998812,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Double basket spawn next to generator"
+  },
+  {
+    "id": "81a199e6-1967-49b7-9443-250f1dd6836e",
+    "mapID": "spaceport",
+    "lat": 2115.66348931015,
+    "lng": 2914.6941520509486,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "643178b0-f3a3-4fb1-aa99-fc0b898fd675",
+    "mapID": "spaceport",
+    "lat": 2691.0,
+    "lng": 4618.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "d6a2f5e8-bf3f-4be1-9b86-0fd73b882c37",
+    "mapID": "spaceport",
+    "lat": 2846.1047942758537,
+    "lng": 3652.913631609704,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier"
+  },
+  {
+    "id": "01b940ba-5fa9-4519-8d5a-20b37f678269",
+    "mapID": "spaceport",
+    "lat": 2564.2981854915265,
+    "lng": 4402.446819667444,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "2f6e45d4-fbd5-45c5-bd10-5d48421fd6a7",
+    "mapID": "spaceport",
+    "lat": 1303.3709980429824,
+    "lng": 3719.542553949761,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Warehouse med crate"
+  },
+  {
+    "id": "e585d684-38ae-420f-9ab0-014487893c1f",
+    "mapID": "spaceport",
+    "lat": 2268.738528354522,
+    "lng": 5331.283272708551,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "15f21764-ee9a-4e7f-bb66-6ab93308d179",
+    "mapID": "spaceport",
+    "lat": 3311.1065658377,
+    "lng": 3073.9855908740356,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "0fd0e6f8-8021-4e23-91c4-49cb6d102b91",
+    "mapID": "spaceport",
+    "lat": 2294.5615049503467,
+    "lng": 5267.591966449186,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "8a91938c-9301-4ad7-bfe3-37a61c986a9c",
+    "mapID": "spaceport",
+    "lat": 2461.361426276882,
+    "lng": 2996.801929806857,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "b243640b-099d-496a-92dc-0d7bf6df46e8",
+    "mapID": "spaceport",
+    "lat": 2463.0,
+    "lng": 5083.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "8eaba2a5-bea1-4bde-82cf-8ce95829bbbb",
+    "mapID": "spaceport",
+    "lat": 2505.5,
+    "lng": 3033.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "5fc0d4bf-746c-4c61-b68f-bfca0da7df33",
+    "mapID": "spaceport",
+    "lat": 1972.7429901852145,
+    "lng": 3533.4467368961086,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "d0debfc2-ea4e-4686-b0bc-69ec14d9a6f0",
+    "mapID": "spaceport",
+    "lat": 2455.712692480619,
+    "lng": 4787.747845000955,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "5375f3f6-ba88-1ecc-2713-e830e10d0042",
+    "mapID": "spaceport",
+    "lat": 2536.143588405203,
+    "lng": 4123.7560204042165,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "ARC Probe"
+  },
+  {
+    "id": "064f80da-74ae-fbac-f50e-14cbc69bc6a7",
+    "mapID": "spaceport",
+    "lat": 2371.327891015475,
+    "lng": 4191.0277336245135,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "ARC Probe"
+  },
+  {
+    "id": "4e8b7320-933f-2bed-415d-bd15d8058020",
+    "mapID": "spaceport",
+    "lat": 2959.955381693075,
+    "lng": 4244.845104200751,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "ARC Probe"
+  },
+  {
+    "id": "f5232d85-0aab-f3a1-a382-e2d300f6902d",
+    "mapID": "spaceport",
+    "lat": 2112.331795117331,
+    "lng": 3905.1229524382506,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "ARC Probe"
+  },
+  {
+    "id": "542e5062-6256-edbc-0dc2-ff849cb89416",
+    "mapID": "spaceport",
+    "lat": 2253.602392879955,
+    "lng": 3891.668609794191,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "ARC Probe"
+  },
+  {
+    "id": "bff6f040-92c3-4056-aa6a-7f97de7c2612",
+    "mapID": "spaceport",
+    "lat": 3388.4556954459354,
+    "lng": 4079.2990206651925,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "8de06fdb-f1f5-4e77-ad64-12635671dd45",
+    "mapID": "spaceport",
+    "lat": 1755.0390309050108,
+    "lng": 4628.7209896471395,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Arc Probe"
+  },
+  {
+    "id": "6dd95584-21fc-4dc1-bbe3-6433eac6b0cc",
+    "mapID": "spaceport",
+    "lat": 1810.5,
+    "lng": 4681.5,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp husk"
+  }
+]

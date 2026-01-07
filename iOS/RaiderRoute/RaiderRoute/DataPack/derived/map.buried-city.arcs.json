@@ -1,0 +1,857 @@
+[
+  {
+    "id": "22b5de50-45c3-edb1-f535-041e692a74bc",
+    "mapID": "buried-city",
+    "lat": 5024.0,
+    "lng": 7358.0,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": ""
+  },
+  {
+    "id": "f81691f1-28f0-a197-ad41-d2984ed7165e",
+    "mapID": "buried-city",
+    "lat": 5283.0,
+    "lng": 7731.0,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": ""
+  },
+  {
+    "id": "67e3d4c9-b6f6-cf5f-92a9-2eee10fd3643",
+    "mapID": "buried-city",
+    "lat": 4108.315555942581,
+    "lng": 6737.318807106827,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "4308bd09-cbe4-55cd-cbbc-175909ff5cf9",
+    "mapID": "buried-city",
+    "lat": 4167.7224003701685,
+    "lng": 6898.538723049807,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "486bdc6b-a6d3-4e06-7639-8fa53d3c2f31",
+    "mapID": "buried-city",
+    "lat": 3372.8533813801237,
+    "lng": 7310.779280387563,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "ebe9799b-0d5f-69c3-e5ef-8fda56b9a652",
+    "mapID": "buried-city",
+    "lat": 3423.0663094082024,
+    "lng": 7620.4912241727625,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "d918c18b-7789-3047-1d86-de605ba5660a",
+    "mapID": "buried-city",
+    "lat": 4067.0998003105815,
+    "lng": 7823.796128995218,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "e3226b9a-fc27-0c08-986b-f8deab6ab88d",
+    "mapID": "buried-city",
+    "lat": 4155.115757132755,
+    "lng": 7927.256871946133,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "14ce6191-bd95-3d9c-c8f7-11f481665a07",
+    "mapID": "buried-city",
+    "lat": 4170.684188432986,
+    "lng": 7364.763721527687,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "51cd9cde-f2fc-7cdf-7e27-6437d26042c2",
+    "mapID": "buried-city",
+    "lat": 4858.161928512053,
+    "lng": 8598.004359832972,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "5ac6b706-624b-6297-e87c-b4927c436a13",
+    "mapID": "buried-city",
+    "lat": 4186.090939318371,
+    "lng": 7813.00288698854,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "72329fb3-9c98-8824-a13f-9ca9512e205c",
+    "mapID": "buried-city",
+    "lat": 3754.6609304671997,
+    "lng": 6337.000352852462,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "376258cb-30b0-b43e-742d-26c5c626eb2a",
+    "mapID": "buried-city",
+    "lat": 5415.608896469824,
+    "lng": 6417.726244928412,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "205b1c61-fb35-e7bb-f811-43890d291068",
+    "mapID": "buried-city",
+    "lat": 3731.9426824537,
+    "lng": 7192.333439890451,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "ae430fbf-025d-3ae7-33b8-4aa32425738a",
+    "mapID": "buried-city",
+    "lat": 5959.300127592121,
+    "lng": 7324.331073074329,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": ""
+  },
+  {
+    "id": "c19b16c0-40df-c3f7-f008-e18809b9eaec",
+    "mapID": "buried-city",
+    "lat": 4832.961637908202,
+    "lng": 6192.2060994931435,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": ""
+  },
+  {
+    "id": "e50c0cb9-a8de-f39e-67ea-2d350ab19773",
+    "mapID": "buried-city",
+    "lat": 4144.524399799785,
+    "lng": 7525.305647642607,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "8dafe7ba-c683-b104-0a19-fc449c8f8743",
+    "mapID": "buried-city",
+    "lat": 4033.909751361108,
+    "lng": 7427.7909244015145,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "7a7741d4-8c5b-7fa8-20b1-80f1fa8d3b76",
+    "mapID": "buried-city",
+    "lat": 4450.707865305382,
+    "lng": 7684.063003142379,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "46ee71a6-5ea5-6dfc-4241-9b5863c57374",
+    "mapID": "buried-city",
+    "lat": 4400.75286278469,
+    "lng": 7389.735027506154,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "9987f080-20b5-d2d7-fe3d-8e741b146a14",
+    "mapID": "buried-city",
+    "lat": 3353.6049896398104,
+    "lng": 7415.89940536013,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "201f3ab9-178f-b824-3ee8-2fdca5c8e1ff",
+    "mapID": "buried-city",
+    "lat": 5606.212967581047,
+    "lng": 7703.000557653055,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "3ffba9a3-bb87-c399-3093-555ee46fc9d9",
+    "mapID": "buried-city",
+    "lat": 5496.194679966749,
+    "lng": 7958.999874594768,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "c6f0c431-2fe5-5c2a-f21f-f986e3f8e545",
+    "mapID": "buried-city",
+    "lat": 5820.47514546966,
+    "lng": 6846.004381178543,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "9afed35d-2681-4a37-6c1b-a459e00ed4d6",
+    "mapID": "buried-city",
+    "lat": 5877.638026270323,
+    "lng": 6953.6937161006845,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "88b993ce-7d23-d681-b85e-a21c1570d0be",
+    "mapID": "buried-city",
+    "lat": 6120.111818637562,
+    "lng": 7052.685737308725,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "5e2bd3f9-fa1d-4fa6-1c7d-0e10a7afe9f9",
+    "mapID": "buried-city",
+    "lat": 5681.0,
+    "lng": 7924.0,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "3b869305-6a3f-4d38-cd01-218979add2e0",
+    "mapID": "buried-city",
+    "lat": 4379.873628238705,
+    "lng": 7332.653270022239,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "ea82fc8d-8f32-0d77-1fe2-d4072039e7bf",
+    "mapID": "buried-city",
+    "lat": 4397.714700567524,
+    "lng": 7456.925081957533,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "d2560b2b-e2bc-9901-1824-ca588d617783",
+    "mapID": "buried-city",
+    "lat": 4081.396037016754,
+    "lng": 7732.8200926749005,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "47b6ca75-e21e-71bb-e4aa-7f443620be70",
+    "mapID": "buried-city",
+    "lat": 4053.873009753508,
+    "lng": 7844.604958211272,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "2dd7ce2d-41fb-3bc9-4a98-a058ea9f3832",
+    "mapID": "buried-city",
+    "lat": 3682.0674147963423,
+    "lng": 7214.501318089038,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "883550b5-b340-4161-29d8-4998c0a1ec3e",
+    "mapID": "buried-city",
+    "lat": 3726.5748129675812,
+    "lng": 7251.501219365769,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "92721e06-0afa-f17b-05b6-5164aa73ce50",
+    "mapID": "buried-city",
+    "lat": 3689.0383624272654,
+    "lng": 7519.500655042224,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "85185209-9893-fefd-2287-ace42ab10c4d",
+    "mapID": "buried-city",
+    "lat": 4176.697961035816,
+    "lng": 6418.037555892336,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "5c92979f-ec28-5513-cb8c-d59e8efa45e2",
+    "mapID": "buried-city",
+    "lat": 5755.8491988584965,
+    "lng": 7553.3146366347,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "dcfc5b41-ab44-5cfa-e4be-a066dfb61831",
+    "mapID": "buried-city",
+    "lat": 4133.416052710894,
+    "lng": 7374.032512524773,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "9170f668-4c13-6e6f-eebe-06c193bcc807",
+    "mapID": "buried-city",
+    "lat": 4432.936026949305,
+    "lng": 7146.889469883667,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "2f49eb16-470b-1542-117a-0e0b9657af72",
+    "mapID": "buried-city",
+    "lat": 4901.647231637415,
+    "lng": 7263.396344972521,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": ""
+  },
+  {
+    "id": "19e9de35-2040-bca9-ad46-cc57017026e5",
+    "mapID": "buried-city",
+    "lat": 5245.731618106162,
+    "lng": 8509.970895625775,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": ""
+  },
+  {
+    "id": "2f1f6c29-f8a1-4b73-9583-d7aa25b8769a",
+    "mapID": "buried-city",
+    "lat": 3881.0377831707333,
+    "lng": 7092.431233876228,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "0ea515f8-9cef-40db-a037-470e493f61eb",
+    "mapID": "buried-city",
+    "lat": 6439.072318021597,
+    "lng": 6488.0,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "cba6645a-f62f-7814-62d5-cc034155fc1b",
+    "mapID": "buried-city",
+    "lat": 5046.705318423753,
+    "lng": 6662.997736078851,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "56198f66-294b-21b1-1d8d-f65657829cf2",
+    "mapID": "buried-city",
+    "lat": 5723.161573257085,
+    "lng": 7143.742694388521,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "23b6e0ce-6e7f-7b8a-3bf5-70716ebc42f2",
+    "mapID": "buried-city",
+    "lat": 5721.479534066814,
+    "lng": 7125.666421430829,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "520fe9bb-0b58-531f-22f5-f45eec3f7cb8",
+    "mapID": "buried-city",
+    "lat": 5889.0933118318135,
+    "lng": 7229.754223762087,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": ""
+  },
+  {
+    "id": "b0905cc4-83fa-4a32-925c-c8d222b84a19",
+    "mapID": "buried-city",
+    "lat": 6066.976182580577,
+    "lng": 8536.193062484,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "35055cf2-ef90-4cea-800c-60090704fbd5",
+    "mapID": "buried-city",
+    "lat": 5564.0,
+    "lng": 8354.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "ff53d45f-5eff-4768-9f3a-c77303f168b4",
+    "mapID": "buried-city",
+    "lat": 5403.60036442037,
+    "lng": 8109.605028706824,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": null
+  },
+  {
+    "id": "a08ce125-f94b-4c0d-ae0c-0ce083fed6f6",
+    "mapID": "buried-city",
+    "lat": 5572.0,
+    "lng": 6008.0,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "29b41e20-0dd1-1319-16df-d41ee55a07ce",
+    "mapID": "buried-city",
+    "lat": 4096.818511184374,
+    "lng": 7283.893579391667,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": ""
+  },
+  {
+    "id": "96706dd9-734a-63f7-16b8-d02f36bf747f",
+    "mapID": "buried-city",
+    "lat": 5028.943427798726,
+    "lng": 7442.298871988412,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "c685369b-e107-4850-8415-3891882fe683",
+    "mapID": "buried-city",
+    "lat": 5789.027366302897,
+    "lng": 6615.303733421954,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "5697c9bb-6bde-46b6-aea3-99dc535b19f5",
+    "mapID": "buried-city",
+    "lat": 4316.25,
+    "lng": 7532.75,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "4033de13-a43f-40fe-a1b3-cef70c13b52c",
+    "mapID": "buried-city",
+    "lat": 4310.522938113193,
+    "lng": 6923.989601378673,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": "Leaper"
+  },
+  {
+    "id": "78532998-feb2-4cde-81f4-bf1852b93bfd",
+    "mapID": "buried-city",
+    "lat": 6479.989569649827,
+    "lng": 7694.170034067605,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": "Leaper"
+  },
+  {
+    "id": "f7a7fb52-7fc7-47c5-8520-edf27a457de5",
+    "mapID": "buried-city",
+    "lat": 4564.1769073804435,
+    "lng": 7472.977510677099,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "ee1d8d9a-0a9f-435e-b7a3-be31c34b1508",
+    "mapID": "buried-city",
+    "lat": 4564.1769073804435,
+    "lng": 7472.977510677099,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "2bb16e82-c9bd-4c85-8708-b6661e238eb7",
+    "mapID": "buried-city",
+    "lat": 3766.0,
+    "lng": 7240.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "d8a9b246-9cc4-41b8-95ab-d1777a122a58",
+    "mapID": "buried-city",
+    "lat": 3507.2496346852754,
+    "lng": 7075.310452552594,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "23953fb0-2cc7-41f1-9650-6bf1c0501dcf",
+    "mapID": "buried-city",
+    "lat": 4982.0,
+    "lng": 6773.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "c96b63aa-384b-5f81-da3b-10780c944963",
+    "mapID": "buried-city",
+    "lat": 5672.0,
+    "lng": 6028.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "a0efc950-2615-72ad-acdb-3d008560f149",
+    "mapID": "buried-city",
+    "lat": 5814.0,
+    "lng": 6546.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "0306b4d1-2766-4587-171a-f28b2e86a4e8",
+    "mapID": "buried-city",
+    "lat": 5829.0,
+    "lng": 6606.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "adb4ccc7-131f-910e-cf4d-637c27c3dd55",
+    "mapID": "buried-city",
+    "lat": 3709.0,
+    "lng": 7278.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "934df63c-08f8-ee51-85a3-557140a27eb1",
+    "mapID": "buried-city",
+    "lat": 4090.612729164177,
+    "lng": 7353.203417558907,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "4e3bb992-9bde-0995-6124-e8f47f6c0dd2",
+    "mapID": "buried-city",
+    "lat": 4110.301677760157,
+    "lng": 7396.524868571673,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "e0d9f87c-489f-b977-f10a-d52a0b8cce59",
+    "mapID": "buried-city",
+    "lat": 5007.751161276458,
+    "lng": 6811.778354735587,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "00549c5a-8426-e5cc-34fa-a9337bd22936",
+    "mapID": "buried-city",
+    "lat": 4873.370757281151,
+    "lng": 6730.912270915402,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "6e3102dc-a1be-0223-2458-ad8c89710354",
+    "mapID": "buried-city",
+    "lat": 5231.175967218078,
+    "lng": 6342.747827243331,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "9bf52317-6734-0fd1-cf18-bd162ea1787f",
+    "mapID": "buried-city",
+    "lat": 5664.278870694839,
+    "lng": 5987.780223087684,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "e5eb043e-4ab2-26f0-31a6-0c6693284a14",
+    "mapID": "buried-city",
+    "lat": 5544.450513975367,
+    "lng": 6039.738502559805,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "7f10a2cd-7d37-c076-1ac1-7662a8faf7b0",
+    "mapID": "buried-city",
+    "lat": 5814.033585248304,
+    "lng": 5954.360024818625,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "a7c8e05f-bdca-b1c1-b2e7-87a67c002800",
+    "mapID": "buried-city",
+    "lat": 5790.84404650575,
+    "lng": 5906.197136661014,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "f3450978-2c1a-ff1e-658d-21c06740f37a",
+    "mapID": "buried-city",
+    "lat": 5864.5,
+    "lng": 5908.5,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "8461969c-3dde-f2fd-eb85-b44b6e2bc6a0",
+    "mapID": "buried-city",
+    "lat": 5928.319727538687,
+    "lng": 7351.116462147973,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": ""
+  },
+  {
+    "id": "031b35eb-9398-52d8-5c0e-108ba87a6683",
+    "mapID": "buried-city",
+    "lat": 5727.564927611034,
+    "lng": 7614.125819816743,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "6dcfc972-bc72-2b45-d1c2-6128a3bc1b04",
+    "mapID": "buried-city",
+    "lat": 5764.334480232735,
+    "lng": 7648.066945313698,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "dc428296-06e7-4cc8-234d-20e364d971db",
+    "mapID": "buried-city",
+    "lat": 5789.790324355451,
+    "lng": 7609.883179129624,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "a3835caa-ae7b-91ca-bfec-9f86490aa566",
+    "mapID": "buried-city",
+    "lat": 6307.564010818113,
+    "lng": 7103.892916063381,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "a749d22f-7817-58b3-3ece-e10c5b70bbb4",
+    "mapID": "buried-city",
+    "lat": 6226.0,
+    "lng": 7096.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "6d093532-91d1-9b17-44a3-5e12567ec685",
+    "mapID": "buried-city",
+    "lat": 6192.0,
+    "lng": 7143.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "c88743e5-bde8-4005-2bc1-8638d8201961",
+    "mapID": "buried-city",
+    "lat": 5692.0,
+    "lng": 7378.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "bb1560b3-058e-77b0-f639-af42069fe7bc",
+    "mapID": "buried-city",
+    "lat": 5665.960045979528,
+    "lng": 7423.4335538597925,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "f00c3cc6-18a4-08a1-6798-1f1deeb1f945",
+    "mapID": "buried-city",
+    "lat": 5720.61831297102,
+    "lng": 7414.183693292001,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "fd3266a3-d9bf-8f78-3bb8-253784abb753",
+    "mapID": "buried-city",
+    "lat": 5072.287176810406,
+    "lng": 7465.4783746224775,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "de6df10c-dca3-0935-82ae-793bd875d7db",
+    "mapID": "buried-city",
+    "lat": 5589.273440512789,
+    "lng": 7368.9218881143615,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "1ffca68d-40d0-4d12-89bb-bc843594816a",
+    "mapID": "buried-city",
+    "lat": 3366.704912924521,
+    "lng": 7420.3655466108075,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "f3dc1b20-8820-44fb-8ef7-155fe571c03d",
+    "mapID": "buried-city",
+    "lat": 3592.102448427662,
+    "lng": 7353.9105243400945,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": "Rocketeer"
+  },
+  {
+    "id": "63bda257-a0c3-4427-b020-6c58a841a3d9",
+    "mapID": "buried-city",
+    "lat": 5743.3225161828705,
+    "lng": 7608.430765215609,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "4bfae9d4-a1de-4a40-bb8c-91df7d7ab888",
+    "mapID": "buried-city",
+    "lat": 4059.95309061929,
+    "lng": 6600.099488265102,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "7975d981-8bbb-468a-8dd8-b6084174ff20",
+    "mapID": "buried-city",
+    "lat": 4436.0,
+    "lng": 6501.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "a0fdf3a6-74dd-42e0-8b52-163e2beef580",
+    "mapID": "buried-city",
+    "lat": 5206.0,
+    "lng": 6963.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "7dc552d1-6add-4ded-966e-90eb328740cd",
+    "mapID": "buried-city",
+    "lat": 6074.0,
+    "lng": 7868.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "In metro"
+  },
+  {
+    "id": "b743e4d1-4d6e-4c90-8a5a-0d8619a5ff9f",
+    "mapID": "buried-city",
+    "lat": 5651.112210492931,
+    "lng": 8096.122038938525,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  }
+]

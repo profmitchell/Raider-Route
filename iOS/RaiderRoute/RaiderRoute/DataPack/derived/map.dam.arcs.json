@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "d1098bdf-fe93-1eb1-8c09-f5f8803c9386",
+    "mapID": "dam",
+    "lat": 1259.0,
+    "lng": 3312.858319915096,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "69d8e487-8772-f7c0-368f-88043253fcac",
+    "mapID": "dam",
+    "lat": 1355.0,
+    "lng": 3105.90639823899,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "4043c7c5-a01c-7ec1-5e2d-87ff22ea5cc4",
+    "mapID": "dam",
+    "lat": 3612.908433217793,
+    "lng": 4743.802727582946,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "0271272f-d41f-7478-4f8d-33f403cbccb8",
+    "mapID": "dam",
+    "lat": 1784.184962190304,
+    "lng": 3767.934183519521,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "59e9c246-0a93-9186-e853-1db3215ae7f2",
+    "mapID": "dam",
+    "lat": 2002.287562082127,
+    "lng": 4178.8956832521,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": null
+  },
+  {
+    "id": "72fdc87e-12d7-c538-b15f-03b168f79912",
+    "mapID": "dam",
+    "lat": 1970.2725015475473,
+    "lng": 3771.9338088210548,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "d9d16f01-64c2-287d-6665-ce9a403fe047",
+    "mapID": "dam",
+    "lat": 2920.912040394062,
+    "lng": 3860.7562551198644,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "1b91dac4-01a0-9dd6-4ac9-d4708ad2d2d3",
+    "mapID": "dam",
+    "lat": 3476.946169831066,
+    "lng": 4793.786920622715,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "54b9c19c-ecee-5278-7966-f787cffc24d0",
+    "mapID": "dam",
+    "lat": 3431.9586562104582,
+    "lng": 4774.792927267603,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "ac6c2b3a-97be-8f24-7c80-ab6209214b74",
+    "mapID": "dam",
+    "lat": 3404.9661480380933,
+    "lng": 4648.832760807388,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "d00db382-cbfa-e667-3046-e1d6d157df4f",
+    "mapID": "dam",
+    "lat": 3172.928966375015,
+    "lng": 4219.824225048862,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": null
+  },
+  {
+    "id": "48db5136-4a5f-0e56-f467-f865c630ece6",
+    "mapID": "dam",
+    "lat": 3089.917589896014,
+    "lng": 4203.805572835789,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "cef74dbd-797c-7d13-c85f-beb1c0c964ff",
+    "mapID": "dam",
+    "lat": 3087.918144846209,
+    "lng": 4170.816005429541,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "8cb732a8-684b-1ab8-f89f-a36d2955079f",
+    "mapID": "dam",
+    "lat": 2495.74493248714,
+    "lng": 5211.376977344855,
+    "category": "arc",
+    "subcategory": "queen",
+    "instanceName": "Queen"
+  },
+  {
+    "id": "5b1b7698-0726-a2eb-2b79-03003dda4565",
+    "mapID": "dam",
+    "lat": 1425.0,
+    "lng": 3339.8559972907533,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "fab5b347-b107-ed9f-61d3-0902ddf3bf81",
+    "mapID": "dam",
+    "lat": 1409.0,
+    "lng": 3182.8924624929336,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "3022a684-affa-f109-d3e8-025fb0ecb640",
+    "mapID": "dam",
+    "lat": 2821.9070458423053,
+    "lng": 3410.8213797960207,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "35116f5e-f298-f0ba-b345-cae825fef4fe",
+    "mapID": "dam",
+    "lat": 2740.9295213252108,
+    "lng": 3327.847619350006,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "a642ea36-eedd-5c4f-2a83-96d9594f6b22",
+    "mapID": "dam",
+    "lat": 2691.943117604993,
+    "lng": 3344.842244983527,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "a6fcd684-195a-d1fa-6770-d247a39be837",
+    "mapID": "dam",
+    "lat": 3608.1775840624614,
+    "lng": 4696.675639622681,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "407a5b9c-bac6-3fa4-f570-f3ade04dd3ca",
+    "mapID": "dam",
+    "lat": 2692.942840129895,
+    "lng": 3567.771745940892,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "b734dcb8-e690-b04e-9455-0370c76e3480",
+    "mapID": "dam",
+    "lat": 2963.044118540518,
+    "lng": 4840.782178534645,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "d0525ef6-5629-7295-04c5-034f9c01315e",
+    "mapID": "dam",
+    "lat": 2774.352393373947,
+    "lng": 4687.587119092024,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": null
+  },
+  {
+    "id": "2de9a756-3091-ed8a-a3a8-926550555790",
+    "mapID": "dam",
+    "lat": 2676.379585933512,
+    "lng": 5233.4145070862905,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "b224637c-027f-2bc8-89f8-8b6c057d6484",
+    "mapID": "dam",
+    "lat": 1755.1713135808416,
+    "lng": 3983.913949802336,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "2ba84344-4c22-590c-80a3-0791d21caf43",
+    "mapID": "dam",
+    "lat": 3004.9411752793094,
+    "lng": 4187.810631063063,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "0ecd84b0-e2d2-1175-f507-c9347b36c503",
+    "mapID": "dam",
+    "lat": 3013.938678003431,
+    "lng": 4205.804940557379,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "ac30c11d-1d5a-7b20-a0d4-c83efc9ef5cd",
+    "mapID": "dam",
+    "lat": 3024.935625777358,
+    "lng": 4203.805572835789,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "16ee16c7-8e93-1d91-d59c-37250b4151f3",
+    "mapID": "dam",
+    "lat": 3550.193677618122,
+    "lng": 4684.679433293137,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "19b1291b-e6ee-4af7-4a37-a1f1442523c6",
+    "mapID": "dam",
+    "lat": 3022.9361807275527,
+    "lng": 4173.815057011928,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "dc540068-1484-e223-50a2-d1895c52aeef",
+    "mapID": "dam",
+    "lat": 2977.9486671069444,
+    "lng": 4143.824541188067,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "ed568cd8-aeec-8482-6ee8-a3cee092943a",
+    "mapID": "dam",
+    "lat": 2938.8745812558864,
+    "lng": 3725.7217959465584,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "ed6fdbeb-ef8b-959d-a117-ec7f4ba8b1a5",
+    "mapID": "dam",
+    "lat": 3024.916757470721,
+    "lng": 4309.8387674522755,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "e0f73507-7f37-97ca-5d1b-531b59238e7b",
+    "mapID": "dam",
+    "lat": 3152.8612624512016,
+    "lng": 3876.810631063063,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "22b72954-ed08-8679-cb46-0ba3e00ce12b",
+    "mapID": "dam",
+    "lat": 3252.833514941442,
+    "lng": 3893.805256696584,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "32d84ab5-cfa2-da9a-8945-6b9e80ef7a1f",
+    "mapID": "dam",
+    "lat": 2908.859435631186,
+    "lng": 4348.4657905423455,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "d26d6394-dfba-4d39-74ce-8e3cbcb12e30",
+    "mapID": "dam",
+    "lat": 2915.947002256359,
+    "lng": 4270.851096881257,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "b6a6da1a-a396-cfc3-9db5-0058ce808d1a",
+    "mapID": "dam",
+    "lat": 2912.947834681652,
+    "lng": 4252.856787386941,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "2e191189-44c9-15b0-9078-80c3fd863d53",
+    "mapID": "dam",
+    "lat": 2794.980576743168,
+    "lng": 4183.8786009920605,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "1aaa452a-15ef-f41f-dcb2-1e27463751df",
+    "mapID": "dam",
+    "lat": 2845.966425513191,
+    "lng": 4165.884291497744,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "c1f335ef-64d5-a619-a03c-3d2a5d578c1a",
+    "mapID": "dam",
+    "lat": 2200.625918718971,
+    "lng": 4472.728032734508,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "1c08e459-3da5-d1f7-e1bf-10e442fa6fc4",
+    "mapID": "dam",
+    "lat": 1938.0729759506678,
+    "lng": 4682.704724429508,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": null
+  },
+  {
+    "id": "6e84198a-6a9f-e2d4-cb4a-b0c74fff91dd",
+    "mapID": "dam",
+    "lat": 1756.331205254003,
+    "lng": 2768.7663708027685,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "20bb4aeb-7f45-8565-53cd-34cb6a7d2412",
+    "mapID": "dam",
+    "lat": 1639.35059975196,
+    "lng": 2968.3643458456127,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "ffe0a38f-1f50-302e-0533-8091343b12e9",
+    "mapID": "dam",
+    "lat": 2636.4499334705615,
+    "lng": 4079.8340821293673,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "89fcb1ef-fa30-3f1f-3adb-15bfbaff89db",
+    "mapID": "dam",
+    "lat": 2132.5,
+    "lng": 3718.441121472913,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": "Hornet"
+  },
+  {
+    "id": "959f0429-54af-49f9-4f42-dc7cbf113a22",
+    "mapID": "dam",
+    "lat": 1833.960043585946,
+    "lng": 4941.881130105698,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "aaebc8a0-c9f3-5e55-55d3-128453a3d6ce",
+    "mapID": "dam",
+    "lat": 1643.8859577348878,
+    "lng": 4670.809366506244,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "03861daf-4ae2-32da-8d8e-64d41f60b696",
+    "mapID": "dam",
+    "lat": 1563.9081557426955,
+    "lng": 4561.84382567955,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "7f1d5665-69e9-e7f4-5ae0-70cbf9802c38",
+    "mapID": "dam",
+    "lat": 1469.9342384018696,
+    "lng": 4603.830547832955,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "7cd9f378-7479-5164-db48-9e885c168e30",
+    "mapID": "dam",
+    "lat": 2039.2550878044399,
+    "lng": 3996.9163853423674,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "ee3f9f89-f917-4087-79b4-7bb746f7ad6a",
+    "mapID": "dam",
+    "lat": 2067.897056738792,
+    "lng": 3670.7578358158876,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "e6ad754a-252e-662e-bcc2-e8fd932502a3",
+    "mapID": "dam",
+    "lat": 2125.880963183131,
+    "lng": 3702.747719361339,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "b9a064ca-cae9-c8eb-5e2c-eedfc40eec97",
+    "mapID": "dam",
+    "lat": 1744.030121069159,
+    "lng": 3463.891785693191,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "a227ca84-948a-d20c-c481-d8a0af9572e8",
+    "mapID": "dam",
+    "lat": 2110.2023759334115,
+    "lng": 3171.919138681238,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "5befa105-989b-8ff0-58cb-1441f57a21e2",
+    "mapID": "dam",
+    "lat": 2440.3576876962625,
+    "lng": 3741.865744149777,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "bf31eb7c-3341-cc2f-417f-c5f5c8142c43",
+    "mapID": "dam",
+    "lat": 1724.2993822552526,
+    "lng": 5163.537293341815,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": "Wasp"
+  },
+  {
+    "id": "8d5ddd1e-f395-50af-1fe6-5b49604c3d14",
+    "mapID": "dam",
+    "lat": 1727.8651496625687,
+    "lng": 5068.995327699099,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": "Wasp"
+  },
+  {
+    "id": "39ee3ec4-e20f-5420-5681-676e56152d8d",
+    "mapID": "dam",
+    "lat": 1764.7427671861524,
+    "lng": 5176.023968049344,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": "Wasp"
+  },
+  {
+    "id": "a2332738-e321-082f-cdeb-bf1678c92616",
+    "mapID": "dam",
+    "lat": 1679.2228097199368,
+    "lng": 4797.314049022441,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": "Wasp"
+  },
+  {
+    "id": "83faab01-20c7-090d-75a2-f9be736f73aa",
+    "mapID": "dam",
+    "lat": 1673.3375007629922,
+    "lng": 4726.67875014113,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": "Wasp"
+  },
+  {
+    "id": "9201278c-f8da-5b9a-c675-5521b7082030",
+    "mapID": "dam",
+    "lat": 1732.1905903324396,
+    "lng": 4804.041220344471,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": "Hornet"
+  },
+  {
+    "id": "f0591c8c-d215-8aa3-0a13-eafe291c05b7",
+    "mapID": "dam",
+    "lat": 1601.4791590385241,
+    "lng": 4781.0,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": "Turret"
+  },
+  {
+    "id": "2c3ba657-da75-eab8-2c88-c429fbbf2207",
+    "mapID": "dam",
+    "lat": 1651.2140791812783,
+    "lng": 2911.7089944170757,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "46e92e63-59c0-de58-973b-2a31938e4695",
+    "mapID": "dam",
+    "lat": 1789.7567080790952,
+    "lng": 3203.968736434024,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "3bdd23e9-8741-b927-59dd-ee96b34eaf81",
+    "mapID": "dam",
+    "lat": 1691.04269107522,
+    "lng": 3898.287645846445,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": ""
+  },
+  {
+    "id": "51668fe7-a325-5d5e-65a2-266915ce2477",
+    "mapID": "dam",
+    "lat": 1981.1519543377515,
+    "lng": 4443.21435796363,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": ""
+  },
+  {
+    "id": "073674af-668a-dc06-1f9d-0872dc2212f1",
+    "mapID": "dam",
+    "lat": 1813.5408503791498,
+    "lng": 4484.426958167781,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "7d20b6be-6787-0791-934a-cad60909d862",
+    "mapID": "dam",
+    "lat": 2103.0417583821595,
+    "lng": 3625.1044461587635,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "af77e2b8-fe8b-0fb9-aabc-0163533f2d5d",
+    "mapID": "dam",
+    "lat": 2072.7793938852565,
+    "lng": 3690.2739183409262,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "80cc8649-946b-48e3-98fe-c7d1a20a9735",
+    "mapID": "dam",
+    "lat": 1978.6292650919904,
+    "lng": 4664.031967204728,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": null
+  },
+  {
+    "id": "1d64d262-a013-42c5-9112-4cac1462827a",
+    "mapID": "dam",
+    "lat": 1812.7371276415683,
+    "lng": 4464.362758507561,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": null
+  },
+  {
+    "id": "bd6634c6-61c0-78d7-33c5-d4a67522efac",
+    "mapID": "dam",
+    "lat": 2860.6266876616282,
+    "lng": 3358.1198343157093,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "e39d82cf-de9c-d3c7-5e61-7620ca44f8e6",
+    "mapID": "dam",
+    "lat": 2745.8291780595796,
+    "lng": 3916.5,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "0ab4dd0b-3e9e-4606-9940-7649d2647164",
+    "mapID": "dam",
+    "lat": 2843.394211971506,
+    "lng": 4216.779778910274,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "fb49e770-de2c-4c67-89e1-2f80f49b4ebe",
+    "mapID": "dam",
+    "lat": 2887.5435261159823,
+    "lng": 4118.9674937013,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "e3eec7fd-1d2a-7796-51d3-562b281afa42",
+    "mapID": "dam",
+    "lat": 1994.7388038544111,
+    "lng": 3708.3995466249266,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": ""
+  },
+  {
+    "id": "9d9289d6-e35c-a82d-f88e-980a18d0a691",
+    "mapID": "dam",
+    "lat": 2050.981337723911,
+    "lng": 3618.976537669896,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "ef42560b-7215-be6f-cab1-2faac64643ba",
+    "mapID": "dam",
+    "lat": 2089.9697848863325,
+    "lng": 3838.9479409240626,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "8c8971ce-d117-df0c-67f7-cd41fe1b387f",
+    "mapID": "dam",
+    "lat": 1882.8433755826807,
+    "lng": 3846.6555681408327,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "1f6cba0c-d89f-d232-0d60-57ecb4616b5e",
+    "mapID": "dam",
+    "lat": 2082.2712697737534,
+    "lng": 3719.509096848747,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": ""
+  },
+  {
+    "id": "f05a225e-14ff-5e19-4a8e-ef0c6990cefb",
+    "mapID": "dam",
+    "lat": 3177.7475532437875,
+    "lng": 4451.378587125918,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": ""
+  },
+  {
+    "id": "d30b5db6-eec5-f52b-d924-ccac5f1e45e5",
+    "mapID": "dam",
+    "lat": 2825.5561052464654,
+    "lng": 3539.5458259053694,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": ""
+  },
+  {
+    "id": "00aa5bd6-f5b0-416c-8a4f-939ddafbbdd9",
+    "mapID": "dam",
+    "lat": 2786.000717874997,
+    "lng": 3968.2832560189045,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": null
+  },
+  {
+    "id": "3434cafc-b31e-4d3e-8175-63c6185e977c",
+    "mapID": "dam",
+    "lat": 2191.6783052311116,
+    "lng": 4434.553331845147,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": "Rollbot"
+  },
+  {
+    "id": "fb24f8b3-53cd-4d1f-8a13-5710b8fc7539",
+    "mapID": "dam",
+    "lat": 1947.516097727603,
+    "lng": 3868.123510167087,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": null
+  },
+  {
+    "id": "d47397c3-1fd9-44d6-af5f-097ca6dd3347",
+    "mapID": "dam",
+    "lat": 3360.9652187464203,
+    "lng": 4836.505336716067,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": null
+  },
+  {
+    "id": "c78b9e9c-c7a3-4835-83c9-758227a78b2f",
+    "mapID": "dam",
+    "lat": 1547.8567440173524,
+    "lng": 4543.868175904754,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "30e8066a-4351-462e-95d0-3c5195c51082",
+    "mapID": "dam",
+    "lat": 2923.25,
+    "lng": 4359.028150613701,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "8870a9d8-5c77-4f05-8036-aa791d767fcc",
+    "mapID": "dam",
+    "lat": 1790.0,
+    "lng": 3983.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "a7897b68-a064-5cd5-4c92-fcf496934eb9",
+    "mapID": "dam",
+    "lat": 2428.0,
+    "lng": 5190.0,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": ""
+  },
+  {
+    "id": "ba6e1574-9931-67b8-38d8-787cc17ecafe",
+    "mapID": "dam",
+    "lat": 3028.0,
+    "lng": 4082.0,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "c8187aa2-e9ad-1c26-6ce0-e3dd8708237f",
+    "mapID": "dam",
+    "lat": 3642.307029891906,
+    "lng": 4139.403097066049,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "595af0ff-dc33-2759-1e5c-db4e6cdf3eaa",
+    "mapID": "dam",
+    "lat": 3149.0204405272057,
+    "lng": 4928.074284571277,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "d03035f5-06f3-484a-4ae8-71e140e1cdb9",
+    "mapID": "dam",
+    "lat": 1944.0,
+    "lng": 4100.0,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "482fb25d-5cb8-ec40-3837-09f48f850a1b",
+    "mapID": "dam",
+    "lat": 2276.8838354206828,
+    "lng": 3736.352231789717,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "2fb361c4-95ba-bd63-27c0-33a6c46b6a09",
+    "mapID": "dam",
+    "lat": 2813.664034096438,
+    "lng": 5089.8064522116465,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "ac008163-f377-9fcd-4f49-20b31b0ed320",
+    "mapID": "dam",
+    "lat": 3400.0,
+    "lng": 4011.0,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "505918a0-8ef9-547e-3cfa-2dea88389ce6",
+    "mapID": "dam",
+    "lat": 2429.618900156977,
+    "lng": 4574.980874276962,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "3fc39bbe-a728-94d4-77f4-93097a7cf527",
+    "mapID": "dam",
+    "lat": 1723.837651270115,
+    "lng": 3614.172792760465,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "423b1e67-4c29-1a8e-3335-d65f6853322e",
+    "mapID": "dam",
+    "lat": 2033.544166654653,
+    "lng": 4482.121616445256,
+    "category": "arc",
+    "subcategory": "snitch",
+    "instanceName": ""
+  },
+  {
+    "id": "a96097a4-0414-45ae-9033-4ff6ef2d0d02",
+    "mapID": "dam",
+    "lat": 3776.0,
+    "lng": 3988.0,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "971a85e0-6e7c-42d2-a4e8-1d1027744b4d",
+    "mapID": "dam",
+    "lat": 1542.9040813581423,
+    "lng": 4715.0,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": "Rocketeer"
+  },
+  {
+    "id": "7fdf9fa5-f19a-4a58-a502-4c24f4f3bc0e",
+    "mapID": "dam",
+    "lat": 2385.623130074788,
+    "lng": 4302.026060438004,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": null
+  },
+  {
+    "id": "69b2007a-5c2d-40f7-a2b4-423dad3f6f42",
+    "mapID": "dam",
+    "lat": 2052.5714804946965,
+    "lng": 4412.998952885723,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": null
+  },
+  {
+    "id": "151da8ec-59d6-4bac-8658-dacde6219347",
+    "mapID": "dam",
+    "lat": 3376.4348801657643,
+    "lng": 4849.338305377342,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": "Rocketeer"
+  },
+  {
+    "id": "2b137106-1961-4859-a2d8-b9fbf3ae2a65",
+    "mapID": "dam",
+    "lat": 3436.892509957214,
+    "lng": 4798.426617131911,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "caa2ff74-9060-4bbf-9723-9be8750f9fd7",
+    "mapID": "dam",
+    "lat": 3292.1094657182925,
+    "lng": 2896.4677023414197,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": null
+  },
+  {
+    "id": "907d6e9b-876f-4217-b0a6-d543d6a8017a",
+    "mapID": "dam",
+    "lat": 1567.430918032924,
+    "lng": 3064.226537184536,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "682e304e-3e16-474d-925d-e098d342534c",
+    "mapID": "dam",
+    "lat": 2209.0,
+    "lng": 3099.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "wasp husk"
+  },
+  {
+    "id": "604cd1bf-0c4a-4916-a872-c65db64ab5ec",
+    "mapID": "dam",
+    "lat": 2859.0478118626297,
+    "lng": 2882.5929114897335,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "3d329bd0-75ab-4b3b-8269-01864a7b0e12",
+    "mapID": "dam",
+    "lat": 3473.971284701699,
+    "lng": 4750.58512265712,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "db594123-136a-3ab2-1b6e-587986805671",
+    "mapID": "dam",
+    "lat": 3536.8103225571235,
+    "lng": 3267.5664039829776,
+    "category": "arc",
+    "subcategory": "matriarch",
+    "instanceName": "Matriarch"
+  },
+  {
+    "id": "5c6b18d4-0b88-4ce6-bfdf-a886d5f17b9a",
+    "mapID": "dam",
+    "lat": 2128.667048646704,
+    "lng": 3303.616856031125,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "7184e3c5-27d3-28a1-384e-d3fe9b37c7c1",
+    "mapID": "dam",
+    "lat": 1983.5974678245389,
+    "lng": 4023.682273611707,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "53e53228-3528-ad5d-c6ca-188b073c574c",
+    "mapID": "dam",
+    "lat": 2007.3816101245932,
+    "lng": 3951.140639596541,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "ab9aa4df-5f37-5b5a-fe02-e6942185f648",
+    "mapID": "dam",
+    "lat": 2092.409918847288,
+    "lng": 3678.8122102609177,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "31f3887e-9553-098d-b27a-e5e7440725f3",
+    "mapID": "dam",
+    "lat": 3025.965750290492,
+    "lng": 4134.687673802515,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "5251a9d8-cdc3-4bde-812d-ff3b24b1376f",
+    "mapID": "dam",
+    "lat": 1614.339393694024,
+    "lng": 4623.773361224971,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "f5d3e3ca-18eb-49ae-879e-be5027aed415",
+    "mapID": "dam",
+    "lat": 1603.023437157326,
+    "lng": 4603.267369792427,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "1f288f43-f6aa-4775-b209-fd5016de2acc",
+    "mapID": "dam",
+    "lat": 1757.91059225338,
+    "lng": 4827.419069244731,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "b50533a3-ab7b-4470-b503-feaa053bd941",
+    "mapID": "dam",
+    "lat": 1772.7627852077958,
+    "lng": 4848.632163830122,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "ec92e514-1380-0f13-5d17-27519e544de3",
+    "mapID": "dam",
+    "lat": 2678.229103408237,
+    "lng": 3389.2330016800965,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "bd959a48-eef5-27b5-9782-d34bf79fe2c9",
+    "mapID": "dam",
+    "lat": 2812.7610271028843,
+    "lng": 3370.312832336888,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "592aac78-d27d-48d2-8191-1dc7662a6ee5",
+    "mapID": "dam",
+    "lat": 3346.767732709784,
+    "lng": 4806.5639095902325,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": null
+  },
+  {
+    "id": "573c55f7-a86c-49e1-a6a0-05ce3db60280",
+    "mapID": "dam",
+    "lat": 2944.5,
+    "lng": 5088.5,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "ea1434e7-f4f2-41df-b9c2-2ab47daf56cc",
+    "mapID": "dam",
+    "lat": 1829.7905995920828,
+    "lng": 5142.922475691718,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "cfc48b5d-8230-4c8a-8698-e10b2aff9646",
+    "mapID": "dam",
+    "lat": 2780.366234876362,
+    "lng": 3725.785891303525,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "2519dbe7-afc6-4d92-b7b0-bf588304dcf0",
+    "mapID": "dam",
+    "lat": 1385.7972923381217,
+    "lng": 4056.484307183919,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": "Surveyor"
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "397cc76c-8500-2af0-d7fd-1c2cc2e254e6",
+    "mapID": "stella-montis",
+    "lat": 3076.0,
+    "lng": 5616.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "62ae24c9-0e32-4ea1-a6a1-da6bb079e7db",
+    "mapID": "stella-montis",
+    "lat": 3853.828271107774,
+    "lng": 5344.73761535261,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": "Turret"
+  },
+  {
+    "id": "34313eb8-e8d8-4828-a204-460f8bb4d04c",
+    "mapID": "stella-montis",
+    "lat": 2666.2023518361007,
+    "lng": 5774.789750453214,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "a9125230-75dd-4601-a51f-5311cf11f882",
+    "mapID": "stella-montis",
+    "lat": 3260.0,
+    "lng": 2760.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "a7ca347f-366f-d815-83bf-647d4850dfcb",
+    "mapID": "stella-montis",
+    "lat": 1922.4100425115803,
+    "lng": 4659.736112687854,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "de48a9fc-0419-2cae-766b-1f0a7e0960bf",
+    "mapID": "stella-montis",
+    "lat": 2693.3646484641276,
+    "lng": 2678.1536330951803,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "e38490cb-9de1-6d38-f312-1e824b698df7",
+    "mapID": "stella-montis",
+    "lat": 2846.3515673656448,
+    "lng": 2560.4467703660034,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "697fcb50-2725-780c-fe28-fd31b104cdd4",
+    "mapID": "stella-montis",
+    "lat": 2002.2078969911215,
+    "lng": 4518.228282949437,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "2136d792-1e23-5d68-5b16-ba92829babb2",
+    "mapID": "stella-montis",
+    "lat": 2153.473152269084,
+    "lng": 4552.164035721915,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "41bc4617-96c3-4c3a-b3a0-b2434bca1e23",
+    "mapID": "stella-montis",
+    "lat": 1957.434911294479,
+    "lng": 3898.22092297892,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "2c8b565f-fb07-3f30-a0cc-1e1360fec111",
+    "mapID": "stella-montis",
+    "lat": 3000.8738394747133,
+    "lng": 3223.2972139376243,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "2f757e82-eb0c-3ec4-1509-3a89540c5bde",
+    "mapID": "stella-montis",
+    "lat": 1623.517169604313,
+    "lng": 4536.797108092888,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "a6604a56-0413-144d-6585-2d0af491d06d",
+    "mapID": "stella-montis",
+    "lat": 2439.8316543095625,
+    "lng": 5892.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "285ee3b5-8eba-b8d7-b0e0-5e2633ac959a",
+    "mapID": "stella-montis",
+    "lat": 1862.407746137628,
+    "lng": 3050.458654038766,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "3feb5346-1651-77b5-358e-4487f823da26",
+    "mapID": "stella-montis",
+    "lat": 2026.4051868375986,
+    "lng": 2924.5936469875605,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "0f62ef7d-adaf-cad6-afa7-ac5f00a33814",
+    "mapID": "stella-montis",
+    "lat": 1835.546096367805,
+    "lng": 2900.552016427218,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "1aec8626-8b9c-e570-a87d-72dd576a898d",
+    "mapID": "stella-montis",
+    "lat": 2371.327891015475,
+    "lng": 2811.9576126084216,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "55cc993f-fb44-4e5d-a72f-8e312ce284e9",
+    "mapID": "stella-montis",
+    "lat": 3094.652827862925,
+    "lng": 3876.00582107406,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "9e2a7298-a5c9-4fcc-beac-d0f87905f8df",
+    "mapID": "stella-montis",
+    "lat": 2547.7057326151307,
+    "lng": 3882.7233354953323,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": null
+  },
+  {
+    "id": "1450098a-e695-403c-9c3f-15baa0db50cc",
+    "mapID": "stella-montis",
+    "lat": 2821.988483901457,
+    "lng": 3992.762888621636,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "3cd1a51a-c058-487b-a7de-d53fbb83bb20",
+    "mapID": "stella-montis",
+    "lat": 2666.062084561902,
+    "lng": 3272.34839995983,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "730c842a-2e38-4f6a-9e4a-6705f9c1b46f",
+    "mapID": "stella-montis",
+    "lat": 2685.8242692336457,
+    "lng": 3146.047422739699,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "bbc1ffb7-809b-4497-b90b-865192bde012",
+    "mapID": "stella-montis",
+    "lat": 2620.417877908496,
+    "lng": 3036.045764601947,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "edd3355e-13a6-4d35-b9ef-8635ca033c51",
+    "mapID": "stella-montis",
+    "lat": 2521.7136873632703,
+    "lng": 3133.56074803217,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": null
+  },
+  {
+    "id": "6e92c8e7-36a2-4c98-950b-eb5b1d21a30a",
+    "mapID": "stella-montis",
+    "lat": 3090.1546882825496,
+    "lng": 5487.001628562359,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": null
+  },
+  {
+    "id": "50b24b97-dd8d-484e-bf2f-b9e3e4d41be8",
+    "mapID": "stella-montis",
+    "lat": 3584.0,
+    "lng": 3960.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": null
+  },
+  {
+    "id": "d516bafc-c14d-456a-b4f5-71846d79c3c4",
+    "mapID": "stella-montis",
+    "lat": 2471.1723849756545,
+    "lng": 3903.5723549964323,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "f21f0008-f674-41b4-96a7-74f02b06d180",
+    "mapID": "stella-montis",
+    "lat": 3679.4068138184193,
+    "lng": 3365.456135457701,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": null
+  },
+  {
+    "id": "e329127e-2fda-497d-9744-fbad4764b671",
+    "mapID": "stella-montis",
+    "lat": 3072.0,
+    "lng": 5464.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "66354241-73b6-a1be-2dc0-a895b2d63cf2",
+    "mapID": "stella-montis",
+    "lat": 3262.59068839473,
+    "lng": 4495.784914784069,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": ""
+  },
+  {
+    "id": "8bd8bec0-897a-145f-c36c-f782c67dca74",
+    "mapID": "stella-montis",
+    "lat": 2969.8484809834995,
+    "lng": 2360.3224356006954,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "c70091f2-0e77-245c-0ceb-6f8daa08a2c0",
+    "mapID": "stella-montis",
+    "lat": 2576.697110643779,
+    "lng": 2617.709303952599,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "a4dbcf1a-4de9-8cae-cff6-e83c803eb572",
+    "mapID": "stella-montis",
+    "lat": 1877.0,
+    "lng": 2437.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "fa80cd78-2d3a-693c-7bf2-d24b730895b8",
+    "mapID": "stella-montis",
+    "lat": 1929.0,
+    "lng": 2563.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "865d79fc-33bb-1e0e-f4b8-173e64425ec9",
+    "mapID": "stella-montis",
+    "lat": 1385.0,
+    "lng": 2767.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "c8d971a5-7953-8206-ea07-5d8c0161f361",
+    "mapID": "stella-montis",
+    "lat": 1396.0,
+    "lng": 2824.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "eb37a7ac-4213-5e30-4440-be7c89e6c8ac",
+    "mapID": "stella-montis",
+    "lat": 2229.0,
+    "lng": 4505.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "fea4e57c-e89a-6755-3993-2b13460869af",
+    "mapID": "stella-montis",
+    "lat": 2287.0,
+    "lng": 4721.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "55452b1c-719b-1dea-9866-bd8dfdc24b7f",
+    "mapID": "stella-montis",
+    "lat": 2190.0,
+    "lng": 4777.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "3110e966-0a93-b49e-0649-f43a9036c7ec",
+    "mapID": "stella-montis",
+    "lat": 2263.0,
+    "lng": 5133.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "4b5168b7-2a48-9f98-2c48-e4902925ec19",
+    "mapID": "stella-montis",
+    "lat": 2328.0,
+    "lng": 4631.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "40f19803-518a-1fb7-58c3-d1930532c536",
+    "mapID": "stella-montis",
+    "lat": 2494.0,
+    "lng": 5578.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "36ce8547-b890-3b79-53df-fabf81f32707",
+    "mapID": "stella-montis",
+    "lat": 2481.0,
+    "lng": 5485.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "9b4f1061-21b6-0caa-fe1d-ddf2313a6978",
+    "mapID": "stella-montis",
+    "lat": 2554.0,
+    "lng": 5543.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "25e74620-a703-ce17-402c-a50c982286a5",
+    "mapID": "stella-montis",
+    "lat": 2482.0,
+    "lng": 5198.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "a6870663-09f6-476e-182a-e4e9ca9339ab",
+    "mapID": "stella-montis",
+    "lat": 2972.0,
+    "lng": 4213.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "3612d797-3f5a-f44d-a9d4-5c63839b062a",
+    "mapID": "stella-montis",
+    "lat": 2981.0,
+    "lng": 4124.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "667310ee-6780-2aca-5a98-5a7c1b6fbf3c",
+    "mapID": "stella-montis",
+    "lat": 3334.0,
+    "lng": 4732.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "45f8df2b-b98f-1502-ee41-ac59e3af9edf",
+    "mapID": "stella-montis",
+    "lat": 3085.0,
+    "lng": 4733.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "d16f9211-1f10-f3e1-4cc9-1476597b162c",
+    "mapID": "stella-montis",
+    "lat": 3133.0,
+    "lng": 4769.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "28c84ab6-21a8-b7a0-befd-9c74e50cf0d6",
+    "mapID": "stella-montis",
+    "lat": 2821.3560569343244,
+    "lng": 5600.285706997456,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "71750e14-bb7e-3ea7-c0de-70cdde8ec8d1",
+    "mapID": "stella-montis",
+    "lat": 2134.048265621,
+    "lng": 2808.6281348729667,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "d8b27f66-f54c-cb4e-779b-3aa60819fa6e",
+    "mapID": "stella-montis",
+    "lat": 1626.0,
+    "lng": 4586.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "f218b2e8-d1c1-0ee1-a38a-24cf279a0f94",
+    "mapID": "stella-montis",
+    "lat": 1688.0,
+    "lng": 4730.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "a73115f3-60f5-0ee6-dff7-0050741bb58a",
+    "mapID": "stella-montis",
+    "lat": 1738.0,
+    "lng": 4428.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "19bf7d95-3008-8bbc-4186-dd48df3b627a",
+    "mapID": "stella-montis",
+    "lat": 2981.1621894824843,
+    "lng": 2546.998625833944,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "6e93ba5d-343f-53f2-ff97-b2616abd2634",
+    "mapID": "stella-montis",
+    "lat": 2698.3194770078653,
+    "lng": 2579.5255377685253,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "3e6bd1ac-ab8e-7674-4cbf-40369775d107",
+    "mapID": "stella-montis",
+    "lat": 2713.8758261939693,
+    "lng": 3353.100356386608,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "c31ad5bf-d7b5-881c-1d7d-0966901bed99",
+    "mapID": "stella-montis",
+    "lat": 2348.788472803084,
+    "lng": 5536.948327452669,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "226a3dc2-bdb6-f17d-5730-b785a1fc2f10",
+    "mapID": "stella-montis",
+    "lat": 2426.1128411703453,
+    "lng": 5580.9489907077705,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "eaabd87f-2acf-1b40-e92b-33cb158ef520",
+    "mapID": "stella-montis",
+    "lat": 2541.504590887643,
+    "lng": 5615.4359970428495,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "8805774e-4dae-909f-d219-0f2d78495886",
+    "mapID": "stella-montis",
+    "lat": 3108.1943878017687,
+    "lng": 2324.237691761267,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "3e850aae-9e73-0e9f-ee41-3f5219abd997",
+    "mapID": "stella-montis",
+    "lat": 3153.6180124489483,
+    "lng": 2373.0096838459826,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "fded030d-ab07-6126-789d-8c27c74dcfd2",
+    "mapID": "stella-montis",
+    "lat": 3138.3578302629585,
+    "lng": 2704.256979516188,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "0ccbbd5b-295b-4a4b-b2fc-3ef571d27f15",
+    "mapID": "stella-montis",
+    "lat": 3212.1137801808395,
+    "lng": 3127.6147124571567,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "3caaf895-6f7b-799c-56b1-3b367d1e5a30",
+    "mapID": "stella-montis",
+    "lat": 2261.20033342629,
+    "lng": 5057.151041335839,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "4af6b490-6b4e-3535-124c-7d44410c4fd0",
+    "mapID": "stella-montis",
+    "lat": 2269.0884772515687,
+    "lng": 4830.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "12b5744a-5912-f72f-260f-9cce21287f2c",
+    "mapID": "stella-montis",
+    "lat": 3413.809578281512,
+    "lng": 4054.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "1a881d21-3c9f-71b5-9c8c-06e1cec199b0",
+    "mapID": "stella-montis",
+    "lat": 3587.781210662491,
+    "lng": 4065.0,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "b89e1424-d571-1624-633f-9a4f5f2358be",
+    "mapID": "stella-montis",
+    "lat": 3070.8946811385763,
+    "lng": 4302.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "13486261-81da-bb8d-fca8-44937d5d4cd0",
+    "mapID": "stella-montis",
+    "lat": 3411.8501733225257,
+    "lng": 4266.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "976eddf0-9b68-6188-2ccb-5ed0f17f4ce1",
+    "mapID": "stella-montis",
+    "lat": 3366.8575097757207,
+    "lng": 4329.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "1a1728ab-7ac4-f71b-7710-39eae46f0a20",
+    "mapID": "stella-montis",
+    "lat": 3140.8834319103435,
+    "lng": 4604.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "f8f87ecc-1287-7bec-b746-28c5e050978e",
+    "mapID": "stella-montis",
+    "lat": 3316.2294715548664,
+    "lng": 4246.176221025217,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": ""
+  },
+  {
+    "id": "fc533ddb-6295-1e88-15ea-29cd8f6706fc",
+    "mapID": "stella-montis",
+    "lat": 3056.8322398226182,
+    "lng": 4834.9999995434955,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "5d1b35c1-ae5a-43ee-5c46-0008489dd14d",
+    "mapID": "stella-montis",
+    "lat": 3000.841369631039,
+    "lng": 4765.9999995434955,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "ca258ee8-12a1-7db3-b19d-b064ffb2281e",
+    "mapID": "stella-montis",
+    "lat": 3617.8553903559086,
+    "lng": 4748.0,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": ""
+  },
+  {
+    "id": "6442f920-48e6-50ba-76c0-76d200b587b7",
+    "mapID": "stella-montis",
+    "lat": 3005.1322303927295,
+    "lng": 3953.4340136139867,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "d20a32dc-3a4d-1c1d-5014-8452a43e013e",
+    "mapID": "stella-montis",
+    "lat": 2452.9729366393244,
+    "lng": 4159.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "1ae04b3c-d972-78a1-0453-beb6a9ea5dbe",
+    "mapID": "stella-montis",
+    "lat": 2409.979947027933,
+    "lng": 4061.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "b611de3f-2afe-4cdb-a65e-0b43c73e1829",
+    "mapID": "stella-montis",
+    "lat": 2602.9484817953407,
+    "lng": 4160.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "b84919be-58dc-c0af-3eb0-504af0014b34",
+    "mapID": "stella-montis",
+    "lat": 3108.8247402847824,
+    "lng": 4853.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "15ba163f-55a7-69cf-9f04-653d73c67515",
+    "mapID": "stella-montis",
+    "lat": 2576.697110643779,
+    "lng": 4055.964496886036,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "19e538ec-0219-b603-c408-4ff59466eec3",
+    "mapID": "stella-montis",
+    "lat": 2630.4372260139567,
+    "lng": 3930.099489834831,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "85ee3f69-90b5-4faf-b78e-fb2449399b93",
+    "mapID": "stella-montis",
+    "lat": 3414.0,
+    "lng": 3991.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "05431683-ec00-47bc-83cf-f190dd6eb641",
+    "mapID": "stella-montis",
+    "lat": 3485.0,
+    "lng": 4065.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": null
+  },
+  {
+    "id": "904c061b-5a4b-33a7-7ce8-0a7c28adb179",
+    "mapID": "stella-montis",
+    "lat": 3471.894295625948,
+    "lng": 4112.53303938096,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "44f683a8-4163-b352-3afe-57c2e008bc8c",
+    "mapID": "stella-montis",
+    "lat": 3382.798841196443,
+    "lng": 3890.5015100883843,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "c78f0661-954d-780b-c55b-bc50a534c803",
+    "mapID": "stella-montis",
+    "lat": 3323.0,
+    "lng": 3949.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "350bfcb1-e3cf-b28d-dff4-8ce525d4f139",
+    "mapID": "stella-montis",
+    "lat": 3396.940976820174,
+    "lng": 3908.8862863992345,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "13012709-6776-7eb2-3904-d86803470f64",
+    "mapID": "stella-montis",
+    "lat": 2977.5,
+    "lng": 4005.5,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "97a98e17-1240-7558-1aae-5e45ea1c935a",
+    "mapID": "stella-montis",
+    "lat": 2955.7063453597684,
+    "lng": 4040.408147699932,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "ec5879db-6319-e2d2-8992-13a7ab46c62e",
+    "mapID": "stella-montis",
+    "lat": 2876.510385866875,
+    "lng": 4123.846747879945,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "3039084f-18be-ad53-373e-681ff2c259a1",
+    "mapID": "stella-montis",
+    "lat": 1745.139535968399,
+    "lng": 4162.0305140640185,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "de6a1987-eb52-e059-bd5c-80e1a0490704",
+    "mapID": "stella-montis",
+    "lat": 1776.2522343406072,
+    "lng": 4166.273154751138,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "a02c2774-712e-5e27-957d-2a5ed1d89783",
+    "mapID": "stella-montis",
+    "lat": 1721.0979054080565,
+    "lng": 4927.120051307863,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "365011a4-a2e2-6990-b6c3-95e69d252998",
+    "mapID": "stella-montis",
+    "lat": 2909.037297801456,
+    "lng": 3036.316518415035,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "b05fb701-2450-fbab-76f9-b54ffd82607d",
+    "mapID": "stella-montis",
+    "lat": 2781.758077187878,
+    "lng": 3087.228206660466,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "c202e26e-03b9-cb85-6bae-c1b6b653b6c2",
+    "mapID": "stella-montis",
+    "lat": 2860.954036680771,
+    "lng": 3945.6558390209348,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "668b7593-7db0-3195-545a-69393bd1a8c5",
+    "mapID": "stella-montis",
+    "lat": 3681.1979028571664,
+    "lng": 5048.742417671949,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "222ea504-7275-918f-799a-188d8c3ed1e3",
+    "mapID": "stella-montis",
+    "lat": 3730.6953775402244,
+    "lng": 5047.328204109576,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "a7244f5d-9976-2424-74bf-cc05e04916ff",
+    "mapID": "stella-montis",
+    "lat": 3650.085204484958,
+    "lng": 5093.997251667888,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "0f82584d-f162-c903-3008-221f0c4e41da",
+    "mapID": "stella-montis",
+    "lat": 3969.6974695812773,
+    "lng": 5048.742417671949,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "421b1389-87f6-b6e9-3f9f-8e67409757fe",
+    "mapID": "stella-montis",
+    "lat": 3832.518754031087,
+    "lng": 5112.382027978738,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "4f521af3-69ba-8cf7-2cc9-dd7376a2548f",
+    "mapID": "stella-montis",
+    "lat": 3739.180658914463,
+    "lng": 5359.86940139403,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "1629829d-b2f4-c6ce-f758-7df712e7b041",
+    "mapID": "stella-montis",
+    "lat": 3635.943068861227,
+    "lng": 5362.697828518776,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "9bd2d8d2-299c-c22b-6143-4784495fa02d",
+    "mapID": "stella-montis",
+    "lat": 3952.7269068328005,
+    "lng": 5364.112042081149,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "59064117-40a6-19e7-8ded-aa45a811cea5",
+    "mapID": "stella-montis",
+    "lat": 4064.449778260275,
+    "lng": 5359.86940139403,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "aac1259d-fa2c-6c5e-ad50-8f34e52bb990",
+    "mapID": "stella-montis",
+    "lat": 3681.1979028571664,
+    "lng": 5494.219689819474,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "e9a49163-bfb0-5000-6ec4-575489bffcba",
+    "mapID": "stella-montis",
+    "lat": 3797.1634149717597,
+    "lng": 5498.462330506593,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "513c98fa-4d8f-08d0-adbf-c6776f7fe26c",
+    "mapID": "stella-montis",
+    "lat": 3965.4548288941583,
+    "lng": 5494.219689819474,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "39e16cc2-32f5-50c8-1133-edb329930a6e",
+    "mapID": "stella-montis",
+    "lat": 4041.8223612623055,
+    "lng": 5495.633903381847,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "e780f332-2f05-98b6-ac79-96f435d207a7",
+    "mapID": "stella-montis",
+    "lat": 3732.1095911025977,
+    "lng": 5168.950570473662,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "fd31a014-c65b-74a7-244e-d3e8059a819f",
+    "mapID": "stella-montis",
+    "lat": 3981.011178080262,
+    "lng": 5167.536356911289,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "f98ea599-7b0f-9d42-336b-52db20472936",
+    "mapID": "stella-montis",
+    "lat": 1503.3090168026,
+    "lng": 2991.061684419096,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "e7aaee96-ef1c-0b63-6de5-2944f828ffcd",
+    "mapID": "stella-montis",
+    "lat": 1506.137443927346,
+    "lng": 3027.831237040796,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "36ec1a17-5d72-4600-d30e-e75a64faf4b4",
+    "mapID": "stella-montis",
+    "lat": 1829.9923497107848,
+    "lng": 2699.733690570238,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "6b52835f-794d-c381-60c3-157e48761ad3",
+    "mapID": "stella-montis",
+    "lat": 1828.5781361484119,
+    "lng": 2640.336720950568,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "975389fc-1a0a-406a-a7f7-f3f9cdda3b14",
+    "mapID": "stella-montis",
+    "lat": 1704.744178905248,
+    "lng": 3112.155019962121,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": null
+  },
+  {
+    "id": "dc921c62-1133-4383-9639-4d924b7d5780",
+    "mapID": "stella-montis",
+    "lat": 2555.4217185701045,
+    "lng": 4093.250889839366,
+    "category": "arc",
+    "subcategory": "shredder",
+    "instanceName": null
+  },
+  {
+    "id": "7af3bb3e-99aa-de97-5c42-84537ec91b28",
+    "mapID": "stella-montis",
+    "lat": 2968.0,
+    "lng": 5360.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "a15fde8e-82e2-df47-bf51-f09930047e32",
+    "mapID": "stella-montis",
+    "lat": 3324.0,
+    "lng": 5280.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "4d0732ac-f6af-6908-9119-1a242f1c856f",
+    "mapID": "stella-montis",
+    "lat": 2980.0,
+    "lng": 5832.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "4235622b-45cb-87bb-6e64-c4df027cefae",
+    "mapID": "stella-montis",
+    "lat": 2516.0,
+    "lng": 5748.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Tick"
+  },
+  {
+    "id": "34ab20cf-e507-4b33-9453-c234fc31ed7e",
+    "mapID": "stella-montis",
+    "lat": 2695.000488620348,
+    "lng": 4690.52499076627,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": "Ticks x 3"
+  },
+  {
+    "id": "acfcb561-bd24-79dd-7e6c-7f2253e8ae32",
+    "mapID": "stella-montis",
+    "lat": 3077.3287117238547,
+    "lng": 5023.286573549233,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "c5b7c9f7-bf27-ba1b-fd98-21272c36b5a4",
+    "mapID": "stella-montis",
+    "lat": 2641.7509345129415,
+    "lng": 5902.927409345299,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "330c62dc-ad29-60ce-8024-7a3f63badd08",
+    "mapID": "stella-montis",
+    "lat": 2986.8190437319768,
+    "lng": 5685.138520739842,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "2a84275d-7828-f5d8-27b2-de5ddee5802f",
+    "mapID": "stella-montis",
+    "lat": 2562.554975020048,
+    "lng": 2571.0402563942866,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  },
+  {
+    "id": "ea6329cf-432f-6385-224c-4c837f23caaf",
+    "mapID": "stella-montis",
+    "lat": 2568.2118292695404,
+    "lng": 2353.25136778883,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": "Fireball"
+  }
+]

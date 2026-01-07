@@ -1,0 +1,200 @@
+[
+  {
+    "id": "3a0520bf-942b-49b8-96f2-0fa81052f35d",
+    "mapID": "blue-gate",
+    "lat": 4180.415290374869,
+    "lng": 9555.891381602798,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "7b1bce24-c1af-415d-801e-97e8023c6742",
+    "mapID": "blue-gate",
+    "lat": 7082.38152036446,
+    "lng": 6224.748253517916,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "e58bded0-b3f3-400b-a1aa-4ce6533fb046",
+    "mapID": "blue-gate",
+    "lat": 3309.7682904386206,
+    "lng": 8516.598893689621,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "4b58dbdd-ae8c-daf5-0cfa-cba1c4f7a05e",
+    "mapID": "blue-gate",
+    "lat": 6268.0,
+    "lng": 9340.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "0790e1e7-1edf-db05-8a3a-ad04e53478fe",
+    "mapID": "blue-gate",
+    "lat": 6451.357297826498,
+    "lng": 8284.511483079596,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "203b97a7-2dad-439c-8059-85cf6e44bdc4",
+    "mapID": "blue-gate",
+    "lat": 3246.835797980387,
+    "lng": 6858.93577750951,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Spawn"
+  },
+  {
+    "id": "b9d8f845-152b-4df0-bfbc-1da9d1646dcc",
+    "mapID": "blue-gate",
+    "lat": 7749.890321804561,
+    "lng": 7201.1754596038,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "0b5577dd-dc69-4ae8-b2df-04b5fa38f557",
+    "mapID": "blue-gate",
+    "lat": 6013.2360672104,
+    "lng": 5379.668391267253,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "8f2216c0-f3ed-4aff-a6c2-7e2e180d77b2",
+    "mapID": "blue-gate",
+    "lat": 3168.06278183751,
+    "lng": 7986.963720591416,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Spawn, North of Headhouse."
+  },
+  {
+    "id": "0a1c7a21-c7be-40a0-b226-7a3df688559f",
+    "mapID": "blue-gate",
+    "lat": 5368.62680825361,
+    "lng": 4628.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Player Spawn"
+  },
+  {
+    "id": "638849e5-ac7d-4582-9c52-94e46b1514f6",
+    "mapID": "blue-gate",
+    "lat": 4597.446244313992,
+    "lng": 5566.387131440223,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Spawn Point"
+  },
+  {
+    "id": "19994503-5516-4cf2-a5f9-855de3f92e0f",
+    "mapID": "blue-gate",
+    "lat": 2810.0423484353396,
+    "lng": 5364.112042081149,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "b8f14e38-641c-47a0-87ee-77eafc50ef8d",
+    "mapID": "blue-gate",
+    "lat": 3110.0464216634427,
+    "lng": 7170.44940951165,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Village Spawn Point"
+  },
+  {
+    "id": "e65bfd15-7f6f-42ec-9ba5-2d5e65077bc5",
+    "mapID": "blue-gate",
+    "lat": 4462.520954223082,
+    "lng": 4432.051707628471,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "c1efad5a-4537-4459-9887-24b571d692ed",
+    "mapID": "blue-gate",
+    "lat": 6467.198620732163,
+    "lng": 6259.309227063318,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "484fba82-daa2-42df-9919-f2643a599fef",
+    "mapID": "blue-gate",
+    "lat": 2845.871827438209,
+    "lng": 6033.497283284667,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Village Shed Spawn"
+  },
+  {
+    "id": "fb41dcb3-0149-4480-80f9-07b9f551defd",
+    "mapID": "blue-gate",
+    "lat": 4811.154539193269,
+    "lng": 9554.42682739263,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "af54e8d6-bb61-4e47-b4a1-3a0f7a6309ee",
+    "mapID": "blue-gate",
+    "lat": 5099.425651709861,
+    "lng": 5618.478647078779,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Player Spawn"
+  },
+  {
+    "id": "3084dd92-dde6-4a06-afb7-d478f3047069",
+    "mapID": "blue-gate",
+    "lat": 6027.378202834131,
+    "lng": 5096.825678792634,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "South Forest Spawn"
+  },
+  {
+    "id": "883b029e-374d-472a-a14d-c84329571636",
+    "mapID": "blue-gate",
+    "lat": 3350.0,
+    "lng": 5040.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "438bce88-811a-4355-af6b-2a81d61b2142",
+    "mapID": "blue-gate",
+    "lat": 3849.4893167795644,
+    "lng": 5207.134336657736,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "3245a65d-fb58-4f9c-9ea5-37863538ce2b",
+    "mapID": "blue-gate",
+    "lat": 3466.2374413764555,
+    "lng": 6854.693136822391,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Top room of house"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "127263bd-8eea-90de-8ab6-988005872e19",
+    "mapID": "dam",
+    "lat": 4008.8554354741523,
+    "lng": 3749.0094826227823,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "ff630c5d-4bcd-3fc2-a73c-a56e39d46c95",
+    "mapID": "dam",
+    "lat": 2208.288019151305,
+    "lng": 5349.683859242001,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "1577ee2f-c8cc-9964-5e6d-c6fc95102dcc",
+    "mapID": "dam",
+    "lat": 3985.837677067906,
+    "lng": 4465.865639284671,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "db4a8ccc-4ba5-2664-4842-d6d515531ebd",
+    "mapID": "dam",
+    "lat": 1277.0,
+    "lng": 3794.7607696927034,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "6e45fc39-5f36-cf2c-5c5c-5864780fd9a0",
+    "mapID": "dam",
+    "lat": 3517.0,
+    "lng": 5183.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "ce535e9a-ff55-26ab-b2e7-158f8f296cf2",
+    "mapID": "dam",
+    "lat": 3953.846001320834,
+    "lng": 4992.838451313071,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "6dc093bc-6f90-6eb4-0041-99c3d6847fcf",
+    "mapID": "dam",
+    "lat": 1245.7677378833516,
+    "lng": 3220.16604006113,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "e41c6146-6445-0ee8-4259-7be81a697097",
+    "mapID": "dam",
+    "lat": 3395.9667029882885,
+    "lng": 3718.8248573272717,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "8dc94de7-2b80-8f2b-2712-d1d8f6266957",
+    "mapID": "dam",
+    "lat": 1019.129685133338,
+    "lng": 4213.023850859311,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "a77cca9b-d375-665b-36f4-239eeda0c996",
+    "mapID": "dam",
+    "lat": 1140.1355448112154,
+    "lng": 4662.863271834756,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "8b2d6a23-db91-a05d-4690-c8cdde5a875b",
+    "mapID": "dam",
+    "lat": 2791.9628183369223,
+    "lng": 2502.8700652335356,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "5587ff19-eeec-6aee-3e05-a2976a98fd45",
+    "mapID": "dam",
+    "lat": 2805.977524517095,
+    "lng": 4221.866587702284,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "7dca1d2a-386c-5697-6500-339bba1c9a5b",
+    "mapID": "dam",
+    "lat": 2742.9950054482433,
+    "lng": 4169.883026940925,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "5ee39a20-4271-fc7e-057d-710b66673beb",
+    "mapID": "dam",
+    "lat": 2008.053552693836,
+    "lng": 4742.68575607723,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "b786eb6c-c704-fe78-8ace-fa701cbdf713",
+    "mapID": "dam",
+    "lat": 1556.9612325464195,
+    "lng": 2799.9291430702665,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "973c1b38-141e-e16f-ef87-d4c945c279a3",
+    "mapID": "dam",
+    "lat": 1610.9922306972674,
+    "lng": 5314.790714293171,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "7e523d9b-b6bb-0063-c33d-6a6c057a789e",
+    "mapID": "dam",
+    "lat": 2214.6446997766593,
+    "lng": 2509.5263677031585,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "7a468a63-67ee-67f0-c8f2-8633415b8753",
+    "mapID": "dam",
+    "lat": 1422.2917095432545,
+    "lng": 4978.02098340139,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Under Ground Tunnel"
+  },
+  {
+    "id": "d8a3245b-d7bd-41aa-9c05-1e25c21f599b",
+    "mapID": "dam",
+    "lat": 3590.6276931333614,
+    "lng": 3004.1024434938954,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "4d09acba-7f43-2324-daa8-74a5e7d73220",
+    "mapID": "dam",
+    "lat": 3879.1913031060785,
+    "lng": 3361.9074801630054,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "05a49fb1-f65d-d563-53ff-2c169fa40526",
+    "mapID": "dam",
+    "lat": 3256.224491235585,
+    "lng": 2799.420315745007,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "40a5fcfe-46a5-4dee-81c3-36844e9185c1",
+    "mapID": "dam",
+    "lat": 3210.5425134386824,
+    "lng": 5264.011559488254,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "48a1ccf2-a8b1-4c15-970d-e11358dfa8e5",
+    "mapID": "dam",
+    "lat": 4169.101581875884,
+    "lng": 4174.758436125377,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  }
+]
