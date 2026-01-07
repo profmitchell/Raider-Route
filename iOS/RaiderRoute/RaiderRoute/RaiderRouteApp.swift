@@ -11,6 +11,7 @@ import SwiftUI
 @main
 struct RaiderRouteApp: App {
   @StateObject private var dataPackLoader = DataPackLoader()
+  @StateObject private var userDataStore = UserDataStore()
 
   var sharedModelContainer: ModelContainer = {
     let schema = Schema([
@@ -31,6 +32,7 @@ struct RaiderRouteApp: App {
     WindowGroup {
       ContentView()
         .environmentObject(dataPackLoader)
+        .environmentObject(userDataStore)
         .onAppear {
           dataPackLoader.load()
         }

@@ -17,6 +17,9 @@ class DataPackLoader: ObservableObject {
   var arcIndex: [String: ArcIndexEntry] = [:]
   var arcLootIndex: [String: [String]] = [:]
 
+  // Compact Items Cache
+  @Published var compactItems: [CompactItem] = []
+
   // Helper for bundle path
   private var bundle: Bundle { Bundle.main }
 
@@ -29,6 +32,7 @@ class DataPackLoader: ObservableObject {
         self.missingFiles = missing
         if missing.isEmpty {
           self.loadIndexes()
+          self.loadCompactItems()
           self.isLoaded = true
         }
       }
@@ -70,6 +74,57 @@ class DataPackLoader: ObservableObject {
       }
     }
     return missing
+  }
+
+  private func loadCompactItems() {
+    DispatchQueue.global(qos: .userInitiated).async {
+      // Look for items.all.json to parse into compact items
+      let locations: [String?] = ["DataPack/raw", "raw", "DataPack/derived", "derived", nil]
+      var url: URL?
+      for loc in locations {
+        if let u = self.bundle.url(
+          forResource: "items.all.json", withExtension: nil, subdirectory: loc)
+        {
+          url = u
+          break
+        }
+      }
+
+      guard let foundUrl = url else {
+        print("DataPackLoader: items.all.json not found, skipping compact item cache.")
+        return
+      }
+
+      do {
+        let data = try Data(contentsOf: foundUrl)
+        let rawItems = try JSONDecoder().decode([RawItemStub].self, from: data)
+
+        let compact = rawItems.compactMap { item -> CompactItem? in
+          // Prefer explicit ID fields
+          guard let id = item.id ?? item._id ?? item.itemID else { return nil }
+          let name = item.name ?? item.displayName ?? item.title ?? "Unknown"
+
+          return CompactItem(
+            id: id,
+            name: name,
+            category: item.category ?? item.type,
+            rarity: item.rarity,
+            description: item.description,
+            value: item.value ?? item.price,
+            weight: item.weight,
+            tier: item.tier ?? item.workbench,
+            tags: item.tags
+          )
+        }
+
+        DispatchQueue.main.async {
+          self.compactItems = compact
+          print("DataPackLoader: Parsed \(compact.count) compact items.")
+        }
+      } catch {
+        print("DataPackLoader: Failed to parse items.all.json: \(error)")
+      }
+    }
   }
 
   private func loadIndexes() {
@@ -130,4 +185,24 @@ struct ComponentEntry: Decodable {
 struct ArcIndexEntry: Decodable {
   let id: String
   let name: String
+}
+
+// Helper struct for parsing raw items
+private struct RawItemStub: Decodable {
+  let id: String?
+  let _id: String?
+  let itemID: String?
+  let name: String?
+  let displayName: String?
+  let title: String?
+  let category: String?
+  let type: String?
+  let rarity: String?
+  let description: String?
+  let value: Double?
+  let price: Double?
+  let weight: Double?
+  let tier: String?
+  let workbench: String?
+  let tags: [String]?
 }
