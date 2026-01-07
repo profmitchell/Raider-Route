@@ -164,6 +164,13 @@ class DataPackLoader: ObservableObject {
       return nil
     }
   }
+  func loadMapNodes(mapID: String) -> [CompactMapNode] {
+    // Need to load map.<mapID>.nodes.compact.json
+    guard let nodes: [CompactMapNode] = loadJSON(filename: "map.\(mapID).nodes.compact.json") else {
+      return []
+    }
+    return nodes
+  }
 }
 
 // Structures matching the JSON schema
