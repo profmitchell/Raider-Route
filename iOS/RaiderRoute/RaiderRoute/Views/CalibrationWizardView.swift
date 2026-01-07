@@ -60,6 +60,10 @@ struct CalibrationWizardView: View {
           Text("Tap map to place anchor for: \(selectedNodeName)")
             .font(.caption)
 
+          TextField("Search Anchors (e.g. Exit)", text: $searchText)
+            .textFieldStyle(.roundedBorder)
+            .padding(.horizontal)
+
           ScrollView(.horizontal) {
             HStack {
               ForEach(suggestedAnchors, id: \.id) { node in
@@ -77,6 +81,11 @@ struct CalibrationWizardView: View {
           }
           .padding()
 
+          Button("Auto Calibrate (Fit to Image)") {
+            autoCalibrate()
+          }
+          .padding(.bottom, 8)
+
           Button("Save Calibration") {
             save()
           }
@@ -93,11 +102,42 @@ struct CalibrationWizardView: View {
     }
   }
 
+  @State private var searchText = ""
+
   var suggestedAnchors: [CompactMapNode] {
-    // Filter mainly spawns or clearly named POIs
     let nodes = dataPack.loadMapNodes(mapID: mapID)
-    // Return top 5 distinct/spread out ones if possible, or just first few spawns
-    return Array(nodes.prefix(10))
+
+    // Filter for likely landmarks
+    let landmarks = nodes.filter { node in
+      let sub = node.subcategory?.lowercased() ?? ""
+      let cat = node.category?.lowercased() ?? ""
+
+      // Must have a name or be a significant type
+      let hasName = (node.instanceName != nil && !node.instanceName!.isEmpty)
+      let isSignificant =
+        sub.contains("extraction") || sub.contains("hatch") || sub.contains("locked_room")
+        || sub.contains("tower") || cat == "locations"
+
+      return hasName || isSignificant
+    }
+
+    let sorted = landmarks.sorted { a, b in
+      // extractions first
+      let aExt = a.subcategory?.contains("extraction") ?? false
+      let bExt = b.subcategory?.contains("extraction") ?? false
+      if aExt != bExt { return aExt }
+
+      // then named
+      let aName = a.instanceName ?? ""
+      let bName = b.instanceName ?? ""
+      return aName < bName
+    }
+
+    if searchText.isEmpty {
+      return Array(sorted.prefix(20))
+    } else {
+      return sorted.filter { nodeName($0).localizedCaseInsensitiveContains(searchText) }
+    }
   }
 
   var selectedNodeName: String {
@@ -160,6 +200,40 @@ struct CalibrationWizardView: View {
     // SwiftData save
     modelContext.insert(calibration)
     isPresented = false
+  }
+
+  func autoCalibrate() {
+    guard let bounds = dataPack.getMapBounds(mapID: mapID), let img = image else { return }
+
+    // Heuristic: Map 0,0 image to Bounds TopLeft, etc.
+    // Game Coordinates often: X=Horizontal (Lng?), Y=Vertical (Lat?) or inverted.
+    // Usually Lat/Lng from game data:
+    // Lat = Y (vertical), Lng = X (horizontal)
+    // Check data:
+    // Bounds: minLat..maxLat, minLng..maxLng
+    // Image: 0..W, 0..H
+
+    // We need 3 points.
+    // Point 1: Top-Left (Min X, Min Y) -> (minLng, maxLat) [If Y is Up]
+    // Wait, standard image: (0,0) is top-left.
+    // Game coords: Usually Y grows up? Or down?
+    // Let's assume standard map: Lng=X (Left->Right), Lat=Y (Bottom->Top).
+
+    // So:
+    // Image (0,0) [Top-Left] -> (minLng, maxLat)
+    // Image (W,H) [Bottom-Right] -> (maxLng, minLat)
+    // Image (0,H) [Bottom-Left] -> (minLng, minLat)
+
+    let w = img.size.width
+    let h = img.size.height
+
+    anchors = [
+      CalibrationAnchor(nodeId: "auto-tl", lat: bounds.maxLat, lng: bounds.minLng, x: 0, y: 0),
+      CalibrationAnchor(nodeId: "auto-br", lat: bounds.minLat, lng: bounds.maxLng, x: w, y: h),
+      CalibrationAnchor(nodeId: "auto-bl", lat: bounds.minLat, lng: bounds.minLng, x: 0, y: h),
+    ]
+
+    save()
   }
 }
 

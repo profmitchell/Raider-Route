@@ -171,6 +171,31 @@ class DataPackLoader: ObservableObject {
     }
     return nodes
   }
+  func loadMapGraph(mapID: String) -> Graph? {
+    return loadJSON(filename: "map.\(mapID).graph.json")
+  }
+
+  func getMapBounds(mapID: String) -> MapBounds? {
+    let nodes = loadMapNodes(mapID: mapID)
+    guard !nodes.isEmpty else { return nil }
+
+    let lats = nodes.map { $0.lat }
+    let lngs = nodes.map { $0.lng }
+
+    return MapBounds(
+      minLat: lats.min() ?? 0,
+      maxLat: lats.max() ?? 0,
+      minLng: lngs.min() ?? 0,
+      maxLng: lngs.max() ?? 0
+    )
+  }
+}
+
+struct MapBounds {
+  let minLat: Double
+  let maxLat: Double
+  let minLng: Double
+  let maxLng: Double
 }
 
 // Structures matching the JSON schema

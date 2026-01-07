@@ -9,6 +9,11 @@ struct ItemBrowserView: View {
   @State private var filterRarity: String? = nil
   @State private var showFavoritesOnly = false
 
+  // Grid Layout
+  let columns = [
+    GridItem(.adaptive(minimum: 160), spacing: 16)
+  ]
+
   enum SortOption {
     case name, rarity, value
   }
@@ -46,13 +51,17 @@ struct ItemBrowserView: View {
 
   var body: some View {
     NavigationStack {
-      List(filteredItems) { item in
-        NavigationLink(destination: ItemDetailView(item: item)) {
-          ItemRow(item: item)
+      ScrollView {
+        LazyVGrid(columns: columns, spacing: 16) {
+          ForEach(filteredItems) { item in
+            ItemCard(item: item)
+          }
         }
+        .padding()
       }
+      .background(Color(UIColor.systemGroupedBackground))
       .searchable(text: $searchText, prompt: "Search Items")
-      .navigationTitle("Items")
+      .navigationTitle("Catalog")
       .toolbar {
         ToolbarItem(placement: .topBarTrailing) {
           Menu {
@@ -79,7 +88,7 @@ struct ItemBrowserView: View {
       }
       .overlay {
         if loader.compactItems.isEmpty {
-          ContentUnavailableView("Loading Items...", systemImage: "arrow.triangle.2.circlepath")
+          ContentUnavailableView("Loading Catalog...", systemImage: "arrow.triangle.2.circlepath")
         } else if filteredItems.isEmpty {
           ContentUnavailableView.search(text: searchText)
         }
@@ -88,28 +97,85 @@ struct ItemBrowserView: View {
   }
 }
 
-struct ItemRow: View {
+struct ItemCard: View {
   let item: CompactItem
+  @State private var isExpanded = false
+  @EnvironmentObject var userData: UserDataStore
 
   var body: some View {
-    HStack {
-      VStack(alignment: .leading) {
-        Text(item.name)
-          .font(.headline)
-        if let cat = item.category {
-          Text(cat)
+    VStack(alignment: .leading, spacing: 8) {
+      // Header
+      HStack(alignment: .top) {
+        VStack(alignment: .leading) {
+          Text(item.name)
+            .font(.headline)
+            .lineLimit(2)
+            .fixedSize(horizontal: false, vertical: true)
+
+          if let cat = item.category {
+            Text(cat)
+              .font(.caption2)
+              .foregroundStyle(.secondary)
+          }
+        }
+        Spacer()
+
+        Button {
+          userData.toggleFavorite(itemId: item.id)
+        } label: {
+          Image(systemName: userData.isFavorite(itemId: item.id) ? "star.fill" : "star")
+            .foregroundStyle(.yellow)
             .font(.caption)
-            .foregroundStyle(.secondary)
         }
       }
-      Spacer()
+
+      // Badge
       if let rarity = item.rarity {
         Text(rarity)
           .font(.caption2)
+          .fontWeight(.semibold)
           .padding(.horizontal, 6)
           .padding(.vertical, 2)
-          .background(Color.gray.opacity(0.2))
+          .background(Color.gray.opacity(0.1))
           .cornerRadius(4)
+      }
+
+      if isExpanded {
+        Divider()
+
+        VStack(alignment: .leading, spacing: 4) {
+          if let val = item.value {
+            Label("\(Int(val))", systemImage: "dollarsign.circle")
+          }
+          if let w = item.weight {
+            Label(String(format: "%.1f kg", w), systemImage: "scalemass")
+          }
+          if let tier = item.tier {
+            Label(tier, systemImage: "hammer")
+          }
+
+          NavigationLink(destination: ItemDetailView(item: item)) {
+            Text("View Details")
+              .font(.caption)
+              .fontWeight(.bold)
+              .frame(maxWidth: .infinity)
+              .padding(.vertical, 6)
+              .background(Color.blue.opacity(0.1))
+              .cornerRadius(6)
+          }
+          .padding(.top, 4)
+        }
+        .font(.caption)
+        .foregroundStyle(.secondary)
+      }
+    }
+    .padding()
+    .background(Color(UIColor.secondarySystemGroupedBackground))
+    .cornerRadius(12)
+    .shadow(color: .black.opacity(0.05), radius: 2, x: 0, y: 1)
+    .onTapGesture {
+      withAnimation(.snappy) {
+        isExpanded.toggle()
       }
     }
   }

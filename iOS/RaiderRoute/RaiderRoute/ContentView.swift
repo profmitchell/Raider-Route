@@ -5,8 +5,8 @@
 //  Created by Mitchell Cohen on 1/7/26.
 //
 
-import SwiftUI
 import SwiftData
+import SwiftUI
 
 struct ContentView: View {
   var body: some View {
@@ -26,9 +26,9 @@ struct ContentView: View {
           Label("Map", systemImage: "map")
         }
 
-      SearchView()
+      ItemBrowserView()
         .tabItem {
-          Label("Search", systemImage: "magnifyingglass")
+          Label("Catalog", systemImage: "magnifyingglass")
         }
 
       HistoryView()
@@ -42,5 +42,6 @@ struct ContentView: View {
 #Preview {
   ContentView()
     .environmentObject(DataPackLoader())
+    .environmentObject(UserDataStore())
     .modelContainer(for: [RaidSession.self, LearnedProfile.self, Calibration.self], inMemory: true)
 }
