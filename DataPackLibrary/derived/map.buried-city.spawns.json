@@ -1,0 +1,182 @@
+[
+  {
+    "id": "f33ba2ce-afe1-3465-f329-cb2fe80e8798",
+    "mapID": "buried-city",
+    "lat": 6543.2855805041545,
+    "lng": 8723.223704013875,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "57adf66c-512d-8f79-9e1f-83d21bdb00b0",
+    "mapID": "buried-city",
+    "lat": 6362.36301021874,
+    "lng": 8106.2326567091695,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "9b8f95b0-4694-750a-4a7a-f782e4513ddd",
+    "mapID": "buried-city",
+    "lat": 5877.721964885261,
+    "lng": 8023.582740005212,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "9a5ebeaf-e1b8-fa43-533b-32c27c02b37a",
+    "mapID": "buried-city",
+    "lat": 5600.04289276808,
+    "lng": 6991.004912149632,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "98db6690-0786-35fb-1660-50e611edb5ec",
+    "mapID": "buried-city",
+    "lat": 5700.061589089661,
+    "lng": 5007.733571368559,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "7ced994b-6db1-030d-2268-bacacd92bcc6",
+    "mapID": "buried-city",
+    "lat": 4592.785691613567,
+    "lng": 5174.244843954234,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "43c33121-8bbf-9479-377d-f1561a7eaed4",
+    "mapID": "buried-city",
+    "lat": 3868.6091784940327,
+    "lng": 6740.851018534428,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "8a17be98-6b96-6e74-4a20-e0bb268d485c",
+    "mapID": "buried-city",
+    "lat": 3187.637369588956,
+    "lng": 7960.608142598151,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "c9c64d8e-cf60-8ace-d13f-d15f4e04f38b",
+    "mapID": "buried-city",
+    "lat": 5449.068893978373,
+    "lng": 9387.550617549994,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "88ec82b7-72e3-56fc-ca4f-f03caed4bfd6",
+    "mapID": "buried-city",
+    "lat": 3588.540149625935,
+    "lng": 8522.50215456862,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "d5ab6c3a-0297-631b-e34c-12dec911bcfa",
+    "mapID": "buried-city",
+    "lat": 2792.314652498172,
+    "lng": 7074.596912585738,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "c12a12dc-666a-c816-b17c-24b027551ac1",
+    "mapID": "buried-city",
+    "lat": 3128.9162171018884,
+    "lng": 6346.804100103441,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "a523964f-4399-4424-8761-711589725160",
+    "mapID": "buried-city",
+    "lat": 3897.548733449989,
+    "lng": 7809.825456668874,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "779b910c-a627-99f2-c3ba-c9307fc55cf1",
+    "mapID": "buried-city",
+    "lat": 4913.941330414647,
+    "lng": 7588.8670893825565,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "2996daf2-c5bb-77e1-69f7-a889f690a47f",
+    "mapID": "buried-city",
+    "lat": 6540.639132514966,
+    "lng": 6685.722400545298,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "397dd653-3b23-81c9-3fb9-fb5e9f4f88c6",
+    "mapID": "buried-city",
+    "lat": 6163.591457656192,
+    "lng": 5718.095623725259,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "1da0e0d4-1691-48e4-b6cc-77e2dec52aee",
+    "mapID": "buried-city",
+    "lat": 6994.426410340554,
+    "lng": 7557.557277321819,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Player Spawn"
+  },
+  {
+    "id": "78b733ea-216a-4c50-894e-abbd04bf008f",
+    "mapID": "buried-city",
+    "lat": 4666.448719270677,
+    "lng": 6388.420621794618,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "West Village: Piazza Roma"
+  },
+  {
+    "id": "f92ec210-c2d0-4592-9056-04756236a062",
+    "mapID": "buried-city",
+    "lat": 5603.543925892822,
+    "lng": 6421.718421014694,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Player Spawn"
+  },
+  {
+    "id": "9e9ffc83-40e9-4f4b-b88d-f69a981f07a9",
+    "mapID": "buried-city",
+    "lat": 4289.470063814815,
+    "lng": 8366.666657601645,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Potential Player Spawn"
+  }
+]

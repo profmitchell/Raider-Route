@@ -1,0 +1,66 @@
+{
+  "bastion": {
+    "id": "bastion",
+    "name": "Bastion"
+  },
+  "bombardier": {
+    "id": "bombardier",
+    "name": "Bombardier"
+  },
+  "fireball": {
+    "id": "fireball",
+    "name": "Fireball"
+  },
+  "hornet": {
+    "id": "hornet",
+    "name": "Hornet"
+  },
+  "leaper": {
+    "id": "bison",
+    "name": "Leaper"
+  },
+  "matriarch": {
+    "id": "matriarch",
+    "name": "Matriarch"
+  },
+  "pop": {
+    "id": "pop",
+    "name": "Pop"
+  },
+  "queen": {
+    "id": "queen",
+    "name": "Queen"
+  },
+  "rocketeer": {
+    "id": "rocketeer",
+    "name": "Rocketeer"
+  },
+  "sentinel": {
+    "id": "sentinel",
+    "name": "Sentinel"
+  },
+  "shredder": {
+    "id": "shredder",
+    "name": "Shredder"
+  },
+  "snitch": {
+    "id": "snitch",
+    "name": "Snitch"
+  },
+  "surveyor": {
+    "id": "rollbot",
+    "name": "Surveyor"
+  },
+  "tick": {
+    "id": "tick",
+    "name": "Tick"
+  },
+  "turret": {
+    "id": "turret",
+    "name": "Turret"
+  },
+  "wasp": {
+    "id": "wasp",
+    "name": "Wasp"
+  }
+}

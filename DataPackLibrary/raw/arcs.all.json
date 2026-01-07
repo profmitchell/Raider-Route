@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "bastion",
+    "name": "Bastion",
+    "description": "A massive, heavily armored ARC unit, built around a terrifying, fully automatic minigun. It rarely moves without air support overhead, which helps it pin down and suppress Raider movement. Listen for its loud, distinct screech—that's your warning before it unleashes a three-second hail of bullets toward the last known enemy position.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/bastion.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/bastion.webp",
+    "created_at": "2025-10-08T11:16:51.624713+00:00",
+    "updated_at": "2025-11-04T15:53:56.05961+00:00",
+    "loot": [
+      {
+        "id": "bc4a3a1e-0107-49f9-9199-6a6c70371882",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "1e0cd1fd-f2cd-4cc2-b3ab-633315ade89f",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "89894907-8b09-42da-bf3a-c474e10e0a85",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "364e4729-661a-4213-9b3c-cc601ef6c16f",
+        "item": {
+          "id": "arc-circuitry",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-circuitry.webp",
+          "name": "ARC Circuitry",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-circuitry",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "d4aaa728-f53f-4108-b37b-e9db626ef700",
+        "item": {
+          "id": "bastion-part",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bastion-part.webp",
+          "name": "Bastion Cell",
+          "rarity": "Epic",
+          "item_type": "Recyclable"
+        },
+        "item_id": "bastion-part",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "2368cd99-061c-44cd-a5cf-162b3129ac09",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "f16c35fe-c9fe-4ffc-9dc2-275aba5f1242",
+        "item": {
+          "id": "mechanical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/mechanical-components.webp",
+          "name": "Mechanical Components",
+          "rarity": "Uncommon",
+          "item_type": "Refined Material"
+        },
+        "item_id": "mechanical-components",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "c649d1e2-69a3-453d-9585-94e81777b2e8",
+        "item": {
+          "id": "medium-gun-parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-gun-parts.webp",
+          "name": "Medium Gun Parts",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "medium-gun-parts",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      },
+      {
+        "id": "87bb0237-527e-41ee-8b62-f79ce5c61728",
+        "item": {
+          "id": "medium-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-ammo.webp",
+          "name": "Medium Ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "medium-ammo",
+        "created_at": "2025-11-04T15:53:56.825634+00:00"
+      }
+    ]
+  },
+  {
+    "id": "bombardier",
+    "name": "Bombardier",
+    "description": "The Bombardier is an armored ARC that functions as heavy, mobile artillery. Its movement is slow and loud. Armed with a multi-rocket launcher, it unleashes devastating, long-range barrages that can obliterate your entire squad. Do not engage this unit. If you hear its grinding approach, silence your movement and escape the area immediately, as its attention is a death sentence.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/bombardier.webp",
+    "image": "",
+    "created_at": "2025-10-22T14:25:32.537307+00:00",
+    "updated_at": "2025-11-04T15:56:36.588716+00:00",
+    "loot": [
+      {
+        "id": "fdc2344c-bdab-4f1b-857c-36c57d9a87c5",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "4a012c4f-eb0a-4a7d-8d6b-38d8f09a5cd3",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "333ec531-7afc-4920-93c1-4a8a40abb0df",
+        "item": {
+          "id": "arc-performance-steel",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-performance-steel.webp",
+          "name": "ARC Performance Steel",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-performance-steel",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "3dde6de4-07d2-4af7-97d2-ee9bf7fff7b0",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "29d643e0-3bc2-4e47-8953-21cf040cac3e",
+        "item": {
+          "id": "mechanical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/mechanical-components.webp",
+          "name": "Mechanical Components",
+          "rarity": "Uncommon",
+          "item_type": "Refined Material"
+        },
+        "item_id": "mechanical-components",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "52f86a74-8a0c-4706-9358-2c18bf68f9f5",
+        "item": {
+          "id": "medium-gun-parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-gun-parts.webp",
+          "name": "Medium Gun Parts",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "medium-gun-parts",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "9700cbd2-6f30-4ba8-8116-2380c38f5bf1",
+        "item": {
+          "id": "bombardier-cell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/bombardier-cell.webp",
+          "name": "Bombardier Cell",
+          "rarity": "Epic",
+          "item_type": "Recyclable"
+        },
+        "item_id": "bombardier-cell",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      },
+      {
+        "id": "e762a63c-0232-4e0a-a528-4b21ec7b9f25",
+        "item": {
+          "id": "launcher-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/launcher-ammo.webp",
+          "name": "Launcher Ammo",
+          "rarity": "Rare",
+          "item_type": "Ammunition"
+        },
+        "item_id": "launcher-ammo",
+        "created_at": "2025-11-04T15:56:37.290049+00:00"
+      }
+    ]
+  },
+  {
+    "id": "fireball",
+    "name": "Fireball",
+    "description": "A small armored rolling ARC that spits flame. Will open up it's front panel when near Raiders to burn them alive. While the front is open its soft unarmored core is exposed.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/fireball.webp",
+    "image": "https://cdn.metaforge.app/arc-raiders/images/fireball.webp",
+    "created_at": "2025-10-08T12:06:35.605684+00:00",
+    "updated_at": "2025-12-09T19:56:31.920703+00:00",
+    "loot": [
+      {
+        "id": "7d75138b-6912-4cbe-bea0-871442efdfb2",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-12-09T19:56:32.267972+00:00"
+      },
+      {
+        "id": "716a1763-69b5-47fa-be11-2dac6e42ec3c",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-12-09T19:56:32.267972+00:00"
+      },
+      {
+        "id": "920a80d5-7fab-46a6-9fe8-a199521febb7",
+        "item": {
+          "id": "fireball-burner",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/fireball-burner.webp",
+          "name": "Fireball Burner",
+          "rarity": "Uncommon",
+          "item_type": "Recyclable"
+        },
+        "item_id": "fireball-burner",
+        "created_at": "2025-12-09T19:56:32.267972+00:00"
+      },
+      {
+        "id": "7adbe71b-f2d5-42af-9c29-5984aa929bfb",
+        "item": {
+          "id": "crude-explosives",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/crude-explosives.webp",
+          "name": "Crude Explosives",
+          "rarity": "Uncommon",
+          "item_type": "Refined Material"
+        },
+        "item_id": "crude-explosives",
+        "created_at": "2025-12-09T19:56:32.267972+00:00"
+      }
+    ]
+  },
+  {
+    "id": "hornet",
+    "name": "Hornet",
+    "description": "This is a medium-class drone, easily recognizable by the pair of armored rotors mounted prominently on its front. It rarely operates alone, preferring to patrol the skies alongside a swarm of Wasps or to act as an aerial shield for a larger, ground-based ARC. Its main attack is a focused, high-speed projectile. Watch for the brief, one-second pulse of a red aiming laser—that's your warning before it fires a specialized stun round designed to shred Raider shields and tear through light armor almost instantly.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/hornet.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/hornet.webp",
+    "created_at": "2025-10-08T12:02:46.903538+00:00",
+    "updated_at": "2025-11-04T15:57:34.464701+00:00",
+    "loot": [
+      {
+        "id": "d72521e4-6793-494c-aa45-83d22d7f319c",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T15:57:35.118713+00:00"
+      },
+      {
+        "id": "09615860-43e8-4535-b3dc-7e499451fe46",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T15:57:35.118713+00:00"
+      },
+      {
+        "id": "ed9d96c7-1b75-4830-b92c-66b4293b4f42",
+        "item": {
+          "id": "hornet-driver",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/hornet-driver.webp",
+          "name": "Hornet Driver",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "hornet-driver",
+        "created_at": "2025-11-04T15:57:35.118713+00:00"
+      },
+      {
+        "id": "fa5bf0c5-70ec-42d4-bde7-0ac43df4f3d3",
+        "item": {
+          "id": "medium-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/medium-ammo.webp",
+          "name": "Medium Ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "medium-ammo",
+        "created_at": "2025-11-04T15:57:35.118713+00:00"
+      },
+      {
+        "id": "867be66e-0b8f-47fe-bfd3-519bbffb361a",
+        "item": {
+          "id": "simple-gun-parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/simple-gun-parts.webp",
+          "name": "Simple Gun Parts",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "simple-gun-parts",
+        "created_at": "2025-11-04T15:57:35.118713+00:00"
+      }
+    ]
+  },
+  {
+    "id": "bison",
+    "name": "Leaper",
+    "description": "This isn't just an ARC; it's a massive, arachnid-like siege engine. Its heavy armor gives it a hulking, near-indestructible presence on the battlefield, but don't mistake its bulk for sluggishness. This mechanized spider possesses an unnerving, gravity-defying ability to leap vast distances. Reports confirm it has been seen clearing impossible gaps, even bounding effortlessly to the summit of a Spaceport tower. It's a vertical threat you can't simply hide from.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/bison.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/bison.webp",
+    "created_at": "2025-10-08T10:52:03.833747+00:00",
+    "updated_at": "2025-11-04T15:59:18.743003+00:00",
+    "loot": [
+      {
+        "id": "5743c1ee-6844-447b-b754-127e7c4ec36f",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "ec1a5aa4-bd9c-4d23-8ac6-b80295a9ddf5",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "305a4762-f620-4108-868f-6ff0b1b66bf3",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "b2cdcd54-60b7-421d-bd3c-4f19fa34e286",
+        "item": {
+          "id": "arc-circuitry",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-circuitry.webp",
+          "name": "ARC Circuitry",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-circuitry",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "0211e0dc-a172-44cb-a536-d5d18be67cba",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "6192a3c2-1174-4157-a291-2886a4a01fcc",
+        "item": {
+          "id": "leaper-pulse-unit",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/leaper-pulse-unit.webp",
+          "name": "Leaper Pulse Unit",
+          "rarity": "Epic",
+          "item_type": "Throwable"
+        },
+        "item_id": "leaper-pulse-unit",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "62a9a205-4889-47e1-9e4f-a0dbcdc82470",
+        "item": {
+          "id": "arc-flex-rubber",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-flex-rubber.webp",
+          "name": "ARC Flex Rubber",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-flex-rubber",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "1fc14af0-8e7a-4f07-98ab-a2867a42fef7",
+        "item": {
+          "id": "arc-performance-steel",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-performance-steel.webp",
+          "name": "ARC Performance Steel",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-performance-steel",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "6e04396f-d7f4-4641-91e9-91d493953a08",
+        "item": {
+          "id": "explosive-compound",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/explosive-compound.webp",
+          "name": "Explosive Compound",
+          "rarity": "Rare",
+          "item_type": "Refined Material"
+        },
+        "item_id": "explosive-compound",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      },
+      {
+        "id": "2afbf094-1df8-4a9e-b45a-6b69fc6b395d",
+        "item": {
+          "id": "mechanical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/mechanical-components.webp",
+          "name": "Mechanical Components",
+          "rarity": "Uncommon",
+          "item_type": "Refined Material"
+        },
+        "item_id": "mechanical-components",
+        "created_at": "2025-11-04T15:59:19.422889+00:00"
+      }
+    ]
+  },
+  {
+    "id": "matriarch",
+    "name": "Matriarch",
+    "description": "The head of the Family. This ARC shoots rockets, gas and has big shield. She will also spawn her Leapers, Bastions, Fireballs, Hornets and Wasps.",
+    "icon": "https://cdn.metaforge.app/arc-raiders/icons/matriarch.webp",
+    "image": "https://cdn.metaforge.app/arc-raiders/images/matriarch.webp",
+    "created_at": "2025-11-12T19:34:45.361835+00:00",
+    "updated_at": "2025-12-09T15:31:04.305795+00:00",
+    "loot": [
+      {
+        "id": "15316d3b-74a3-4c92-ab38-7f1f14466693",
+        "item": {
+          "id": "matriarch-reactor",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/matriarch-reactor.webp",
+          "name": "Matriarch Reactor",
+          "rarity": "Legendary",
+          "item_type": "Recyclable"
+        },
+        "item_id": "matriarch-reactor",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "1a42b93d-3f11-47de-9f38-614a8b09348a",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "c8d74f22-1e6c-4dcf-a635-f744b48fe210",
+        "item": {
+          "id": "arc-circuitry",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-circuitry.webp",
+          "name": "ARC Circuitry",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-circuitry",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "94f60b56-456b-4e5d-8068-2fb2be728299",
+        "item": {
+          "id": "arc-performance-steel",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-performance-steel.webp",
+          "name": "ARC Performance Steel",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-performance-steel",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "eba9e673-e24c-4b7d-a83d-be624f706aee",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "7e1693c7-0597-4e43-b454-4a80aff4d9d0",
+        "item": {
+          "id": "arc-flex-rubber",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-flex-rubber.webp",
+          "name": "ARC Flex Rubber",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-flex-rubber",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "0dc20355-d661-4a29-87f7-3eee46d90f78",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "1bff7546-d017-418c-b911-ddaa3a461023",
+        "item": {
+          "id": "arc-synthetic-resin",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-synthetic-resin.webp",
+          "name": "ARC Synthetic Resin",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-synthetic-resin",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "c1076a09-60e0-4c70-96f1-a2c116ffe43a",
+        "item": {
+          "id": "arc-thermo-lining",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-thermo-lining.webp",
+          "name": "ARC Thermo Lining",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-thermo-lining",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "0efc1bb1-e89b-4a4e-bfb2-046b4542a779",
+        "item": {
+          "id": "magnetic-accelerator",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/magnetic-accelerator.webp",
+          "name": "Magnetic Accelerator",
+          "rarity": "Epic",
+          "item_type": "Refined Material"
+        },
+        "item_id": "magnetic-accelerator",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      },
+      {
+        "id": "b74f6ab3-9420-4acf-9cc5-5293f96039bd",
+        "item": {
+          "id": "aphelion-rifle-blueprint",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/aphelion-rifle-blueprint.webp",
+          "name": "Aphelion Rifle Blueprint",
+          "rarity": "Legendary",
+          "item_type": "Blueprint"
+        },
+        "item_id": "aphelion-rifle-blueprint",
+        "created_at": "2025-12-09T15:31:05.007044+00:00"
+      }
+    ]
+  },
+  {
+    "id": "pop",
+    "name": "Pop",
+    "description": "The Pop is a small, unarmored rolling machine. It's a quick, impulsive enemy that often roams in swarms. Often found indoors, the Pop's purpose is thought to be clearing out rubble and blockages that may inhibit ARC's operations. The Pop seems to have little regard for its own safety; carrying an explosive charge that \"pops\" upon impact, scorching any Raider that lets it get too close.",
+    "icon": "https://cdn.metaforge.app/arc-raiders/icons/pop.webp",
+    "image": "https://cdn.metaforge.app/arc-raiders/images/pop.webp",
+    "created_at": "2025-10-08T12:05:37.972313+00:00",
+    "updated_at": "2025-12-09T19:55:04.079569+00:00",
+    "loot": [
+      {
+        "id": "628244e9-95bd-435f-9c73-880a3eb569b7",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-12-09T19:55:04.43944+00:00"
+      },
+      {
+        "id": "b627b142-c1a5-4763-bf4d-3ab03982551a",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-12-09T19:55:04.43944+00:00"
+      },
+      {
+        "id": "2b18efb9-9118-4fd7-96b9-9c30c929121b",
+        "item": {
+          "id": "arc-thermo-lining",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-thermo-lining.webp",
+          "name": "ARC Thermo Lining",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-thermo-lining",
+        "created_at": "2025-12-09T19:55:04.43944+00:00"
+      },
+      {
+        "id": "b0239e35-43fb-48e8-90e2-6fb866a17338",
+        "item": {
+          "id": "crude-explosives",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/crude-explosives.webp",
+          "name": "Crude Explosives",
+          "rarity": "Uncommon",
+          "item_type": "Refined Material"
+        },
+        "item_id": "crude-explosives",
+        "created_at": "2025-12-09T19:55:04.43944+00:00"
+      },
+      {
+        "id": "834c1609-b4f0-423d-bc62-6cc3424ba21c",
+        "item": {
+          "id": "pop-trigger",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/pop-trigger.webp",
+          "name": "Pop Trigger",
+          "rarity": "Uncommon",
+          "item_type": "Recyclable"
+        },
+        "item_id": "pop-trigger",
+        "created_at": "2025-12-09T19:55:04.43944+00:00"
+      }
+    ]
+  },
+  {
+    "id": "queen",
+    "name": "Queen",
+    "description": "This is the Goliath of the ARC forces, a colossal machine whose presence defines the battlefield. It is only deployed during the critical Harvester Event, acting as the immovable guardian of the Harvester unit. Its incredible durability and lethal arsenal make it the single greatest threat on the map; attempting to scratch its armor alone is a fool's errand—you'll need a full squad of Raiders working in concert just to stand a chance.\n\nIts attacks are devastating:\n\nMortar Barrage: The dome atop the unit launches three massive mortars that land in a cluster around a targeted Raider. Two seconds after impact, they detonate in a fiery, engulfing inferno.\n\nSustained Laser: It periodically sweeps its primary weapon, firing a continuous laser beam at any Raider it acquires in its line-of-sight.\n\nClose-Quarters Deterrents: Should Raiders try to get up close and personal, the Goliath switches modes, delivering either a disruptive EMP pulse to shut down technology or a crushing ground slam to obliterate anything nearby.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/queen.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/queen_image.jpg",
+    "created_at": "2025-10-08T07:57:53.043251+00:00",
+    "updated_at": "2025-12-09T15:34:31.669525+00:00",
+    "loot": [
+      {
+        "id": "0f6fcfdb-6e56-4631-8571-aef00ed548fd",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "6efa773f-8367-4d5d-b3ef-16c7daea6639",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "23731e07-c094-4751-aebf-590e4213ea27",
+        "item": {
+          "id": "arc-circuitry",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-circuitry.webp",
+          "name": "ARC Circuitry",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-circuitry",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "47b60a18-9e67-4a88-a876-2c1a5d63b4c5",
+        "item": {
+          "id": "advanced-mechanical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-mechanical-components.webp",
+          "name": "Advanced Mechanical Components",
+          "rarity": "Rare",
+          "item_type": "Advanced Material"
+        },
+        "item_id": "advanced-mechanical-components",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "64055f25-d4ff-4f3f-8b78-8bdae14ac8ea",
+        "item": {
+          "id": "advanced-electrical-components",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-electrical-components.webp",
+          "name": "Advanced Electrical Components",
+          "rarity": "Rare",
+          "item_type": "Refined Material"
+        },
+        "item_id": "advanced-electrical-components",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "e0d426bd-ce56-450b-b8e0-6d00f8494dc1",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "bda63b90-ea0d-46f8-a405-f939cc76c102",
+        "item": {
+          "id": "queen-reactor",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/queen-reactor.webp",
+          "name": "Queen Reactor",
+          "rarity": "Legendary",
+          "item_type": "Recyclable"
+        },
+        "item_id": "queen-reactor",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "39616eb9-915d-422e-b4bf-5792212749a9",
+        "item": {
+          "id": "arc-coolant",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-coolant.webp",
+          "name": "ARC Coolant",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-coolant",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "a0d992c8-4b15-4893-adea-146ff7b0aae4",
+        "item": {
+          "id": "arc-flex-rubber",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-flex-rubber.webp",
+          "name": "ARC Flex Rubber",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-flex-rubber",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "bdf51e77-e6c2-4959-be83-b5a4e564566f",
+        "item": {
+          "id": "arc-thermo-lining",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-thermo-lining.webp",
+          "name": "ARC Thermo Lining",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-thermo-lining",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "cda051a6-e0e6-42ea-9617-6df528ed082d",
+        "item": {
+          "id": "arc-synthetic-resin",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-synthetic-resin.webp",
+          "name": "ARC Synthetic Resin",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-synthetic-resin",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "db4e8d16-e7b7-468a-b392-5f9fb10bee49",
+        "item": {
+          "id": "arc-performance-steel",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-performance-steel.webp",
+          "name": "ARC Performance Steel",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-performance-steel",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      },
+      {
+        "id": "4457aade-ee7a-4607-8760-8475d8295259",
+        "item": {
+          "id": "magnetic-accelerator",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/magnetic-accelerator.webp",
+          "name": "Magnetic Accelerator",
+          "rarity": "Epic",
+          "item_type": "Refined Material"
+        },
+        "item_id": "magnetic-accelerator",
+        "created_at": "2025-12-09T15:34:32.329395+00:00"
+      }
+    ]
+  },
+  {
+    "id": "rocketeer",
+    "name": "Rocketeer",
+    "description": "This is a formidable flying ARC, a pure engine of destruction that dominates the airspace. It poses a significant threat not just because it flies, but because of its powerful rocket attacks and devastating focus on area-of-effect (AoE) damage. This unit is designed to saturate an area, turning cover into a liability and forcing Raiders to constantly relocate or be wiped out by the sheer force of its explosions. Treat it like a mobile artillery piece—it hits hard and wide.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/rocketeer.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/rocketeer.webp",
+    "created_at": "2025-10-08T11:08:06.812016+00:00",
+    "updated_at": "2025-11-04T16:34:17.984429+00:00",
+    "loot": [
+      {
+        "id": "7d90ad16-0ad9-4140-bd8b-65d816c398a0",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "2357638b-bd34-4d07-96f7-dd2d8e04e717",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "7fb029a1-dfdd-4c3c-a912-568e90b0958d",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "e48415f8-f59e-4c5d-ba5c-69ab63d16e34",
+        "item": {
+          "id": "arc-circuitry",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-circuitry.webp",
+          "name": "ARC Circuitry",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-circuitry",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "f56af820-2a4c-4782-ad0d-ce8ed61b1d50",
+        "item": {
+          "id": "rocketeer-part",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/rocketeer-part.webp",
+          "name": "Rocketeer Driver",
+          "rarity": "Epic",
+          "item_type": "Recyclable"
+        },
+        "item_id": "rocketeer-part",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "bb0b7bf1-92cb-43fc-b129-5ccbb65222ba",
+        "item": {
+          "id": "heavy-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-ammo.webp",
+          "name": "Heavy Ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "heavy-ammo",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "6ed23cbe-564b-4ca6-9a6f-5b66d3e4a8cb",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      },
+      {
+        "id": "40b6996a-9edc-4588-aa4a-1c90477e6c91",
+        "item": {
+          "id": "heavy-gun-parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-gun-parts.webp",
+          "name": "Heavy Gun Parts",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "heavy-gun-parts",
+        "created_at": "2025-11-04T16:34:18.669309+00:00"
+      }
+    ]
+  },
+  {
+    "id": "sentinel",
+    "name": "Sentinel",
+    "description": "A large unarmored turret that sits atop buildings and ledges. Often found outside and usually very high up. Contains a small vulnerable capsule attached to its swiveling arm.\n\nTraces movement and will fire off a single Heavy round every 5 seconds while having line-of-sight on a Raider.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/sentinel.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/sentinel.webp",
+    "created_at": "2025-10-08T11:30:48.243119+00:00",
+    "updated_at": "2025-11-29T23:42:35.031249+00:00",
+    "loot": [
+      {
+        "id": "85426b84-a710-4b2f-923c-c95ca8659ccf",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "aaff2478-0048-4e28-a930-b54192313900",
+        "item": {
+          "id": "arc-coolant",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-coolant.webp",
+          "name": "ARC Coolant",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-coolant",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "a6ffd0b1-dec3-4dc3-a865-a2fa2f2588d4",
+        "item": {
+          "id": "arc-synthetic-resin",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-synthetic-resin.webp",
+          "name": "ARC Synthetic Resin",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-synthetic-resin",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "785917c0-edeb-4bc3-aca3-260236fe8be8",
+        "item": {
+          "id": "arc-thermo-lining",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-thermo-lining.webp",
+          "name": "ARC Thermo Lining",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-thermo-lining",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "c1b81478-0823-4aa5-ab44-59414c264446",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "1e683400-f2f1-418f-aff2-b5e6ca3637e7",
+        "item": {
+          "id": "sentinel-part",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sentinel-part.webp",
+          "name": "Sentinel Firing Core",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "sentinel-part",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "061f6c51-6bc5-488c-bf44-0c9a4c521d92",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      },
+      {
+        "id": "02797e71-9450-424d-9a87-fb621f3f2e77",
+        "item": {
+          "id": "heavy-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/heavy-ammo.webp",
+          "name": "Heavy Ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "heavy-ammo",
+        "created_at": "2025-11-29T23:42:35.394151+00:00"
+      }
+    ]
+  },
+  {
+    "id": "shredder",
+    "name": "Shredder",
+    "description": "When this relentless lump of menace was first encountered at the Stella Montis facility, it left behind a trail of downed Raiders. It was dubbed the \"Shredder\" by what few Raiders managed to get back to safety; a name that wasn't so much clever as it was painfully literal.",
+    "icon": "https://cdn.metaforge.app/arc-raiders/icons/shredder.webp",
+    "image": "https://cdn.metaforge.app/arc-raiders/images/shredder.webp",
+    "created_at": "2025-11-12T19:35:03.207409+00:00",
+    "updated_at": "2025-11-14T18:52:50.170349+00:00",
+    "loot": [
+      {
+        "id": "bbe30ec0-8e13-4e6f-bb7c-a3eaa8c193d9",
+        "item": {
+          "id": "shotgun-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/shotgun-ammo.webp",
+          "name": "Shotgun ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "shotgun-ammo",
+        "created_at": "2025-11-14T18:52:50.636795+00:00"
+      },
+      {
+        "id": "e282e49c-6e9f-46d9-904f-f6d8ca7557a2",
+        "item": {
+          "id": "shredder-gyro",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/shredder-gyro.webp",
+          "name": "Shredder Gyro",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "shredder-gyro",
+        "created_at": "2025-11-14T18:52:50.636795+00:00"
+      },
+      {
+        "id": "b82caf67-c9b0-4a4a-9c52-69e50e49476f",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-14T18:52:50.636795+00:00"
+      },
+      {
+        "id": "7ae6e4e3-b00d-4a5e-85bc-138e688faa00",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-14T18:52:50.636795+00:00"
+      },
+      {
+        "id": "101d4d78-0b69-4c70-95fa-07e67ba2006d",
+        "item": {
+          "id": "simple-gun-parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/simple-gun-parts.webp",
+          "name": "Simple Gun Parts",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "simple-gun-parts",
+        "created_at": "2025-11-14T18:52:50.636795+00:00"
+      }
+    ]
+  },
+  {
+    "id": "snitch",
+    "name": "Snitch",
+    "description": "This little flyer is a swift and unarmored scout drone, often identifiable by its cluster of three rotors. While individually fragile, its primary danger is its role as an aerial alarm system. Once it spots Raiders, it immediately triggers a wide-band signal, effectively calling in a wave of flying ARC reinforcements—usually a swarm of Wasps or Hornets—to descend on your position. Taking it out before it completes its transmission is essential, as its light frame means a single, well-aimed burst will shatter it.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/snitch.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/snitch.webp",
+    "created_at": "2025-10-08T12:03:30.869636+00:00",
+    "updated_at": "2025-11-04T16:36:02.1742+00:00",
+    "loot": [
+      {
+        "id": "12dd57e5-c785-41e6-a344-048858d80ae6",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T16:36:02.882962+00:00"
+      },
+      {
+        "id": "f0753d6e-2655-42fe-bcf8-530e49a99fa2",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T16:36:02.882962+00:00"
+      },
+      {
+        "id": "1b1cfcef-da95-49a3-b563-65f614904f2f",
+        "item": {
+          "id": "snitch-scanner",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/snitch-scanner.webp",
+          "name": "Snitch Scanner",
+          "rarity": "Uncommon",
+          "item_type": "Recyclable"
+        },
+        "item_id": "snitch-scanner",
+        "created_at": "2025-11-04T16:36:02.882962+00:00"
+      },
+      {
+        "id": "97c36cd8-8c8b-4d14-9839-e1ed39b3f19d",
+        "item": {
+          "id": "arc-synthetic-resin",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-synthetic-resin.webp",
+          "name": "ARC Synthetic Resin",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "arc-synthetic-resin",
+        "created_at": "2025-11-04T16:36:02.882962+00:00"
+      },
+      {
+        "id": "06b92865-8014-4c59-b376-07a64c28c0b0",
+        "item": {
+          "id": "sensors-recipe",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors-recipe.webp",
+          "name": "Sensors",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "sensors-recipe",
+        "created_at": "2025-11-04T16:36:02.882962+00:00"
+      }
+    ]
+  },
+  {
+    "id": "rollbot",
+    "name": "Surveyor",
+    "description": "This is the largest of the rolling ARCs, a massive, spherical construct designed to dominate open ground. Its primary tactic is to stop periodically on the battlefield to transmit disruptive signals, acting as a massive relay for the ARC network. Be warned, however, its most unique (and dangerous) trait is its resilience: as it takes damage, its outer shell breaks apart into many smaller, armored pieces. Its final attack is a relentless one: it will roll directly at high speed toward any Raider it detects, essentially turning itself into a giant, high-impact bowling ball.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/rollbot.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/rollbot.webp",
+    "created_at": "2025-10-08T11:32:47.592365+00:00",
+    "updated_at": "2025-12-09T15:28:04.010172+00:00",
+    "loot": [
+      {
+        "id": "bf19daeb-21ac-4ca7-a8f3-e11a62b2abc4",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "c0e485b8-f23e-4f00-bd76-747b5b710157",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "4dc12822-e4b9-4737-ab34-0194e35e0374",
+        "item": {
+          "id": "arc-motion-core",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-motion-core.webp",
+          "name": "ARC Motion Core",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-motion-core",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "ed7ad649-6dcb-4abc-b9a1-e788216ffb65",
+        "item": {
+          "id": "arc-circuitry",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-circuitry.webp",
+          "name": "ARC Circuitry",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-circuitry",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "5819ff03-854e-436d-8984-2223c2351f19",
+        "item": {
+          "id": "advanced-arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/advanced-arc-powercell.webp",
+          "name": "Advanced ARC Powercell",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "advanced-arc-powercell",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "913ffe13-5e95-4c76-9f64-456679211668",
+        "item": {
+          "id": "sensors-recipe",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/sensors-recipe.webp",
+          "name": "Sensors",
+          "rarity": "Rare",
+          "item_type": "Topside Material"
+        },
+        "item_id": "sensors-recipe",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "aeeb2ba6-daa0-462f-942b-2d8bdc8fcba7",
+        "item": {
+          "id": "surveyor-vault",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/surveyor-vault.webp",
+          "name": "Surveyor Vault",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "surveyor-vault",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "8be440df-b1c4-4605-9186-92d68aad75f7",
+        "item": {
+          "id": "vita-spray-recipe",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/vita-spray.webp",
+          "name": "Vita Spray Blueprint",
+          "rarity": "Legendary",
+          "item_type": "Blueprint"
+        },
+        "item_id": "vita-spray-recipe",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "65fd7028-7b75-40af-8f99-81dcc5670243",
+        "item": {
+          "id": "barricade-kit-recipe",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/barricade-kit.webp",
+          "name": "Barricade Kit Blueprint",
+          "rarity": "Legendary",
+          "item_type": "Blueprint"
+        },
+        "item_id": "barricade-kit-recipe",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      },
+      {
+        "id": "83dfd3ec-7d75-4465-881c-5c02a3a51ffd",
+        "item": {
+          "id": "extended-medium-mag-iii-blueprint",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/extended-medium-mag-iii.webp",
+          "name": "Extended Medium Mag III Blueprint",
+          "rarity": "Legendary",
+          "item_type": "Blueprint"
+        },
+        "item_id": "extended-medium-mag-iii-blueprint",
+        "created_at": "2025-12-09T15:28:04.703126+00:00"
+      }
+    ]
+  },
+  {
+    "id": "tick",
+    "name": "Tick",
+    "description": "This terrifying enemy, often called the Tick, is a small, unarmored ARC that specializes in the perfect ambush. It uses dark, indoor spaces—particularly the undersides of ceilings and dark corners of walls—as its hunting ground. It waits in absolute stillness until a Raider passes underneath. Then, without warning, it lunges for your head, aiming to latch directly onto your face or helmet. Once attached, it relentlessly drains your health and shield meter simultaneously. The panic is compounded by the fact that you must hold the [Interact] button to forcibly pry the parasite off, an agonizing process that leaves you exposed to other threats.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/tick.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/tick.webp",
+    "created_at": "2025-10-08T12:04:19.284698+00:00",
+    "updated_at": "2025-10-08T15:31:29.666707+00:00",
+    "loot": [
+      {
+        "id": "4f2d8b04-9592-4b9a-ad15-885ed3de8d61",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-10-08T15:31:30.012249+00:00"
+      },
+      {
+        "id": "8dcbd3b6-b1bb-4d3c-ae44-c7e3b6ab34de",
+        "item": {
+          "id": "tick-pod",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/tick-pod.webp",
+          "name": "Tick Pod",
+          "rarity": "Uncommon",
+          "item_type": "Recyclable"
+        },
+        "item_id": "tick-pod",
+        "created_at": "2025-10-08T15:31:30.012249+00:00"
+      }
+    ]
+  },
+  {
+    "id": "turret",
+    "name": "Turret",
+    "description": "This is a small, unarmored turret that provides close-quarters defense for the ARC. Its primary function is to scan constantly for movement, and you’ll typically find it mounted on interior walls inside buildings. Do not confuse this swift little gun with the massive, high-altitude Sentinel turrets you find outside. When it spots a Raider, it immediately opens fire, unleashing a two-second hail of bullets in an attempt to suppress and eliminate the threat quickly. Its lack of armor makes it fragile, but its location makes it dangerous.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/turret.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/turret.webp",
+    "created_at": "2025-10-08T11:31:30.853228+00:00",
+    "updated_at": "2025-11-04T16:37:03.775013+00:00",
+    "loot": [
+      {
+        "id": "5b15e861-5314-487d-94ad-787de81cbbe8",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T16:37:04.438328+00:00"
+      },
+      {
+        "id": "1a37d45b-08cd-4585-aaa5-b4bb50b4c20d",
+        "item": {
+          "id": "light-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/light-ammo.webp",
+          "name": "Light Ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "light-ammo",
+        "created_at": "2025-11-04T16:37:04.438328+00:00"
+      },
+      {
+        "id": "a85c5c41-1f03-439f-a039-f3f7f3c4c750",
+        "item": {
+          "id": "simple-gun-parts",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/simple-gun-parts.webp",
+          "name": "Simple Gun Parts",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "simple-gun-parts",
+        "created_at": "2025-11-04T16:37:04.438328+00:00"
+      }
+    ]
+  },
+  {
+    "id": "wasp",
+    "name": "Wasp",
+    "description": "This is the Wasp, a baseline enemy drone that poses a threat through sheer numbers. It is a small, unarmored flyer that peppers Raiders with light-caliber ammunition. You'll almost never encounter a Wasp alone; they operate in tight patrols alongside other Wasps or as escorts for their more dangerous counterpart, the Hornet. The moment it turns aggressive, look for a small red laser to lock onto you for one second—that's your cue to dodge before it unleashes a quick 1.5-second burst of gunfire.",
+    "icon": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/icons/wasp.webp",
+    "image": "https://unhbvkszwhczbjxgetgk.supabase.co/storage/v1/object/public/images/arc-raiders/images/wasp.webp",
+    "created_at": "2025-10-07T12:09:38.554285+00:00",
+    "updated_at": "2025-11-04T00:46:26.3945+00:00",
+    "loot": [
+      {
+        "id": "234959b5-6434-41ed-a8ad-776e3e815c60",
+        "item": {
+          "id": "wasp-driver",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/wasp-driver.webp",
+          "name": "Wasp Driver",
+          "rarity": "Rare",
+          "item_type": "Recyclable"
+        },
+        "item_id": "wasp-driver",
+        "created_at": "2025-11-04T00:46:26.731323+00:00"
+      },
+      {
+        "id": "0b569e5c-9598-4d15-ba41-2e0b6921084d",
+        "item": {
+          "id": "arc-alloy",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-alloy.webp",
+          "name": "ARC Alloy",
+          "rarity": "Uncommon",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-alloy",
+        "created_at": "2025-11-04T00:46:26.731323+00:00"
+      },
+      {
+        "id": "8c9849fa-e2ef-45f3-8b13-b7ef425c5af9",
+        "item": {
+          "id": "arc-powercell",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/arc-powercell.webp",
+          "name": "ARC Powercell",
+          "rarity": "Common",
+          "item_type": "Topside Material"
+        },
+        "item_id": "arc-powercell",
+        "created_at": "2025-11-04T00:46:26.731323+00:00"
+      },
+      {
+        "id": "9e55182c-26bd-43ff-95ff-899f485ba091",
+        "item": {
+          "id": "light-ammo",
+          "icon": "https://cdn.metaforge.app/arc-raiders/icons/light-ammo.webp",
+          "name": "Light Ammo",
+          "rarity": "Common",
+          "item_type": "Ammunition"
+        },
+        "item_id": "light-ammo",
+        "created_at": "2025-11-04T00:46:26.731323+00:00"
+      }
+    ]
+  }
+]

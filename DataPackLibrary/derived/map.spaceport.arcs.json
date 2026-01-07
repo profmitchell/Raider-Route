@@ -1,0 +1,785 @@
+[
+  {
+    "id": "15f608e6-f724-8897-bbc6-7c90c24ea1ef",
+    "mapID": "spaceport",
+    "lat": 2264.250346965181,
+    "lng": 3644.9198074833403,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "839171ec-a953-4527-df3d-f71db65db4d8",
+    "mapID": "spaceport",
+    "lat": 1838.115953478076,
+    "lng": 3767.3843616593604,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": ""
+  },
+  {
+    "id": "5d1a6ec8-19d0-d14c-b38b-a15d4be27cdd",
+    "mapID": "spaceport",
+    "lat": 3244.1570097274234,
+    "lng": 3746.0024122585714,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "3dddc21c-b4a7-e268-643c-ba414da2fdc0",
+    "mapID": "spaceport",
+    "lat": 3583.081037503199,
+    "lng": 4633.150920050602,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "0f07ee9d-53ba-a90d-9a6e-3bdf8da8503c",
+    "mapID": "spaceport",
+    "lat": 3189.9405512649664,
+    "lng": 4377.286289603211,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "c3370a00-81fc-07e1-a889-5ddd2731d270",
+    "mapID": "spaceport",
+    "lat": 2247.0068437976415,
+    "lng": 5066.022309911592,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "14301450-e928-b882-9957-d3257cccc361",
+    "mapID": "spaceport",
+    "lat": 1608.0,
+    "lng": 4377.0,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "26d61047-c81a-8233-fef1-ba5c426bedd9",
+    "mapID": "spaceport",
+    "lat": 1476.0,
+    "lng": 4299.0,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "d3248709-b0fe-ff65-6d87-9940e7d5484e",
+    "mapID": "spaceport",
+    "lat": 2528.0,
+    "lng": 4348.0,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": ""
+  },
+  {
+    "id": "5a9707d6-e83e-99e8-4992-b49aedce27a6",
+    "mapID": "spaceport",
+    "lat": 2746.107810496873,
+    "lng": 4369.707718536888,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "128f77cf-4d15-4a59-54a8-6d7aa98e0264",
+    "mapID": "spaceport",
+    "lat": 2710.340311176722,
+    "lng": 4396.9543397396155,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "e11ae37b-8625-fbce-9ad2-f3e3dac7bdf4",
+    "mapID": "spaceport",
+    "lat": 2543.032061691465,
+    "lng": 4165.730223186609,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": ""
+  },
+  {
+    "id": "dc79b959-f360-06ca-b4f4-36dccace4d16",
+    "mapID": "spaceport",
+    "lat": 2550.2856105046426,
+    "lng": 4080.490793552387,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "767a5657-8854-c9a0-91b1-bca896392a4a",
+    "mapID": "spaceport",
+    "lat": 2464.7437589837223,
+    "lng": 4141.98316800992,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "94b229ed-ed30-b940-2dd3-e9694700df7c",
+    "mapID": "spaceport",
+    "lat": 2529.8919486422437,
+    "lng": 4000.2542157470552,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "56b0bf18-01b3-4ab1-009a-c39d530b4adc",
+    "mapID": "spaceport",
+    "lat": 2519.8882774561985,
+    "lng": 3925.612569745815,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "7a7fb535-56af-0969-a6eb-91310bef4489",
+    "mapID": "spaceport",
+    "lat": 2041.081745075949,
+    "lng": 3406.9437693738378,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "ca2b6953-9df1-9093-0692-b32aa18fd935",
+    "mapID": "spaceport",
+    "lat": 2059.590800668195,
+    "lng": 3379.44717916925,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "e25ec8b0-af89-5735-d0fe-10be2ae08fc9",
+    "mapID": "spaceport",
+    "lat": 1316.0289243073275,
+    "lng": 3662.508540505265,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "50c59d9a-bfca-da4f-5bff-485d62b9e2d6",
+    "mapID": "spaceport",
+    "lat": 1299.7641952527097,
+    "lng": 3712.7231866088036,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "2d9c3dc8-5773-eed3-cdad-0ca7877b7643",
+    "mapID": "spaceport",
+    "lat": 1599.2991966078814,
+    "lng": 3401.4128779265416,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "3cc3b8d3-e69b-b5d5-086d-f205779b622e",
+    "mapID": "spaceport",
+    "lat": 1347.0991627011924,
+    "lng": 3685.4011770291268,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "5f75c33d-96ef-5813-0e0d-87d279ee1cb9",
+    "mapID": "spaceport",
+    "lat": 2016.1424420185697,
+    "lng": 3928.8695598264103,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "90af01c2-a618-3c04-f188-202fcc34d935",
+    "mapID": "spaceport",
+    "lat": 2841.322085389068,
+    "lng": 4195.850216986981,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "3af6db00-e195-3cc7-4de7-43b37edd0aea",
+    "mapID": "spaceport",
+    "lat": 2087.0993667689677,
+    "lng": 3452.9215127092375,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "c23fa999-6925-b610-710d-93e28c59a3e2",
+    "mapID": "spaceport",
+    "lat": 1348.452631722746,
+    "lng": 4175.465542906562,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "0b998dca-8774-6a2c-1495-bed3af3b3410",
+    "mapID": "spaceport",
+    "lat": 1595.9961335373796,
+    "lng": 3471.230947487965,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "91a71a42-3654-5142-efc2-4dad5b7efa1b",
+    "mapID": "spaceport",
+    "lat": 1358.3521266593577,
+    "lng": 4209.406668403517,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": ""
+  },
+  {
+    "id": "79616006-b53d-9fea-c021-16f901967fff",
+    "mapID": "spaceport",
+    "lat": 1406.1113593100501,
+    "lng": 4141.939181649101,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "3c35f325-05ab-172f-f54c-2ac4e3370953",
+    "mapID": "spaceport",
+    "lat": 1226.5,
+    "lng": 4018.5,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "dc2751fd-43a5-06f6-8232-38e45d064044",
+    "mapID": "spaceport",
+    "lat": 1310.975972319859,
+    "lng": 3623.5687001904626,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "9c50a554-b2e0-fddb-78a8-662c8f2375df",
+    "mapID": "spaceport",
+    "lat": 2162.164958626316,
+    "lng": 3401.914693118413,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "37ba576c-8dca-474a-66a3-735c37a622ff",
+    "mapID": "spaceport",
+    "lat": 1989.546501689911,
+    "lng": 3910.941103533788,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "f4a55570-a24e-d0e9-14b2-35c4a267a79b",
+    "mapID": "spaceport",
+    "lat": 1687.6194359193505,
+    "lng": 3405.9716057036576,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "c56ac96e-25e0-b847-0b69-c071e78a3fbc",
+    "mapID": "spaceport",
+    "lat": 1395.6090342255545,
+    "lng": 4125.463670179789,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "739a3944-0cea-86fa-cc82-a544fe90ecd9",
+    "mapID": "spaceport",
+    "lat": 1098.8273742625142,
+    "lng": 3003.342568939372,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "4dba2942-1eee-5cf6-75cf-e0333b20e7b7",
+    "mapID": "spaceport",
+    "lat": 2064.610625072841,
+    "lng": 4464.939119652821,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": ""
+  },
+  {
+    "id": "6acb2622-ac22-0520-6889-faa0ae4fc4cb",
+    "mapID": "spaceport",
+    "lat": 2360.0,
+    "lng": 2901.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "fc9439f3-7dae-0575-82bc-378a4c6f5b78",
+    "mapID": "spaceport",
+    "lat": 2304.1713220154616,
+    "lng": 4338.841165530068,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "2998a5ad-8de0-d780-e43b-a05856b25979",
+    "mapID": "spaceport",
+    "lat": 2845.075136941067,
+    "lng": 4009.9373217606944,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "9c985da6-485d-08fd-f0ed-1d0d053ed731",
+    "mapID": "spaceport",
+    "lat": 1332.8566719331438,
+    "lng": 3742.6573700919425,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": ""
+  },
+  {
+    "id": "d2d8568c-8f18-48f6-86f4-a0d923249abd",
+    "mapID": "spaceport",
+    "lat": 2700.1183893796774,
+    "lng": 4215.413729666871,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": null
+  },
+  {
+    "id": "7a523b42-69dc-49c0-82cf-362ce47ff474",
+    "mapID": "spaceport",
+    "lat": 1306.5657653906846,
+    "lng": 3535.5339059327375,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "0d2785da-5d69-46fd-b8c6-af96d6baa9e8",
+    "mapID": "spaceport",
+    "lat": 3188.4130090612275,
+    "lng": 4475.389385259846,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "1fb1a3f8-1a0a-4145-b934-1737fe79d00b",
+    "mapID": "spaceport",
+    "lat": 2994.1718659886833,
+    "lng": 4536.293563681957,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "f2e80d15-2a41-4ef5-91de-37064d988d6c",
+    "mapID": "spaceport",
+    "lat": 2001.0,
+    "lng": 3905.0,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "7569413f-3e56-4de5-9a8a-7c2e93df7580",
+    "mapID": "spaceport",
+    "lat": 2006.378846795363,
+    "lng": 3911.85012376028,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "8401e8bb-da00-4724-9841-1f090c9f4d78",
+    "mapID": "spaceport",
+    "lat": 1449.2785509521182,
+    "lng": 4107.072913537942,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": null
+  },
+  {
+    "id": "1f8ded39-2ebd-6553-6c67-c96f0046e98c",
+    "mapID": "spaceport",
+    "lat": 3315.623696983721,
+    "lng": 3988.789352673314,
+    "category": "arc",
+    "subcategory": "queen",
+    "instanceName": ""
+  },
+  {
+    "id": "c426d7fe-61b8-4034-bbd3-334bcbdf1c94",
+    "mapID": "spaceport",
+    "lat": 2363.1508627254416,
+    "lng": 2897.7235893024717,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "d41ca88a-fd11-479e-b46f-30085f088952",
+    "mapID": "spaceport",
+    "lat": 3138.0151976230495,
+    "lng": 3110.0553918158635,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "5a20a72d-c77b-452f-abe9-23d071f6167c",
+    "mapID": "spaceport",
+    "lat": 1480.5795175697608,
+    "lng": 3950.0605829812034,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": null
+  },
+  {
+    "id": "b654c48f-5113-4336-91ec-8fe1bfb58daa",
+    "mapID": "spaceport",
+    "lat": 1848.3771260216351,
+    "lng": 4251.125968493523,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": null
+  },
+  {
+    "id": "646222ae-72cf-4657-8024-0b732ff5f5b3",
+    "mapID": "spaceport",
+    "lat": 2566.3089541758723,
+    "lng": 3534.6208475668377,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": "On top of the wall"
+  },
+  {
+    "id": "360e5bb5-3157-4ba2-9f06-0ffdd2413273",
+    "mapID": "spaceport",
+    "lat": 2034.1284284987355,
+    "lng": 3357.2789379004553,
+    "category": "arc",
+    "subcategory": "turret",
+    "instanceName": null
+  },
+  {
+    "id": "bdb9d7df-46f3-481c-8c79-633fa40fe934",
+    "mapID": "spaceport",
+    "lat": 2152.4648781549254,
+    "lng": 3175.1829970572653,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": null
+  },
+  {
+    "id": "913af039-912a-409c-86fc-98546512092d",
+    "mapID": "spaceport",
+    "lat": 1388.9939103231782,
+    "lng": 3872.05836644886,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": "Bombardier"
+  },
+  {
+    "id": "7f621804-cebc-4697-b9bd-0e35b6581663",
+    "mapID": "spaceport",
+    "lat": 2439.063792870581,
+    "lng": 3729.3535126485335,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "9e03b94c-ab35-f4a7-efe4-5f5d495034cb",
+    "mapID": "spaceport",
+    "lat": 1804.5637071344715,
+    "lng": 3400.585103286022,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": ""
+  },
+  {
+    "id": "e7042627-dd43-4f40-be32-9e5023f3c9ab",
+    "mapID": "spaceport",
+    "lat": 1944.152512066588,
+    "lng": 4739.2921963699355,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": "Bombardier"
+  },
+  {
+    "id": "53e4e1be-4c32-4c10-b7bb-f0dec2a4ffda",
+    "mapID": "spaceport",
+    "lat": 2288.2159150488174,
+    "lng": 3989.136160278205,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": null
+  },
+  {
+    "id": "79d838fc-0e47-451c-be78-6462a3a54220",
+    "mapID": "spaceport",
+    "lat": 1852.6197667087545,
+    "lng": 3634.237000373812,
+    "category": "arc",
+    "subcategory": "bison",
+    "instanceName": null
+  },
+  {
+    "id": "3001ba13-19d3-4141-9204-59daf67e0510",
+    "mapID": "spaceport",
+    "lat": 2272.6411947335637,
+    "lng": 3934.3421305219504,
+    "category": "arc",
+    "subcategory": "matriarch",
+    "instanceName": null
+  },
+  {
+    "id": "488c9914-b740-49b7-840b-d2814fe10445",
+    "mapID": "spaceport",
+    "lat": 2911.1912008072572,
+    "lng": 4296.0,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": null
+  },
+  {
+    "id": "7e791847-db53-4871-91aa-61bbe0120a60",
+    "mapID": "spaceport",
+    "lat": 3123.0,
+    "lng": 4354.25,
+    "category": "arc",
+    "subcategory": "wasp",
+    "instanceName": "Arc Hsuk"
+  },
+  {
+    "id": "ab66f127-0e5b-17b8-c04d-143a557ef77c",
+    "mapID": "spaceport",
+    "lat": 2302.2789365216954,
+    "lng": 3165.8727703706386,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": ""
+  },
+  {
+    "id": "cd81e033-12df-01f0-5cc7-95ff9a9dfb93",
+    "mapID": "spaceport",
+    "lat": 2379.342060906915,
+    "lng": 3179.3106494145036,
+    "category": "arc",
+    "subcategory": "bombardier",
+    "instanceName": ""
+  },
+  {
+    "id": "7706ae57-f51e-a1ab-c1e0-53ff0a02f757",
+    "mapID": "spaceport",
+    "lat": 2356.7180243901535,
+    "lng": 3131.2171875733025,
+    "category": "arc",
+    "subcategory": "hornet ",
+    "instanceName": ""
+  },
+  {
+    "id": "e9461dbf-90ac-4a20-bfd5-cece30de42a5",
+    "mapID": "spaceport",
+    "lat": 2392.8493475352766,
+    "lng": 4584.880369213573,
+    "category": "arc",
+    "subcategory": "rocketeer",
+    "instanceName": null
+  },
+  {
+    "id": "b0012ee3-7100-546d-1746-daff71fb0808",
+    "mapID": "spaceport",
+    "lat": 1326.75,
+    "lng": 3667.5,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "f054ced0-f2be-70f1-7e4a-bb74db798b2f",
+    "mapID": "spaceport",
+    "lat": 1322.5,
+    "lng": 3712.0,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "a251462b-be03-8890-74ba-c4439e88ff36",
+    "mapID": "spaceport",
+    "lat": 1345.25,
+    "lng": 3703.5,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "c46b3e7e-0631-12da-518b-80abe5ccca33",
+    "mapID": "spaceport",
+    "lat": 2482.4475307117177,
+    "lng": 4109.3051858919025,
+    "category": "arc",
+    "subcategory": "tick",
+    "instanceName": ""
+  },
+  {
+    "id": "cd7a0be4-2595-6e41-e315-f6f16f15ef66",
+    "mapID": "spaceport",
+    "lat": 2502.0659151535633,
+    "lng": 4117.6296356969215,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "f3acb1d5-7619-dbbc-7fa6-a9b3a5c6e6e1",
+    "mapID": "spaceport",
+    "lat": 2519.6035618515766,
+    "lng": 4136.656949536966,
+    "category": "arc",
+    "subcategory": "fireball",
+    "instanceName": ""
+  },
+  {
+    "id": "8f9a9f10-2231-95b9-1e6d-3e42035a7330",
+    "mapID": "spaceport",
+    "lat": 2021.2161743703039,
+    "lng": 4601.053154691672,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "28dac25f-c9b7-1c93-71c0-746bb6d465b0",
+    "mapID": "spaceport",
+    "lat": 1993.7102096127555,
+    "lng": 4559.241657598581,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": ""
+  },
+  {
+    "id": "db6df395-3378-48ee-8eed-02f68c968ff1",
+    "mapID": "spaceport",
+    "lat": 2132.3607638854774,
+    "lng": 3493.0354020410314,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "4c9695cc-9514-4502-9f49-bdcd9e5df12d",
+    "mapID": "spaceport",
+    "lat": 2992.0,
+    "lng": 4231.0,
+    "category": "arc",
+    "subcategory": "pop",
+    "instanceName": "Pop"
+  },
+  {
+    "id": "43700906-267e-4a73-8f7f-a71242038aa0",
+    "mapID": "spaceport",
+    "lat": 1510.2499617956714,
+    "lng": 4482.818789717552,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": null
+  },
+  {
+    "id": "1bda423a-6e56-4894-990d-a0fbc2e060aa",
+    "mapID": "spaceport",
+    "lat": 2549.660054565834,
+    "lng": 3599.7299371132367,
+    "category": "arc",
+    "subcategory": "bastion",
+    "instanceName": null
+  },
+  {
+    "id": "8661ae24-e2ee-463c-8f10-a4cb17d9207b",
+    "mapID": "spaceport",
+    "lat": 2356.0797949135763,
+    "lng": 3375.7277733845776,
+    "category": "arc",
+    "subcategory": "sentinel",
+    "instanceName": "Sentinel on wall"
+  },
+  {
+    "id": "08a643ce-5e5b-4935-abcf-067ab3c011ff",
+    "mapID": "spaceport",
+    "lat": 2361.7653303954044,
+    "lng": 4359.633283599976,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "ba82bcdb-3581-4f35-baaa-cecba0118611",
+    "mapID": "spaceport",
+    "lat": 1274.830027282917,
+    "lng": 4007.62797755917,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "d0e1ee0d-8435-4c62-8d79-f28cb070be22",
+    "mapID": "spaceport",
+    "lat": 1584.0,
+    "lng": 4021.0,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "4c854d3c-f38f-4e48-941f-0d830300208a",
+    "mapID": "spaceport",
+    "lat": 1793.2227970890845,
+    "lng": 4536.797108092888,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": null
+  },
+  {
+    "id": "bd1008a6-cf3b-4027-9bd6-a9d7a137f272",
+    "mapID": "spaceport",
+    "lat": 2584.0,
+    "lng": 3700.0,
+    "category": "arc",
+    "subcategory": "rollbot",
+    "instanceName": "South Elevator"
+  }
+]

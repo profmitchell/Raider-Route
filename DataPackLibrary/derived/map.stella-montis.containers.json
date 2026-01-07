@@ -1,0 +1,2801 @@
+[
+  {
+    "id": "c42ef4a3-9c3c-3887-d7b5-cb6eae1bcdca",
+    "mapID": "stella-montis",
+    "lat": 2609.3454656259873,
+    "lng": 3764.525048047979,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ddd80ca5-a61d-1bdb-ce6a-d37824e97d07",
+    "mapID": "stella-montis",
+    "lat": 2608.7953567257505,
+    "lng": 4952.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c5a5977c-351c-727d-1ab6-d387c53f6116",
+    "mapID": "stella-montis",
+    "lat": 1478.5602794610709,
+    "lng": 3140.2612152494576,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": ""
+  },
+  {
+    "id": "3a4a198e-f720-1624-dab4-4e814cde91e3",
+    "mapID": "stella-montis",
+    "lat": 1883.7040701643102,
+    "lng": 4768.720531160911,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "e2d51254-6195-4b46-b7b0-b383e1ab7cb7",
+    "mapID": "stella-montis",
+    "lat": 2651.2472694749704,
+    "lng": 3691.667874051097,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "729555aa-47af-ae01-b008-1698997fb5fe",
+    "mapID": "stella-montis",
+    "lat": 2104.349780811165,
+    "lng": 2040.4675151876077,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "129219e3-e474-b100-7ed8-6fb655cd57b8",
+    "mapID": "stella-montis",
+    "lat": 2223.143720050505,
+    "lng": 2231.3462009268924,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c65c19bd-f8f9-e782-3657-d8b47c007170",
+    "mapID": "stella-montis",
+    "lat": 2351.598239661451,
+    "lng": 2394.0593977439453,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d7612475-19ec-45de-bb8f-42eb967a6734",
+    "mapID": "stella-montis",
+    "lat": 1839.8918446473965,
+    "lng": 4818.225607005134,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Security Breach Locker"
+  },
+  {
+    "id": "df906391-d3a9-42db-8c0a-8ec3e470ded2",
+    "mapID": "stella-montis",
+    "lat": 3371.363952855955,
+    "lng": 3370.1026082330745,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "8a48e47c-789f-8ea8-2de6-dec3f4937674",
+    "mapID": "stella-montis",
+    "lat": 2630.9239630577526,
+    "lng": 2422.909232919721,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "c3211420-6657-9338-cde6-4bb50320bc24",
+    "mapID": "stella-montis",
+    "lat": 2546.998625833944,
+    "lng": 2486.056004355318,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "85da04da-7d6c-9d5c-4df1-c1253943bce2",
+    "mapID": "stella-montis",
+    "lat": 2674.2778464475227,
+    "lng": 2567.4257702988907,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d2461e82-04a4-126c-932c-7a60544a250d",
+    "mapID": "stella-montis",
+    "lat": 2692.662622758373,
+    "lng": 2551.165734106285,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2c3a99d9-8bab-2324-fe6c-c63448724a87",
+    "mapID": "stella-montis",
+    "lat": 2774.687009376012,
+    "lng": 2088.7357415129864,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "4bd8b925-17fd-4b3a-ae4f-cfd8072b4805",
+    "mapID": "stella-montis",
+    "lat": 2776.1012229383855,
+    "lng": 2152.361970092748,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "61651cd4-2734-fb59-06f4-30606feeed34",
+    "mapID": "stella-montis",
+    "lat": 3159.353098341494,
+    "lng": 2073.191881938775,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "9c100329-da4b-4459-b88f-2a62e2d415fd",
+    "mapID": "stella-montis",
+    "lat": 1772.0,
+    "lng": 4578.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "4c590a81-81e8-f604-67f2-0f1110493d79",
+    "mapID": "stella-montis",
+    "lat": 3249.0,
+    "lng": 2153.958155562775,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d2313620-c0f8-4443-8963-6aeefedffe7c",
+    "mapID": "stella-montis",
+    "lat": 3201.7312897087327,
+    "lng": 4333.676933033083,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "b85d38fc-17ce-4838-ad8c-64eb42517bd7",
+    "mapID": "stella-montis",
+    "lat": 3917.371567773473,
+    "lng": 5308.9577131485985,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "ae178bb7-f19d-7ef4-2851-84c0efc1b12f",
+    "mapID": "stella-montis",
+    "lat": 3125.463198700729,
+    "lng": 2400.6189225757826,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "827941ef-cdbb-1cf1-8fdd-334c9094d2a0",
+    "mapID": "stella-montis",
+    "lat": 3158.0,
+    "lng": 2323.922409058613,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a245d599-eb51-8981-1b59-5440eb17af8b",
+    "mapID": "stella-montis",
+    "lat": 3157.0,
+    "lng": 2401.906007721409,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6d61077d-bc03-f87c-3722-9d41fc3fc7fe",
+    "mapID": "stella-montis",
+    "lat": 1895.5961413143375,
+    "lng": 4702.12493272076,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Medical Bag"
+  },
+  {
+    "id": "f930c9b9-5025-447e-64c2-75a913401720",
+    "mapID": "stella-montis",
+    "lat": 2565.279244466752,
+    "lng": 3918.5071879212783,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "6fd6ca5f-e3fd-6c71-ca58-49874520eed7",
+    "mapID": "stella-montis",
+    "lat": 1882.7670737530668,
+    "lng": 5029.401459632467,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "99c63cf0-ddd3-4312-a326-53ac53e9e644",
+    "mapID": "stella-montis",
+    "lat": 1903.5314549541858,
+    "lng": 4927.120051307863,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "c046c2fe-ae8a-4990-8ad7-fc7465294827",
+    "mapID": "stella-montis",
+    "lat": 1856.6992848802017,
+    "lng": 4580.362773886984,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "1356dd91-5d4c-4794-aa29-0afc015f012b",
+    "mapID": "stella-montis",
+    "lat": 1788.9801564019651,
+    "lng": 3516.4420228407007,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "7161240e-404b-d4e6-0e7c-cbf01e1740d1",
+    "mapID": "stella-montis",
+    "lat": 1962.7863433119912,
+    "lng": 2143.3575305111945,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "db48368a-3767-4342-bfc8-f54f5a90d90d",
+    "mapID": "stella-montis",
+    "lat": 1496.0957214673365,
+    "lng": 2853.8829688689057,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "22392c24-2373-0723-bde7-4a3c66b0faa6",
+    "mapID": "stella-montis",
+    "lat": 1941.9627211878476,
+    "lng": 2491.396240262084,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "194a813b-4366-5043-e324-46d57e8d026b",
+    "mapID": "stella-montis",
+    "lat": 1994.3003318595634,
+    "lng": 2520.2450395321284,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Andriod"
+  },
+  {
+    "id": "23a94180-3388-4ba4-966b-484cb4a65ea7",
+    "mapID": "stella-montis",
+    "lat": 2178.627434684985,
+    "lng": 3586.648658848207,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "bc175a5e-9c69-4457-8aa1-319783b59569",
+    "mapID": "stella-montis",
+    "lat": 2052.2077014266906,
+    "lng": 4046.8139984085014,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "3537ec51-ef52-4d0e-95d1-f844de35ac1f",
+    "mapID": "stella-montis",
+    "lat": 3005.7873085092842,
+    "lng": 4017.780730701963,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Security Breach"
+  },
+  {
+    "id": "fffb51bf-f6c3-b805-2cb8-917549e7dfbd",
+    "mapID": "stella-montis",
+    "lat": 2246.0,
+    "lng": 2197.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Container"
+  },
+  {
+    "id": "e9543f97-bf9b-441d-96c2-a1477ce5ee5b",
+    "mapID": "stella-montis",
+    "lat": 3116.362114930266,
+    "lng": 2416.736297439176,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "469181bb-3500-4a33-b13d-ee20bb961bfa",
+    "mapID": "stella-montis",
+    "lat": 2611.8242657780374,
+    "lng": 2337.6920344053265,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Medical Bag"
+  },
+  {
+    "id": "28c0ebf2-2535-451a-edf0-5c5321bddd5a",
+    "mapID": "stella-montis",
+    "lat": 2644.5793616376877,
+    "lng": 4770.142345884449,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "c2b16054-adba-68d8-c72f-3bef8995a1ae",
+    "mapID": "stella-montis",
+    "lat": 2831.255551870936,
+    "lng": 4840.853024003104,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "63f0b7cc-0da7-4703-90a4-eb442b930953",
+    "mapID": "stella-montis",
+    "lat": 3845.2466760924453,
+    "lng": 5197.234841721124,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "cadb233d-8571-43da-b948-65001d1be0f7",
+    "mapID": "stella-montis",
+    "lat": 1548.347663733543,
+    "lng": 3127.6147124571567,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "fb86e88a-4932-40bc-922c-2037fe3524cb",
+    "mapID": "stella-montis",
+    "lat": 3254.2691270318755,
+    "lng": 2515.962074439114,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "ff46953e-6e2a-44dc-b907-4cfd7394bdc1",
+    "mapID": "stella-montis",
+    "lat": 3323.401871576773,
+    "lng": 2254.2564184227135,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Medical Bag"
+  },
+  {
+    "id": "17fcb91c-08f6-4d60-9c7f-d3bf17d756c5",
+    "mapID": "stella-montis",
+    "lat": 2932.9360098630214,
+    "lng": 2302.4811961412897,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "997e25fb-9ce2-1887-b142-ede98d48a635",
+    "mapID": "stella-montis",
+    "lat": 2651.0,
+    "lng": 2185.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6761b41f-2a10-da90-ec13-6d15dae04107",
+    "mapID": "stella-montis",
+    "lat": 2223.143720050505,
+    "lng": 2360.3224356006954,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container & Searchable Container"
+  },
+  {
+    "id": "89484b14-b36a-8d53-2942-6a3d944d2983",
+    "mapID": "stella-montis",
+    "lat": 1394.9713687162173,
+    "lng": 4469.946197172303,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "505a974f-21fb-61af-7d21-759870c1120c",
+    "mapID": "stella-montis",
+    "lat": 1486.3384540541228,
+    "lng": 4505.68440972068,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Container"
+  },
+  {
+    "id": "fab31bd6-453b-273a-c3f8-739641a55815",
+    "mapID": "stella-montis",
+    "lat": 1961.9956316460562,
+    "lng": 4957.403216257919,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a2d39d60-fb30-2bda-3575-8b921c9227d4",
+    "mapID": "stella-montis",
+    "lat": 1855.7577029617464,
+    "lng": 4429.796503385136,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "23ab13f0-b905-0f34-de9b-48aeb62d0118",
+    "mapID": "stella-montis",
+    "lat": 1952.5614762191253,
+    "lng": 4960.447953581663,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Container"
+  },
+  {
+    "id": "bfc92b45-a862-da15-68cd-af0c0c141b0e",
+    "mapID": "stella-montis",
+    "lat": 1863.4264562022315,
+    "lng": 3592.3094859638686,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "cdf4d3f7-20f0-8828-0569-5fb5a855514d",
+    "mapID": "stella-montis",
+    "lat": 3838.7605672287837,
+    "lng": 5019.048628868984,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c5f7686a-88d6-db1d-9305-a4c31bb20476",
+    "mapID": "stella-montis",
+    "lat": 3649.6766359433514,
+    "lng": 5045.805788956546,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c393f552-084a-16bc-0c6a-e4334224183c",
+    "mapID": "stella-montis",
+    "lat": 3836.3821529987786,
+    "lng": 5020.832439541488,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6fbd701c-b73e-89a5-0746-d184ceee2051",
+    "mapID": "stella-montis",
+    "lat": 4098.0,
+    "lng": 5094.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "61573377-c4c1-4729-9cc6-9182cf697ff6",
+    "mapID": "stella-montis",
+    "lat": 1482.0958133670035,
+    "lng": 3213.800320492858,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Backpack"
+  },
+  {
+    "id": "e0a5ccb2-418c-41b8-8c5d-66f68778faff",
+    "mapID": "stella-montis",
+    "lat": 2861.1272949356558,
+    "lng": 5331.703720916177,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "e601627c-5e4d-d8bb-ac0e-514a6d439061",
+    "mapID": "stella-montis",
+    "lat": 3778.0,
+    "lng": 5479.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2f48eda0-b996-d024-63d9-ca9a3218a92e",
+    "mapID": "stella-montis",
+    "lat": 1807.9272927954864,
+    "lng": 4769.564467319069,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Container"
+  },
+  {
+    "id": "27572437-0157-44b9-05a3-037c6b1af759",
+    "mapID": "stella-montis",
+    "lat": 1894.4069341993347,
+    "lng": 4286.497046027308,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "3ac02e08-9993-6ada-55af-1e0c979904dc",
+    "mapID": "stella-montis",
+    "lat": 1619.2745289171937,
+    "lng": 5002.073370113637,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Container"
+  },
+  {
+    "id": "d741fc2f-1ec9-cf21-a8d9-8bf69aacbc59",
+    "mapID": "stella-montis",
+    "lat": 1488.3866549990748,
+    "lng": 4563.544845581909,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "336eed5b-c81b-5ca0-d5ec-32aa34e9ad59",
+    "mapID": "stella-montis",
+    "lat": 3229.862832180561,
+    "lng": 2086.59076668272,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "f6577911-fba9-bb94-14eb-02773f9e17b1",
+    "mapID": "stella-montis",
+    "lat": 2554.8081860441666,
+    "lng": 2194.9191079285665,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "f4627630-63ae-a829-dd3a-f9191ed9cdc0",
+    "mapID": "stella-montis",
+    "lat": 2598.439843013036,
+    "lng": 2197.2297143721794,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9548bca7-6c53-4d6d-ceab-29e44a8491b2",
+    "mapID": "stella-montis",
+    "lat": 2503.611365525049,
+    "lng": 3155.8412211353293,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "45215352-78c4-450b-9057-349edf7c1dd1",
+    "mapID": "stella-montis",
+    "lat": 2542.029863311979,
+    "lng": 5030.242356047721,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "e7800f06-981d-479c-ae2b-d383c373b424",
+    "mapID": "stella-montis",
+    "lat": 1797.4654377762038,
+    "lng": 4918.634769933624,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "weapon crate"
+  },
+  {
+    "id": "6d6e90e4-10a8-4cd0-9516-dd58ee52a813",
+    "mapID": "stella-montis",
+    "lat": 1430.3648023465685,
+    "lng": 2674.0506005068123,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "02509b0c-7cd0-4e7f-93f6-7aa8a13e5be0",
+    "mapID": "stella-montis",
+    "lat": 2464.0,
+    "lng": 5162.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "bf81a48d-3a56-c6b0-7575-e7e3f9471c12",
+    "mapID": "stella-montis",
+    "lat": 2445.067274010192,
+    "lng": 3181.928451550972,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "de556bbc-f9e0-a0d1-a0a1-b1112b1b7f33",
+    "mapID": "stella-montis",
+    "lat": 2982.391677851507,
+    "lng": 2691.8894942797383,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "24cccdfe-8b9d-ddae-d87b-b893d7abcfc2",
+    "mapID": "stella-montis",
+    "lat": 3635.603212075739,
+    "lng": 5164.540286748769,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "52340e57-8e04-a287-235a-011eaeab6c03",
+    "mapID": "stella-montis",
+    "lat": 4069.4667475393117,
+    "lng": 5062.454688566584,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "aabb801c-abb5-41c9-6958-ec062dfb7e26",
+    "mapID": "stella-montis",
+    "lat": 3722.728246114616,
+    "lng": 5157.550915403199,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5a8ed301-518d-7e9b-1132-0b85fa93d3d4",
+    "mapID": "stella-montis",
+    "lat": 4089.0,
+    "lng": 5025.5,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "36727b0c-e220-e60b-1528-c6b8ce5f46c6",
+    "mapID": "stella-montis",
+    "lat": 3886.3513676524944,
+    "lng": 5287.443191894107,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "a71f6f6b-42d6-79a7-8650-d265622bdf42",
+    "mapID": "stella-montis",
+    "lat": 3894.05869807641,
+    "lng": 5491.758457082567,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "0f826a89-cf68-c399-c5f4-cf320c1a5842",
+    "mapID": "stella-montis",
+    "lat": 3700.1689774824868,
+    "lng": 5426.9534044622715,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6063c7cf-0a44-ca73-eb41-6133d7102ab3",
+    "mapID": "stella-montis",
+    "lat": 3561.7599978725543,
+    "lng": 5463.8805401917225,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c04f96f4-2d1e-3392-4b9a-92adb9c1d849",
+    "mapID": "stella-montis",
+    "lat": 4092.734049507737,
+    "lng": 5471.592272821505,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "3665bc4e-d70e-d0c5-b168-ab2d4f73779e",
+    "mapID": "stella-montis",
+    "lat": 3466.2374413764555,
+    "lng": 5040.2571362977105,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "bee775e7-028d-6891-ef8a-4ac5467e6473",
+    "mapID": "stella-montis",
+    "lat": 3016.4527173321526,
+    "lng": 4152.210427428043,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "d336873b-877a-37aa-22c8-d2a784dc1cb4",
+    "mapID": "stella-montis",
+    "lat": 3081.2164498823786,
+    "lng": 5025.965420583233,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3c6bf84b-a9f6-7547-1ad7-54a521c59029",
+    "mapID": "stella-montis",
+    "lat": 3201.779505212687,
+    "lng": 5016.2155057373675,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "da3e6141-4e50-aee9-6813-2f03d265e0cf",
+    "mapID": "stella-montis",
+    "lat": 3108.587398617113,
+    "lng": 5218.240820631941,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "fa3748da-d217-12fd-ed6a-424775947aa2",
+    "mapID": "stella-montis",
+    "lat": 2915.842606166747,
+    "lng": 5403.87511399498,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "614cee6f-42c3-932a-77a2-ef8a0d075d3f",
+    "mapID": "stella-montis",
+    "lat": 2787.5014775663785,
+    "lng": 5249.160205622011,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "baf82b09-32f0-4016-dd8e-e9bbeb5d0c55",
+    "mapID": "stella-montis",
+    "lat": 3178.588449659041,
+    "lng": 5334.646858369565,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Box Container"
+  },
+  {
+    "id": "5db1eefd-c70a-1e38-ceba-500c82e82d01",
+    "mapID": "stella-montis",
+    "lat": 2444.853535953693,
+    "lng": 5492.626263488552,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "4a7d6c9c-f339-8948-b22a-7623d3d46ba5",
+    "mapID": "stella-montis",
+    "lat": 1955.0564970644734,
+    "lng": 5206.348749481913,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "0341df90-28ec-1a76-f1f7-9accc20c4bb3",
+    "mapID": "stella-montis",
+    "lat": 2979.5,
+    "lng": 4016.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "2 baskets"
+  },
+  {
+    "id": "8c9c3716-4671-3025-20cf-f3292bf74311",
+    "mapID": "stella-montis",
+    "lat": 2958.5,
+    "lng": 4016.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": ""
+  },
+  {
+    "id": "0c6708a4-9418-016a-4c38-facf9429cb38",
+    "mapID": "stella-montis",
+    "lat": 1893.4438882287297,
+    "lng": 5139.116672590358,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "35ea039b-6296-e6c2-b244-8780cb973022",
+    "mapID": "stella-montis",
+    "lat": 3214.507427274045,
+    "lng": 3150.8678169672557,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "12c61d07-3820-ec8b-4125-0beaa094d29c",
+    "mapID": "stella-montis",
+    "lat": 1951.3991581830549,
+    "lng": 2092.5138639779257,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c5912d64-6239-17d2-7f1d-a6d5a6e35908",
+    "mapID": "stella-montis",
+    "lat": 2804.997493559676,
+    "lng": 3163.1859922847107,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e9a082b0-b05a-1379-fdd1-6c27f0093a90",
+    "mapID": "stella-montis",
+    "lat": 2511.7575923628456,
+    "lng": 3068.4310192608045,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ec245483-01ec-8c40-de79-e34ac0ed9db2",
+    "mapID": "stella-montis",
+    "lat": 2502.5077317950545,
+    "lng": 3128.134664743818,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "cca52659-30ba-5676-cada-ba1567ba0d17",
+    "mapID": "stella-montis",
+    "lat": 1344.931627769014,
+    "lng": 2722.5999059487044,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5fd13bb4-9ac6-3797-bea9-834eb3c7dddc",
+    "mapID": "stella-montis",
+    "lat": 1458.702914595314,
+    "lng": 2862.114908888582,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "24c73a31-e76f-4c13-44d7-87b9b01c6a5e",
+    "mapID": "stella-montis",
+    "lat": 2656.780337035897,
+    "lng": 5506.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9c213f4e-3a5f-0e9d-ef31-45f9d01ce148",
+    "mapID": "stella-montis",
+    "lat": 1425.1295620384162,
+    "lng": 2868.1268214797383,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a0f09b0d-b4d1-2ab5-a8e1-037a322eb122",
+    "mapID": "stella-montis",
+    "lat": 2528.5742806274143,
+    "lng": 5500.612804294147,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "799da241-4660-554f-c33e-3c470e3d6d29",
+    "mapID": "stella-montis",
+    "lat": 1433.2338986794114,
+    "lng": 3171.104814544123,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5526021d-73a1-1a9d-0775-f47f7e4754c4",
+    "mapID": "stella-montis",
+    "lat": 1333.5816857949637,
+    "lng": 3188.0753772926005,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e043d61a-e62e-ea1a-b6ef-d54ac2da55ec",
+    "mapID": "stella-montis",
+    "lat": 1322.2727670389559,
+    "lng": 3247.840861287041,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "898ed988-5870-8b58-8f2e-0f2b97de8db4",
+    "mapID": "stella-montis",
+    "lat": 1463.2065800352643,
+    "lng": 3278.1942759456956,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "13eda7d6-d631-917f-dc61-1e0a84e44ad2",
+    "mapID": "stella-montis",
+    "lat": 1689.582409100272,
+    "lng": 3205.3963950029947,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "f5e69272-df3d-2a8c-8ef6-3c6b21f0b290",
+    "mapID": "stella-montis",
+    "lat": 2505.6310717019096,
+    "lng": 3664.606637995112,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "790df9a8-2fdf-20e3-9045-2771b324f385",
+    "mapID": "stella-montis",
+    "lat": 2523.461626531264,
+    "lng": 3664.3092617747166,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "22d7c8d8-96ad-07df-a32f-c08c012fa19e",
+    "mapID": "stella-montis",
+    "lat": 2683.0769360807963,
+    "lng": 3747.27685505682,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d9b93488-59ad-2452-0efc-d6ad0701039b",
+    "mapID": "stella-montis",
+    "lat": 2893.55916940552,
+    "lng": 4077.8881948074477,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "59825be6-ab70-59cc-be7b-cd9bc9f3ebd5",
+    "mapID": "stella-montis",
+    "lat": 1456.7787158783333,
+    "lng": 3063.3975282470096,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "23445194-a987-07fc-f82e-15061d5ebe89",
+    "mapID": "stella-montis",
+    "lat": 1309.8704551750163,
+    "lng": 2974.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "aa07be5a-f2ba-432c-5a98-5250874474d9",
+    "mapID": "stella-montis",
+    "lat": 1385.959218720899,
+    "lng": 4623.207175607989,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "52b45fa3-1e57-d680-6ac2-05f9d3a17f0d",
+    "mapID": "stella-montis",
+    "lat": 1513.1337255455298,
+    "lng": 3264.0049019571034,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "a23bd496-cec7-919a-093a-c0bd6b594efe",
+    "mapID": "stella-montis",
+    "lat": 1340.0,
+    "lng": 3182.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "92c8f1b0-db62-a88d-e904-c592e0086cda",
+    "mapID": "stella-montis",
+    "lat": 1486.0,
+    "lng": 2888.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Bag"
+  },
+  {
+    "id": "268a5812-c1e9-d6e3-9e44-fd3fa9954cab",
+    "mapID": "stella-montis",
+    "lat": 3015.3925061987775,
+    "lng": 4186.867335306476,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "94e84933-3ec7-7783-d748-09ab1037eeea",
+    "mapID": "stella-montis",
+    "lat": 1437.0919736685983,
+    "lng": 3347.6086291250376,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "86e5e972-d9fd-ca06-f18a-5975da483a99",
+    "mapID": "stella-montis",
+    "lat": 3084.7515258316066,
+    "lng": 4551.764674317671,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "4cc5c210-e21b-d268-28cc-d7af14c8cca9",
+    "mapID": "stella-montis",
+    "lat": 3015.947757916095,
+    "lng": 4002.971413763697,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "22e3e3dc-0e9b-43bb-95a3-e927a3bad658",
+    "mapID": "stella-montis",
+    "lat": 2497.854704541479,
+    "lng": 5252.742724044268,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "4e4ffc0c-e9b2-4a2e-a963-f7249ae20678",
+    "mapID": "stella-montis",
+    "lat": 3372.1102960466105,
+    "lng": 2246.38863780061,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "3b452d7f-d475-7a9d-7146-db31fa069d63",
+    "mapID": "stella-montis",
+    "lat": 1314.321097041556,
+    "lng": 3371.9946251673955,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "39510a4a-513e-e3c8-39d5-a124e8cfbfca",
+    "mapID": "stella-montis",
+    "lat": 2040.6754325386719,
+    "lng": 3787.263920035148,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3f17444c-624c-4304-1e7b-e874c9e4eb72",
+    "mapID": "stella-montis",
+    "lat": 2340.948717359682,
+    "lng": 5538.090388229883,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "65eeeea4-2e9e-aff4-9737-8e41b1abe84d",
+    "mapID": "stella-montis",
+    "lat": 2660.7996114570497,
+    "lng": 5192.338763571986,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8d2d16b8-8e7a-da6e-8104-a7dcf87d1577",
+    "mapID": "stella-montis",
+    "lat": 2690.4888378066144,
+    "lng": 5064.690769910139,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c850efb5-17ed-642e-938e-b224e496d6d6",
+    "mapID": "stella-montis",
+    "lat": 2691.1957241482705,
+    "lng": 5012.358628464286,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1274d46d-6b66-27e6-5db3-44a70003cdd2",
+    "mapID": "stella-montis",
+    "lat": 2633.584487303282,
+    "lng": 5040.292676938761,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c0a9c1bc-5235-e05b-dd64-4f988b43750c",
+    "mapID": "stella-montis",
+    "lat": 2414.613019003353,
+    "lng": 5024.601325684227,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "b99ab9f1-0328-b8de-74fe-1242bd9b7481",
+    "mapID": "stella-montis",
+    "lat": 2600.7101356775665,
+    "lng": 5184.1185102411455,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "84565e38-c33f-f5a3-c76b-8668f7e605bb",
+    "mapID": "stella-montis",
+    "lat": 2441.122383254328,
+    "lng": 5175.4710559903515,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "7c225e62-e809-8acd-b5ee-05d84c0d9a9b",
+    "mapID": "stella-montis",
+    "lat": 2352.7788961971705,
+    "lng": 5159.724980918557,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e2e1fa2a-a8d0-86bf-854c-a9ff6bf7ae36",
+    "mapID": "stella-montis",
+    "lat": 2302.25334998847,
+    "lng": 5038.708728021542,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a49f8986-6352-15e7-66df-e2c86260fd76",
+    "mapID": "stella-montis",
+    "lat": 2964.8429469334023,
+    "lng": 5830.138702511456,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8adaae91-6853-90aa-6c5f-7c965d7b9cea",
+    "mapID": "stella-montis",
+    "lat": 3093.183118648812,
+    "lng": 5940.6287599613415,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ef62c0ec-6c81-06fb-1520-e51f8de509d7",
+    "mapID": "stella-montis",
+    "lat": 2947.0224086668563,
+    "lng": 5777.801276421699,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "58172e36-dfd7-302f-8118-f63e43bb693c",
+    "mapID": "stella-montis",
+    "lat": 2924.9182125799257,
+    "lng": 5834.550727264142,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "5abb13c6-fb13-4faa-b14b-3c2f73af2b26",
+    "mapID": "stella-montis",
+    "lat": 2126.977197809135,
+    "lng": 4357.8990924526925,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "fdd02d17-06bf-c224-1528-76cb57133138",
+    "mapID": "stella-montis",
+    "lat": 3070.450093764152,
+    "lng": 5853.098203855613,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "0c77b56c-fdcd-5b08-9620-1e57a5e93cfc",
+    "mapID": "stella-montis",
+    "lat": 3101.133244509503,
+    "lng": 5893.466044904741,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c2056d52-9abf-0a11-732b-755fb8d3dced",
+    "mapID": "stella-montis",
+    "lat": 3438.2317740793023,
+    "lng": 5373.7158689179905,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "4e4e1dca-24b9-ee8a-9af2-827ca9fe757c",
+    "mapID": "stella-montis",
+    "lat": 4028.286811993968,
+    "lng": 5142.495830163912,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider Bag"
+  },
+  {
+    "id": "c32fd143-20ff-b916-077e-3dc9fde0ee93",
+    "mapID": "stella-montis",
+    "lat": 3486.368932665134,
+    "lng": 4825.708619415014,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5d557090-932c-80de-8c70-8389d6d9146f",
+    "mapID": "stella-montis",
+    "lat": 3305.6542679444465,
+    "lng": 5418.685075825253,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "91c7105d-5156-4c32-8993-103a27e15fe8",
+    "mapID": "stella-montis",
+    "lat": 2532.1493834290263,
+    "lng": 3773.121784411417,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "dd23bb54-d3f3-46a4-85f8-9a715318a308",
+    "mapID": "stella-montis",
+    "lat": 2624.426818373871,
+    "lng": 3677.30881556064,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "7f56f421-9cd1-44da-936b-95887d7b55a5",
+    "mapID": "stella-montis",
+    "lat": 2932.3718215806125,
+    "lng": 4724.180405107324,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Grenade Bag"
+  },
+  {
+    "id": "290abd0c-d035-4d28-be09-3e2bc3ac2a1a",
+    "mapID": "stella-montis",
+    "lat": 2484.773229089528,
+    "lng": 4684.582425360877,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Tool Box"
+  },
+  {
+    "id": "4c244e94-e586-db0f-cf06-cd9b35acdbb9",
+    "mapID": "stella-montis",
+    "lat": 2559.7941050849295,
+    "lng": 5693.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5b746a5a-1f16-16f3-08d7-9c5d4007c9a7",
+    "mapID": "stella-montis",
+    "lat": 3358.5566106635747,
+    "lng": 3129.7062170247164,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6fc2839a-bcf0-322c-db97-f3577ae98890",
+    "mapID": "stella-montis",
+    "lat": 2341.0556200663414,
+    "lng": 5798.821679589616,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "e728b477-51c6-5559-42cb-60f97d1e4553",
+    "mapID": "stella-montis",
+    "lat": 3180.421252566188,
+    "lng": 3193.3534160804843,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "66d0aea3-21ea-deda-7a78-033fabaf0d97",
+    "mapID": "stella-montis",
+    "lat": 2559.0,
+    "lng": 5608.0,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Medical Bag"
+  },
+  {
+    "id": "f38ee76c-e06c-cd13-9404-82aced1c7391",
+    "mapID": "stella-montis",
+    "lat": 3410.3106453419996,
+    "lng": 3638.851810246001,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "252ba961-70c2-0b16-c024-d133e3c8c49c",
+    "mapID": "stella-montis",
+    "lat": 3308.7105937709125,
+    "lng": 3767.553943337326,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "de3c9d4a-b9c7-7368-7cab-9402f087fc81",
+    "mapID": "stella-montis",
+    "lat": 3404.7037318078615,
+    "lng": 3533.4900048120167,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "f14c565b-ebe1-03f6-cf9b-895baec6674d",
+    "mapID": "stella-montis",
+    "lat": 3552.3090952817442,
+    "lng": 4630.135203209513,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1971f20d-4c4b-438c-aa6c-9dffe2d8f4b1",
+    "mapID": "stella-montis",
+    "lat": 2836.2052993392417,
+    "lng": 2872.9748519609425,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "2eb20b42-81de-4f1f-ab72-ce1f86d99196",
+    "mapID": "stella-montis",
+    "lat": 2687.0057685088805,
+    "lng": 2638.9225073881953,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "7c01adab-92ee-fcee-9907-1a5997e3e1c0",
+    "mapID": "stella-montis",
+    "lat": 3440.8510052886854,
+    "lng": 3551.1509352710095,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "a1f6b84d-e097-ac29-887a-eb1dd1a84baa",
+    "mapID": "stella-montis",
+    "lat": 3332.4019550736784,
+    "lng": 3797.5781059242395,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "17b3bbce-052f-9f83-17f4-4c8b9f4fc77d",
+    "mapID": "stella-montis",
+    "lat": 3349.8957887844194,
+    "lng": 3944.682461710228,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "116bdcf6-f91f-38d2-03ee-4de7b5e30815",
+    "mapID": "stella-montis",
+    "lat": 3121.428757868598,
+    "lng": 5365.232653369862,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5bc19e41-d4f0-8da8-03c0-30ac97df9329",
+    "mapID": "stella-montis",
+    "lat": 2910.9166072566263,
+    "lng": 5281.606903757374,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "185b3cb9-6b48-3594-5b50-3f6eaaf4cff5",
+    "mapID": "stella-montis",
+    "lat": 2826.9427941367885,
+    "lng": 5245.102551289841,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "fc731ff3-ce42-fe63-57d4-142f9d472356",
+    "mapID": "stella-montis",
+    "lat": 2259.4913867868463,
+    "lng": 5812.91425393565,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "0b9e54ac-0eed-6d34-3d2e-f6a6ab9e8d2c",
+    "mapID": "stella-montis",
+    "lat": 2583.153177070138,
+    "lng": 5137.9488928613555,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": ""
+  },
+  {
+    "id": "23c748f2-3162-d704-84ba-adf55fd1a446",
+    "mapID": "stella-montis",
+    "lat": 2040.0,
+    "lng": 2800.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "81840952-e2f7-459c-8d2d-fc8377de7450",
+    "mapID": "stella-montis",
+    "lat": 1880.7867696643486,
+    "lng": 2822.7702704966973,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "49c88ac6-ee0e-2044-2853-7a2f3a246675",
+    "mapID": "stella-montis",
+    "lat": 1999.543537067776,
+    "lng": 2801.557067061101,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "7819a34c-d323-4658-9364-56bbef6898f0",
+    "mapID": "stella-montis",
+    "lat": 2505.9488932973295,
+    "lng": 4986.517020927533,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "79337403-6a79-9a1f-b9b1-32a6bffaf48a",
+    "mapID": "stella-montis",
+    "lat": 2227.70210874878,
+    "lng": 4835.627212703223,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "261f2d39-6aff-1f4c-4b89-a3a299331490",
+    "mapID": "stella-montis",
+    "lat": 2208.262734353232,
+    "lng": 4821.129795140521,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6833b803-ed7e-780a-4f62-37ccdff0bab1",
+    "mapID": "stella-montis",
+    "lat": 1733.7065678291942,
+    "lng": 2895.6022689589117,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "47ad01ec-ba75-2dc9-68e0-3e352a75852a",
+    "mapID": "stella-montis",
+    "lat": 1733.063169926605,
+    "lng": 4624.533156591535,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8f3218d9-4a98-fc34-f020-66db260506ec",
+    "mapID": "stella-montis",
+    "lat": 1966.783013083898,
+    "lng": 4793.900956259987,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2c04722f-2232-bd33-5049-a0fe22e8cb5f",
+    "mapID": "stella-montis",
+    "lat": 1784.5863945009862,
+    "lng": 4664.076328706467,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "80e203c7-3ca3-4d28-8d0c-19cdd3caeb64",
+    "mapID": "stella-montis",
+    "lat": 2414.7907634838043,
+    "lng": 5058.64191260856,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "60a8bd39-2787-418c-9742-5517ddee7fee",
+    "mapID": "stella-montis",
+    "lat": 3677.6604721121207,
+    "lng": 4103.994954645754,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "900bd529-1931-4f38-be96-2ae77ca1d4d0",
+    "mapID": "stella-montis",
+    "lat": 3713.25,
+    "lng": 4026.25,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "a2935056-faca-4208-b5ac-5c4152395b06",
+    "mapID": "stella-montis",
+    "lat": 3302.25,
+    "lng": 3747.25,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "73681d13-b7aa-4714-9660-9d6e697ea892",
+    "mapID": "stella-montis",
+    "lat": 3095.75,
+    "lng": 4539.75,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "b6c76c26-8fc9-4cf6-9ccb-b1ed5c5f2667",
+    "mapID": "stella-montis",
+    "lat": 2504.5722189627513,
+    "lng": 5252.389170653674,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "fc5a6874-bbb4-4a9b-a8c7-5ee1ef94e3b2",
+    "mapID": "stella-montis",
+    "lat": 2760.7443174788173,
+    "lng": 4134.873138864461,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "65c0e9c6-c2ef-40ed-92a2-df1d82497ef0",
+    "mapID": "stella-montis",
+    "lat": 1819.5,
+    "lng": 3936.5,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "18be9b43-8e3b-4a54-90fe-34eae888d407",
+    "mapID": "stella-montis",
+    "lat": 1820.0928547741732,
+    "lng": 3312.0881630777885,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "f61b6af5-8fcb-41c5-a0ab-95cedfdc64a7",
+    "mapID": "stella-montis",
+    "lat": 2600.0,
+    "lng": 4059.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "5d4d8b0f-d447-40dc-9daf-1fc1fe3e6b04",
+    "mapID": "stella-montis",
+    "lat": 1749.0645437277262,
+    "lng": 2863.672742146525,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "c2bc3f34-a368-449f-b246-4b4a998f1e72",
+    "mapID": "stella-montis",
+    "lat": 2712.7318356084834,
+    "lng": 5398.554985928848,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "84923926-382f-4a10-a00c-48a57b496c3a",
+    "mapID": "stella-montis",
+    "lat": 2058.93487274872,
+    "lng": 4079.1885103957693,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "fb5ec8be-d9c7-46dc-890d-6ad142fcb804",
+    "mapID": "stella-montis",
+    "lat": 2621.915022761082,
+    "lng": 3044.0450232184467,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "e47049a1-658f-4dc8-93b3-b00fa94acfc3",
+    "mapID": "stella-montis",
+    "lat": 1462.724751453347,
+    "lng": 3184.696653977287,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Ammo Crate"
+  },
+  {
+    "id": "14db2030-6500-448e-b198-445badd4c755",
+    "mapID": "stella-montis",
+    "lat": 2879.665028979089,
+    "lng": 3842.922792131293,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "d24f896e-63d8-4e6c-af2d-f87682d7a485",
+    "mapID": "stella-montis",
+    "lat": 2894.530117916623,
+    "lng": 3852.436449051315,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "6bf20de4-9381-4309-8cae-02f20731b036",
+    "mapID": "stella-montis",
+    "lat": 1768.0,
+    "lng": 2827.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "4550732a-8f0c-411e-a158-ca442a37e5d5",
+    "mapID": "stella-montis",
+    "lat": 3119.725700591281,
+    "lng": 1979.470161507244,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "be43269a-0ecc-4f81-85fd-b58468c60829",
+    "mapID": "stella-montis",
+    "lat": 2194.8594488030435,
+    "lng": 2070.408655314211,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "3ae70174-ba82-4355-bfa8-094abeacc99b",
+    "mapID": "stella-montis",
+    "lat": 2408.1444078805102,
+    "lng": 4487.473048462768,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "10+ Drawers and Loose Magnets on top of Desks like easily 10+"
+  },
+  {
+    "id": "b96453c1-3693-4069-b794-c44c6d994b01",
+    "mapID": "stella-montis",
+    "lat": 2716.8837109036726,
+    "lng": 2507.2985345785396,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "7b7ef704-d7d6-4b21-b608-5b626fa8fc7f",
+    "mapID": "stella-montis",
+    "lat": 1718.6471456027336,
+    "lng": 2745.52950995628,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "42f10807-3fc3-439d-9e28-82c9a78427ea",
+    "mapID": "stella-montis",
+    "lat": 1472.0,
+    "lng": 2571.5,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "7b3b8c34-ef9d-4dc8-ad2e-b1cf6ca1f086",
+    "mapID": "stella-montis",
+    "lat": 2806.912234116899,
+    "lng": 5349.782993844132,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "45eac2c3-05f2-4c2e-9bd4-736739adaaf7",
+    "mapID": "stella-montis",
+    "lat": 2317.188921948316,
+    "lng": 5032.478961704658,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Business Center Med Bag"
+  },
+  {
+    "id": "3d2eef9a-1223-4671-8a09-34ecd4d74d60",
+    "mapID": "stella-montis",
+    "lat": 3176.0749023935173,
+    "lng": 2656.391393137328,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "White Shelf Container"
+  },
+  {
+    "id": "9a6d3339-4381-4490-b1c6-fc68b4873093",
+    "mapID": "stella-montis",
+    "lat": 3900.077573946728,
+    "lng": 5316.147137233984,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "ba311052-3be2-4925-bed1-aaff3b1923ab",
+    "mapID": "stella-montis",
+    "lat": 3836.169446387446,
+    "lng": 5351.46478667464,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "5bc5b67b-84fb-4f92-8eb2-832d011f34e6",
+    "mapID": "stella-montis",
+    "lat": 3815.5481912826103,
+    "lng": 5188.042453565698,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Med Crate"
+  },
+  {
+    "id": "2e87b847-8ecd-4f4f-8211-58e90a45795d",
+    "mapID": "stella-montis",
+    "lat": 2776.026694250632,
+    "lng": 5277.488789946257,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Duck Breachable"
+  },
+  {
+    "id": "0de68939-df20-4cf0-b5cb-6f9bddb47459",
+    "mapID": "stella-montis",
+    "lat": 3913.680615473955,
+    "lng": 5503.650528232593,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Med Crate"
+  },
+  {
+    "id": "94c92664-f13d-46bb-9493-6d9357841797",
+    "mapID": "stella-montis",
+    "lat": 2437.8047628899826,
+    "lng": 6150.411015468149,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case in locked Archives Room"
+  },
+  {
+    "id": "54330f6f-c06e-50b5-da74-fbdc8588605a",
+    "mapID": "stella-montis",
+    "lat": 2597.277619190134,
+    "lng": 2432.447327281723,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2f636949-7219-c8b5-36e1-88ec7db21df8",
+    "mapID": "stella-montis",
+    "lat": 2593.0335566197286,
+    "lng": 2450.124996811387,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "f0d6faf4-61be-c556-2988-5d0ee8d737ef",
+    "mapID": "stella-montis",
+    "lat": 2612.131838186551,
+    "lng": 2429.618900156977,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "7990c117-2188-f52e-eed4-31d171dbd7c1",
+    "mapID": "stella-montis",
+    "lat": 2605.7657443309436,
+    "lng": 2449.4178900302004,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9361a849-77d3-aeed-a1b8-136a0c916ed6",
+    "mapID": "stella-montis",
+    "lat": 2588.789494049324,
+    "lng": 2412.6483374085,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "cde9bf2d-7960-4d95-a7d1-2fac219fe900",
+    "mapID": "stella-montis",
+    "lat": 2024.037671515691,
+    "lng": 2394.452542434952,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Ceiling Weapon Case"
+  },
+  {
+    "id": "9140fc9b-a276-4e62-9de4-a147561e7b22",
+    "mapID": "stella-montis",
+    "lat": 3164.951394832887,
+    "lng": 3210.6183399775186,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "21ff95c9-30ff-49b7-9fb0-a7949ae762a2",
+    "mapID": "stella-montis",
+    "lat": 3072.0,
+    "lng": 5764.0,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "216520ed-fa28-4211-a19c-1a637e9759e8",
+    "mapID": "stella-montis",
+    "lat": 2468.0,
+    "lng": 5488.0,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "efe0cdc5-8658-4274-829d-cd4e2e0d1ac6",
+    "mapID": "stella-montis",
+    "lat": 1897.8526626355738,
+    "lng": 4117.836340239859,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "8a6824d4-728d-4b2d-af33-72dfa64581ca",
+    "mapID": "stella-montis",
+    "lat": 2705.281791567364,
+    "lng": 3213.6463373449587,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "0ade369d-dc44-4b55-885d-ecd47fe0ecba",
+    "mapID": "stella-montis",
+    "lat": 2209.001584426774,
+    "lng": 4234.155405745047,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "636cf8d6-8d3b-49af-9388-6345f5d64203",
+    "mapID": "stella-montis",
+    "lat": 3066.01500322487,
+    "lng": 2404.1630560342614,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "0e5eba88-c387-4a51-b3a5-79fff1d48866",
+    "mapID": "stella-montis",
+    "lat": 2264.250346965181,
+    "lng": 4033.7905340892303,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "319bd542-3ddd-4cb8-897a-1408d5c84b39",
+    "mapID": "stella-montis",
+    "lat": 3039.613385946955,
+    "lng": 3872.05836644886,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "b2efe4bb-99f9-430d-b44f-26bc9eb6a1e9",
+    "mapID": "stella-montis",
+    "lat": 3080.0464278570475,
+    "lng": 3998.1143206391484,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": "Android"
+  },
+  {
+    "id": "e69aafe0-1de0-479e-9a98-cd9054fea02d",
+    "mapID": "stella-montis",
+    "lat": 2339.347621231907,
+    "lng": 6148.6345883351605,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "2ff40507-a2f5-4361-9c8a-c975b22838bc",
+    "mapID": "stella-montis",
+    "lat": 2343.5506310607634,
+    "lng": 6182.2704449453095,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "617b65bd-7d5e-41cf-970b-6ffea5dccd37",
+    "mapID": "stella-montis",
+    "lat": 2357.000262513106,
+    "lng": 6188.997616267339,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "ac673b1b-71aa-4b13-8b46-dabd916685c8",
+    "mapID": "stella-montis",
+    "lat": 2344.8396539349833,
+    "lng": 6225.576610330876,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Drawers Tables"
+  },
+  {
+    "id": "0261987a-a33f-4f45-8dbc-264e70103a89",
+    "mapID": "stella-montis",
+    "lat": 2277.9574946719563,
+    "lng": 6260.369887235098,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Wooden Crate"
+  },
+  {
+    "id": "45e8bc89-2dce-4f49-938f-b0daf7235788",
+    "mapID": "stella-montis",
+    "lat": 2271.5957620549048,
+    "lng": 6225.7216549569575,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Wooden Crate"
+  },
+  {
+    "id": "c484fa7d-347c-4f11-99b1-0e45b1e9eba1",
+    "mapID": "stella-montis",
+    "lat": 2267.7023417318806,
+    "lng": 6059.198007987526,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Wooden Crate"
+  },
+  {
+    "id": "b2106470-8832-4e60-befa-174e7536ee3b",
+    "mapID": "stella-montis",
+    "lat": 2411.6653908069684,
+    "lng": 6295.067863266904,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Wooden Crate"
+  },
+  {
+    "id": "c039788c-f843-44de-9f20-2b66fae70e61",
+    "mapID": "stella-montis",
+    "lat": 2429.9603829737553,
+    "lng": 6187.891442163477,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "9e6b6c5c-ad4f-46f2-a5c1-741c807db631",
+    "mapID": "stella-montis",
+    "lat": 2432.787819692445,
+    "lng": 6190.189539202333,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "cde8742f-97ba-60f5-768f-70d503630e58",
+    "mapID": "stella-montis",
+    "lat": 2092.933638722121,
+    "lng": 2588.71792592395,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "17e26ed3-fa22-439e-9a47-1d066018c38d",
+    "mapID": "stella-montis",
+    "lat": 1425.0,
+    "lng": 4486.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "7cc40b5b-937c-4e93-90ec-237adfa3c785",
+    "mapID": "stella-montis",
+    "lat": 1482.5003800922989,
+    "lng": 4547.567813692089,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "650f3c5d-7f04-4e18-bf07-7b140113d508",
+    "mapID": "stella-montis",
+    "lat": 1415.2286668720017,
+    "lng": 4553.4540885988645,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "ff5e8567-b28a-4531-8956-8b93051ffff3",
+    "mapID": "stella-montis",
+    "lat": 1321.8891647788394,
+    "lng": 4601.385184268326,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "4d9286ba-d27f-4ea5-8b9d-14e15a6ecc0b",
+    "mapID": "stella-montis",
+    "lat": 1902.948587719156,
+    "lng": 4619.884905403908,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "fb30905c-393c-4ab3-878d-8d183b5b2173",
+    "mapID": "stella-montis",
+    "lat": 1903.7894841344098,
+    "lng": 4633.339248047967,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "9271ef7e-bb6f-4c34-b7cd-b589c5d78678",
+    "mapID": "stella-montis",
+    "lat": 2063.5,
+    "lng": 1996.5,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "a4e8b9d4-936c-493f-ae49-eb30a18890de",
+    "mapID": "stella-montis",
+    "lat": 2162.0,
+    "lng": 2121.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "8551e65a-dde7-42aa-9d1d-b5a8d14bf1ea",
+    "mapID": "stella-montis",
+    "lat": 1994.5,
+    "lng": 2238.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "17515eda-3d77-432f-bad3-b73fae70ae25",
+    "mapID": "stella-montis",
+    "lat": 1915.5,
+    "lng": 2490.5,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "df6fcdec-c51b-418e-8703-f393b578803f",
+    "mapID": "stella-montis",
+    "lat": 1869.5,
+    "lng": 2743.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "bac51763-d818-4dfb-8e78-0954644f9054",
+    "mapID": "stella-montis",
+    "lat": 3406.8404717567855,
+    "lng": 2619.123517514972,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "491ef025-0725-4d27-ac92-689d76e5dda8",
+    "mapID": "stella-montis",
+    "lat": 3419.5683938181437,
+    "lng": 2759.130660189908,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "34bf4fd6-9483-45f2-a08b-cf87cfa16bb7",
+    "mapID": "stella-montis",
+    "lat": 3216.6287476176044,
+    "lng": 2863.0753570243305,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "172c7cf9-1557-4dd7-aa7b-ca6e0a93471d",
+    "mapID": "stella-montis",
+    "lat": 3337.544007200504,
+    "lng": 2764.7875144394006,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "e6e6c9e3-cc30-4c47-8e9c-805db34a34c1",
+    "mapID": "stella-montis",
+    "lat": 3300.7744545788037,
+    "lng": 2687.0057685088805,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "61100417-91fd-497d-9731-9ed7ac28354c",
+    "mapID": "stella-montis",
+    "lat": 3302.1886681411765,
+    "lng": 2639.6296141693815,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "9468d81a-6add-495a-a314-73027d1510c7",
+    "mapID": "stella-montis",
+    "lat": 3207.4363594621796,
+    "lng": 2733.6748160671928,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "be668d1b-927b-4c98-b6e2-f1a12ddf82d9",
+    "mapID": "stella-montis",
+    "lat": 2809.335241654153,
+    "lng": 2633.9727599198895,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "8d6f2168-8e82-46df-be62-95c98aeee876",
+    "mapID": "stella-montis",
+    "lat": 2245.771137048475,
+    "lng": 4497.906235127629,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "16b38598-f0ad-48f4-81c5-dc0a0cdb2ca8",
+    "mapID": "stella-montis",
+    "lat": 2423.962045907485,
+    "lng": 4488.006740191016,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "31e34327-3b7d-4706-9791-b045d0244796",
+    "mapID": "stella-montis",
+    "lat": 2395.677774660023,
+    "lng": 4634.377843896632,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "ea1ba807-7991-4730-8f4f-684932fcac77",
+    "mapID": "stella-montis",
+    "lat": 2595.081886954629,
+    "lng": 3524.2201974337527,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "ce1a7eaf-2c95-4324-ae07-608e47faf02b",
+    "mapID": "stella-montis",
+    "lat": 2558.312334332929,
+    "lng": 3592.1024484276613,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": null
+  },
+  {
+    "id": "173b7ee9-d697-483e-a4bf-38b251f12b5b",
+    "mapID": "stella-montis",
+    "lat": 2394.970667878836,
+    "lng": 3185.5160492453965,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "86cad2e7-77bd-4cea-97bb-6e04792805d2",
+    "mapID": "stella-montis",
+    "lat": 3224.8377524979956,
+    "lng": 3089.4534296421475,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "798554ea-7f5d-4126-8afc-85237b5e979b",
+    "mapID": "stella-montis",
+    "lat": 3440.9481312182,
+    "lng": 3144.111696633639,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "7d1833b7-1d50-4dbe-a8c3-518e93070006",
+    "mapID": "stella-montis",
+    "lat": 2510.9166959475915,
+    "lng": 3140.748110972624,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "13cb492b-2dd2-4f40-828b-4266eedffa34",
+    "mapID": "stella-montis",
+    "lat": 2497.4623533035324,
+    "lng": 3148.3161787099075,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "5399f869-03a4-4395-a267-32f3461e32d6",
+    "mapID": "stella-montis",
+    "lat": 3019.6590271760892,
+    "lng": 3503.174465946975,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "2c06c648-a948-4f8d-a025-b83cf9324a70",
+    "mapID": "stella-montis",
+    "lat": 3371.5,
+    "lng": 3512.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "2babd6c4-a1bc-4ae3-b1f3-4f01598b514c",
+    "mapID": "stella-montis",
+    "lat": 3209.5,
+    "lng": 3510.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "97ed25a1-3de3-4ebf-a2a4-b008b21a292c",
+    "mapID": "stella-montis",
+    "lat": 2769.071895430482,
+    "lng": 3759.647872599358,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "402dfa63-1af1-4b24-be57-4da03fa71147",
+    "mapID": "stella-montis",
+    "lat": 2523.5301421763975,
+    "lng": 3238.2920951420547,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "ebb00a55-514b-4175-a292-a46580de1218",
+    "mapID": "stella-montis",
+    "lat": 2475.599046506936,
+    "lng": 3511.583430099512,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "fac6b178-6342-44c8-83dc-fc2b37219298",
+    "mapID": "stella-montis",
+    "lat": 2541.1889668967256,
+    "lng": 3549.423768785929,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "a6bbc909-5797-4aa6-97c7-0443e82fe0e5",
+    "mapID": "stella-montis",
+    "lat": 2324.237691761267,
+    "lng": 3557.8327329384665,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "36ced3fa-0b14-4095-9e3c-f8d72ccea78a",
+    "mapID": "stella-montis",
+    "lat": 2262.852253447746,
+    "lng": 3535.128529726616,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "6b3875fc-cb31-4eac-8297-5dd6cba5baaf",
+    "mapID": "stella-montis",
+    "lat": 1793.0,
+    "lng": 4419.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "worn bag"
+  },
+  {
+    "id": "b8772c6a-8f59-4417-82f9-7f9de59069a1",
+    "mapID": "stella-montis",
+    "lat": 3897.5725779002496,
+    "lng": 5037.428709172964,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": null
+  },
+  {
+    "id": "e76e2e83-1714-4083-b191-7db8ab973ae3",
+    "mapID": "stella-montis",
+    "lat": 3921.614208460592,
+    "lng": 5311.786140273344,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": null
+  },
+  {
+    "id": "79a71751-d23a-4243-b48a-4f61bc9a520c",
+    "mapID": "stella-montis",
+    "lat": 3634.528855298854,
+    "lng": 5331.585130146568,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": null
+  },
+  {
+    "id": "4ada905e-76d0-4d2e-a049-697d5bb4b4bc",
+    "mapID": "stella-montis",
+    "lat": 1639.7480097447435,
+    "lng": 4108.61988492965,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "8aa9c194-54ef-4aab-9496-3b23ead88d56",
+    "mapID": "stella-montis",
+    "lat": 1294.1395830754668,
+    "lng": 4337.34370987866,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "1b7a9f5c-8b41-4fbb-8266-b7e1a63b799c",
+    "mapID": "stella-montis",
+    "lat": 1196.5955989060358,
+    "lng": 4511.4092678361785,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "1da3f9ca-0b23-4c97-81dc-2faae7791daa",
+    "mapID": "stella-montis",
+    "lat": 2619.392333515321,
+    "lng": 4202.800283438065,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "2749eb46-0478-47e5-b93e-870f61fc02fd",
+    "mapID": "stella-montis",
+    "lat": 2842.2298835575552,
+    "lng": 4164.959944751648,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "20cd432f-d9ca-43e2-9e6d-40a1474f269b",
+    "mapID": "stella-montis",
+    "lat": 1669.1793842786235,
+    "lng": 4141.414845124545,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "fa28f156-e069-4282-9bf5-1a441bb61fe6",
+    "mapID": "stella-montis",
+    "lat": 1918.0,
+    "lng": 4379.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "ef23e804-14c5-4423-9782-472e465ea785",
+    "mapID": "stella-montis",
+    "lat": 1926.0,
+    "lng": 4794.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "f9ada887-6e74-43a3-9844-661193bdf802",
+    "mapID": "stella-montis",
+    "lat": 1273.6408201679144,
+    "lng": 4880.5059999711675,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "4e1b74c2-0655-4c5d-8e23-f4151921670f",
+    "mapID": "stella-montis",
+    "lat": 3053.0,
+    "lng": 5268.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "8532aa60-3261-4bbf-bbe8-90c56806cdb5",
+    "mapID": "stella-montis",
+    "lat": 2861.0,
+    "lng": 5277.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "3e03b5c8-ba3a-459a-bbee-f772c803a3bf",
+    "mapID": "stella-montis",
+    "lat": 2856.0,
+    "lng": 5326.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "837e1bb3-a90f-4eab-a183-25e6fb80f208",
+    "mapID": "stella-montis",
+    "lat": 2848.0,
+    "lng": 5386.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "28bb18f5-4fd2-4282-a142-0cfe51075c42",
+    "mapID": "stella-montis",
+    "lat": 2848.0,
+    "lng": 5386.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "174f65d6-3109-447a-b3d3-e712a46f8274",
+    "mapID": "stella-montis",
+    "lat": 2809.0,
+    "lng": 5399.0,
+    "category": "containers",
+    "subcategory": "android",
+    "instanceName": null
+  },
+  {
+    "id": "38638ae4-fedb-44b1-bb7a-79f095481ad2",
+    "mapID": "stella-montis",
+    "lat": 2814.0,
+    "lng": 5416.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "57d22989-48f4-4663-9657-e19a04c96ec0",
+    "mapID": "stella-montis",
+    "lat": 2750.0,
+    "lng": 5418.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "ba75fc01-6c24-4d5f-bc89-b5f9273f7265",
+    "mapID": "stella-montis",
+    "lat": 2882.5929114897335,
+    "lng": 4455.06920801418,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "2f2517ef-e4d1-4d59-ba84-182ada6107fb",
+    "mapID": "stella-montis",
+    "lat": 3303.041119116591,
+    "lng": 4239.799725709229,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "1f572fa6-16ca-473a-b0b3-400b608e72c2",
+    "mapID": "stella-montis",
+    "lat": 3348.4495255402912,
+    "lng": 4201.118490607558,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "50aaa968-1210-41ae-905a-79dc76c9a212",
+    "mapID": "stella-montis",
+    "lat": 3254.2691270318755,
+    "lng": 4806.5639095902325,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "c7fcadea-4eef-4c57-8bf1-7810b5f1aa65",
+    "mapID": "stella-montis",
+    "lat": 3303.041119116591,
+    "lng": 4870.472037149515,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "2bd8155c-c912-4422-9371-4f336f3e94b8",
+    "mapID": "stella-montis",
+    "lat": 2506.8485984257363,
+    "lng": 5620.19282550286,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "c0b9d9a4-7adc-463d-a0c9-f24566df6348",
+    "mapID": "stella-montis",
+    "lat": 1682.0,
+    "lng": 3255.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  }
+]

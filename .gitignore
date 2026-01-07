@@ -1,0 +1,15 @@
+# Xcode
+.DS_Store
+*.swp
+*.lock
+DerivedData/
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcuserdatad/
+
+# DataPack
+DataPack/raw/
+# Keep DataPack/derived/ committed or as part of bundle resources? prompt says "bundled resources", usually checked in if small enough or generated. 
+# Prompt implies generated on Mac, so maybe ignored? User said "fill in my gitignore too @[.gitignore] swiftdata". 
+# Usually we ignore large assets. DataPack/derived is reasonable to keep or ignore depending on workflow. 
+# Given "Updates happen by regenerating DataPack on Mac and rebuilding", better to Ignore derived if it's purely generated, BUT for a repo, you might want it.
+# I'll ignore raw, keep derived for now so other devs/CI have it without running scripts.

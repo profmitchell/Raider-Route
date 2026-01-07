@@ -1,0 +1,2434 @@
+{
+  "acoustic guitar": {
+    "id": "acoustic-guitar",
+    "name": "Acoustic Guitar"
+  },
+  "adrenaline shot": {
+    "id": "adrenaline-shot",
+    "name": "Adrenaline Shot"
+  },
+  "advanced arc powercell": {
+    "id": "advanced-arc-powercell",
+    "name": "Advanced ARC Powercell"
+  },
+  "advanced electrical components": {
+    "id": "advanced-electrical-components",
+    "name": "Advanced Electrical Components"
+  },
+  "advanced mechanical components": {
+    "id": "advanced-mechanical-components",
+    "name": "Advanced Mechanical Components"
+  },
+  "agave": {
+    "id": "agave",
+    "name": "Agave"
+  },
+  "agave juice": {
+    "id": "agave-juice",
+    "name": "Agave Juice"
+  },
+  "air freshener": {
+    "id": "air-freshener",
+    "name": "Air Freshener"
+  },
+  "alarm clock": {
+    "id": "alarm-clock",
+    "name": "Alarm Clock"
+  },
+  "angled grip i": {
+    "id": "angled-grip-i",
+    "name": "Angled Grip I"
+  },
+  "angled grip ii": {
+    "id": "angled-grip-ii",
+    "name": "Angled Grip II"
+  },
+  "angled grip ii blueprint": {
+    "id": "angled-grip-ii-recipe",
+    "name": "Angled Grip II Blueprint"
+  },
+  "angled grip iii": {
+    "id": "angled-grip-iii",
+    "name": "Angled Grip III"
+  },
+  "angled grip iii blueprint": {
+    "id": "angled-grip-iii-recipe",
+    "name": "Angled Grip III Blueprint"
+  },
+  "antiseptic": {
+    "id": "antiseptic",
+    "name": "Antiseptic"
+  },
+  "anvil blueprint": {
+    "id": "anvil-recipe",
+    "name": "Anvil Blueprint"
+  },
+  "anvil i": {
+    "id": "anvil-i",
+    "name": "Anvil I"
+  },
+  "anvil ii": {
+    "id": "anvil-ii",
+    "name": "Anvil II"
+  },
+  "anvil iii": {
+    "id": "anvil-iii",
+    "name": "Anvil III"
+  },
+  "anvil iv": {
+    "id": "anvil-iv",
+    "name": "Anvil IV"
+  },
+  "anvil splitter": {
+    "id": "anvil-splitter",
+    "name": "Anvil Splitter"
+  },
+  "aphelion rifle": {
+    "id": "aphelion-rifle",
+    "name": "Aphelion Rifle"
+  },
+  "aphelion rifle blueprint": {
+    "id": "aphelion-rifle-blueprint",
+    "name": "Aphelion Rifle Blueprint"
+  },
+  "apricot": {
+    "id": "apricot",
+    "name": "Apricot"
+  },
+  "arc alloy": {
+    "id": "arc-alloy",
+    "name": "ARC Alloy"
+  },
+  "arc circuitry": {
+    "id": "arc-circuitry",
+    "name": "ARC Circuitry"
+  },
+  "arc coolant": {
+    "id": "arc-coolant",
+    "name": "ARC Coolant"
+  },
+  "arc flex rubber": {
+    "id": "arc-flex-rubber",
+    "name": "ARC Flex Rubber"
+  },
+  "arc motion core": {
+    "id": "arc-motion-core",
+    "name": "ARC Motion Core"
+  },
+  "arc performance steel": {
+    "id": "arc-performance-steel",
+    "name": "ARC Performance Steel"
+  },
+  "arc powercell": {
+    "id": "arc-powercell",
+    "name": "ARC Powercell"
+  },
+  "arc synthetic resin": {
+    "id": "arc-synthetic-resin",
+    "name": "ARC Synthetic Resin"
+  },
+  "arc thermo lining": {
+    "id": "arc-thermo-lining",
+    "name": "ARC Thermo Lining"
+  },
+  "arpeggio i": {
+    "id": "arpeggio-i",
+    "name": "Arpeggio I"
+  },
+  "arpeggio ii": {
+    "id": "arpeggio-ii",
+    "name": "Arpeggio II"
+  },
+  "arpeggio iii": {
+    "id": "arpeggio-iii",
+    "name": "Arpeggio III"
+  },
+  "arpeggio iv": {
+    "id": "arpeggio-iv",
+    "name": "Arpeggio IV"
+  },
+  "assorted seeds": {
+    "id": "assorted-seeds",
+    "name": "Assorted Seeds"
+  },
+  "aviator outfit": {
+    "id": "aviator-outfit",
+    "name": "Aviator (Outfit)"
+  },
+  "bag radio renegade variant": {
+    "id": "bag-radio-renegade-variant",
+    "name": "Bag (Radio Renegade Variant)"
+  },
+  "banana backpack charm": {
+    "id": "banana-backpack-charm",
+    "name": "Banana (Backpack Charm)"
+  },
+  "bandage": {
+    "id": "bandage",
+    "name": "Bandage"
+  },
+  "barricade kit": {
+    "id": "barricade-kit",
+    "name": "Barricade Kit"
+  },
+  "barricade kit blueprint": {
+    "id": "barricade-kit-recipe",
+    "name": "Barricade Kit Blueprint"
+  },
+  "bastion cell": {
+    "id": "bastion-part",
+    "name": "Bastion Cell"
+  },
+  "battery": {
+    "id": "battery",
+    "name": "Battery"
+  },
+  "bettina blueprint": {
+    "id": "bettina-blueprint",
+    "name": "Bettina Blueprint"
+  },
+  "bettina i": {
+    "id": "bettina-i",
+    "name": "Bettina I"
+  },
+  "bettina ii": {
+    "id": "bettina-ii",
+    "name": "Bettina II"
+  },
+  "bettina iii": {
+    "id": "bettina-iii",
+    "name": "Bettina III"
+  },
+  "bettina iv": {
+    "id": "bettina-iv",
+    "name": "Bettina IV"
+  },
+  "bicycle pump": {
+    "id": "bicycle-pump",
+    "name": "Bicycle Pump"
+  },
+  "binoculars": {
+    "id": "binoculars",
+    "name": "Binoculars"
+  },
+  "bison driver": {
+    "id": "bison-driver",
+    "name": "Bison Driver"
+  },
+  "black eye face style": {
+    "id": "black-eye-face-style",
+    "name": "Black Eye (Face Style)"
+  },
+  "black hiker colour": {
+    "id": "black-hiker-colour",
+    "name": "Black (Hiker Colour)"
+  },
+  "black white origin color": {
+    "id": "black-and-white-origin-color",
+    "name": "Black & White (Origin Color)"
+  },
+  "blaze grenade": {
+    "id": "blaze-grenade",
+    "name": "Blaze Grenade"
+  },
+  "blaze grenade blueprint": {
+    "id": "blaze-grenade-blueprint",
+    "name": "Blaze Grenade Blueprint"
+  },
+  "blaze grenade trap": {
+    "id": "blaze-grenade-trap",
+    "name": "Blaze Grenade Trap"
+  },
+  "bloated tuna can": {
+    "id": "bloated-tuna-can",
+    "name": "Bloated Tuna Can"
+  },
+  "blue gate cellar key": {
+    "id": "blue-gate-cellar-key",
+    "name": "Blue Gate Cellar Key"
+  },
+  "blue gate communication tower key": {
+    "id": "blue-gate-communication-tower-key",
+    "name": "Blue Gate Communication Tower Key"
+  },
+  "blue gate confiscation room key": {
+    "id": "blue-gate-confiscation-room-key",
+    "name": "Blue Gate Confiscation Room Key"
+  },
+  "blue gate village key": {
+    "id": "blue-gate-village-key",
+    "name": "Blue Gate Village Key"
+  },
+  "blue light stick": {
+    "id": "blue-light-stick",
+    "name": "Blue Light Stick"
+  },
+  "blue light stick blueprint": {
+    "id": "blue-light-stick-blueprint",
+    "name": "Blue Light Stick Blueprint"
+  },
+  "blue radio renegade color": {
+    "id": "blue-radio-renegade-color",
+    "name": "Blue (Radio Renegade Color)"
+  },
+  "blue yellow aviator color": {
+    "id": "blue-yellow-aviator-color",
+    "name": "Blue Yellow (Aviator Color)"
+  },
+  "bobcat blueprint": {
+    "id": "bobcat-i-recipe",
+    "name": "Bobcat Blueprint"
+  },
+  "bobcat i": {
+    "id": "bobcat-i",
+    "name": "Bobcat I"
+  },
+  "bobcat ii": {
+    "id": "bobcat-ii",
+    "name": "Bobcat II"
+  },
+  "bobcat iii": {
+    "id": "bobcat-iii",
+    "name": "Bobcat III"
+  },
+  "bobcat iv": {
+    "id": "bobcat-iv",
+    "name": "Bobcat IV"
+  },
+  "bombardier cell": {
+    "id": "bombardier-cell",
+    "name": "Bombardier Cell"
+  },
+  "bow and arrow emote": {
+    "id": "bow-and-arrow-emote",
+    "name": "Bow and Arrow (Emote)"
+  },
+  "breathtaking snow globe": {
+    "id": "breathtaking-snow-globe",
+    "name": "Breathtaking Snow Globe"
+  },
+  "briefcase backpack attachment": {
+    "id": "briefcase-backpack-attachment",
+    "name": "Briefcase (Backpack Attachment)"
+  },
+  "broken flashlight": {
+    "id": "broken-flashlight",
+    "name": "Broken Flashlight"
+  },
+  "broken guidance system": {
+    "id": "broken-guidance-system",
+    "name": "Broken Guidance System"
+  },
+  "broken handcuffs": {
+    "id": "broken-handcuffs",
+    "name": "Broken Handcuffs"
+  },
+  "broken handheld radio": {
+    "id": "broken-handheld-radio",
+    "name": "Broken Handheld Radio"
+  },
+  "broken riot shield": {
+    "id": "broken-riot-shield",
+    "name": "Broken Riot Shield"
+  },
+  "broken taser": {
+    "id": "broken-taser",
+    "name": "Broken Taser"
+  },
+  "burgerboy backpack charm": {
+    "id": "burgerboy-backpack-charm",
+    "name": "Burgerboy (Backpack Charm)"
+  },
+  "buried city hospital key": {
+    "id": "buried-city-hospital-key",
+    "name": "Buried City Hospital Key"
+  },
+  "buried city jkv employee access card": {
+    "id": "buried-city-jkv-employee-access-card",
+    "name": "Buried City JKV Employee Access Card"
+  },
+  "buried city residential master key": {
+    "id": "buried-city-residential-master-key",
+    "name": "Buried City Residential Master Key"
+  },
+  "buried city town hall key": {
+    "id": "buried-city-town-hall-key",
+    "name": "Buried City Town Hall Key"
+  },
+  "burletta blueprint": {
+    "id": "burltetta-recipe",
+    "name": "Burletta Blueprint"
+  },
+  "burletta i": {
+    "id": "burletta-i",
+    "name": "Burletta I"
+  },
+  "burletta ii": {
+    "id": "burletta-ii",
+    "name": "Burletta II"
+  },
+  "burletta iii": {
+    "id": "burletta-iiii",
+    "name": "Burletta III"
+  },
+  "burletta iv": {
+    "id": "burletta-iv",
+    "name": "Burletta IV"
+  },
+  "burned arc circuitry": {
+    "id": "burned-arc-circuitry",
+    "name": "Burned ARC Circuitry"
+  },
+  "burnt out candles": {
+    "id": "burnt-out-candles",
+    "name": "Burnt-Out Candles"
+  },
+  "camera lens": {
+    "id": "camera-lens",
+    "name": "Camera Lens"
+  },
+  "candleberries": {
+    "id": "candleberries",
+    "name": "Candleberries"
+  },
+  "candle holder": {
+    "id": "candle-holder",
+    "name": "Candle Holder"
+  },
+  "canister": {
+    "id": "canister",
+    "name": "Canister"
+  },
+  "cans backpack attachment": {
+    "id": "cans-backpack-attachment",
+    "name": "Cans (Backpack Attachment)"
+  },
+  "cat bed": {
+    "id": "cat-bed",
+    "name": "Cat Bed"
+  },
+  "cheer emote": {
+    "id": "cheer-emote",
+    "name": "Cheer (Emote)"
+  },
+  "chemicals": {
+    "id": "chemicals",
+    "name": "Chemicals"
+  },
+  "coffee pot": {
+    "id": "coffee-pot",
+    "name": "Coffee Pot"
+  },
+  "combat mk 1": {
+    "id": "combat-mk-1",
+    "name": "Combat Mk. 1"
+  },
+  "combat mk 2": {
+    "id": "combat-mk-2",
+    "name": "Combat Mk. 2"
+  },
+  "combat mk 3 aggressive": {
+    "id": "combat-mk-3-aggressive",
+    "name": "Combat Mk. 3 (Aggressive)"
+  },
+  "combat mk 3 aggressive blueprint": {
+    "id": "combat-mk3-aggressive-blueprint",
+    "name": "Combat Mk.3 (Aggressive) Blueprint"
+  },
+  "combat mk 3 flanking": {
+    "id": "combat-mk3-flanking",
+    "name": "Combat Mk.3 (Flanking) "
+  },
+  "combat mk 3 flanking blueprint": {
+    "id": "combat-mk-3-flanking",
+    "name": "Combat Mk. 3 (Flanking) Blueprint"
+  },
+  "compensator i": {
+    "id": "compensator-i",
+    "name": "Compensator I"
+  },
+  "compensator ii": {
+    "id": "compensator-ii",
+    "name": "Compensator II"
+  },
+  "compensator ii blueprint": {
+    "id": "compensator-ii-recipe",
+    "name": "Compensator II Blueprint"
+  },
+  "compensator iii": {
+    "id": "compensator-iii",
+    "name": "Compensator III"
+  },
+  "compensator iii blueprint": {
+    "id": "compensator-iii-recipe",
+    "name": "Compensator III Blueprint"
+  },
+  "complex gun parts": {
+    "id": "complex-gun-parts",
+    "name": "Complex Gun Parts"
+  },
+  "complex gun parts blueprint": {
+    "id": "complex-gun-parts-blueprint",
+    "name": "Complex Gun Parts Blueprint"
+  },
+  "coolant": {
+    "id": "coolant",
+    "name": "Coolant"
+  },
+  "cooling coil": {
+    "id": "cooling-coil",
+    "name": "Cooling Coil"
+  },
+  "cooling fan": {
+    "id": "cooling-fan",
+    "name": "Cooling Fan"
+  },
+  "cracked bioscanner": {
+    "id": "cracked-bioscanner",
+    "name": "Cracked Bioscanner"
+  },
+  "crimson racer aviator colour": {
+    "id": "crimson-racer-aviator-colour",
+    "name": "Crimson Racer (Aviator Colour)"
+  },
+  "crude explosives": {
+    "id": "crude-explosives",
+    "name": "Crude Explosives"
+  },
+  "crumpled plastic bottle": {
+    "id": "crumpled-plastic-bottle",
+    "name": "Crumpled Plastic Bottle"
+  },
+  "damaged arc motion core": {
+    "id": "damaged-arc-motion-core",
+    "name": "Damaged ARC Motion Core"
+  },
+  "damaged arc powercell": {
+    "id": "damaged-arc-powercell",
+    "name": "Damaged ARC Powercell"
+  },
+  "damaged fireball burner": {
+    "id": "damaged-fireball-burner",
+    "name": "Damaged Fireball Burner"
+  },
+  "damaged heat sink": {
+    "id": "damaged-heat-sink",
+    "name": "Damaged Heat Sink"
+  },
+  "damaged hornet driver": {
+    "id": "danaged-hornet-driver",
+    "name": "Damaged Hornet Driver"
+  },
+  "damaged rocketeer driver": {
+    "id": "damaged-rocketeer-part",
+    "name": "Damaged Rocketeer Driver"
+  },
+  "damaged tick pod": {
+    "id": "damaged-tick-pod",
+    "name": "Damaged Tick Pod"
+  },
+  "damaged wasp driver": {
+    "id": "damaged-wasp-driver",
+    "name": "Damaged Wasp Driver"
+  },
+  "dam control center tower key": {
+    "id": "dam-control-center-tower-key",
+    "name": "Dam Control Center Tower Key"
+  },
+  "dam staff room key": {
+    "id": "dam-staff-room-key",
+    "name": "Dam Staff Room Key"
+  },
+  "dam surveillance key": {
+    "id": "dam-surveillance-key",
+    "name": "Dam Surveillance Key"
+  },
+  "dam testing annex key": {
+    "id": "dam-testing-annex-key",
+    "name": "Dam Testing Annex Key"
+  },
+  "dam utility key": {
+    "id": "dam-utility-key",
+    "name": "Dam Utility Key"
+  },
+  "dart board": {
+    "id": "dart-board",
+    "name": "Dart Board"
+  },
+  "deadline": {
+    "id": "deadline",
+    "name": "Deadline"
+  },
+  "deadline blueprint": {
+    "id": "deadline-blueprint",
+    "name": "Deadline Blueprint"
+  },
+  "defibrillator": {
+    "id": "defibrillator",
+    "name": "Defibrillator"
+  },
+  "defibrillator blueprint": {
+    "id": "defibrillator-recipe",
+    "name": "Defibrillator Blueprint"
+  },
+  "deflated football": {
+    "id": "deflated-football",
+    "name": "Deflated Football"
+  },
+  "degraded arc rubber": {
+    "id": "degraded-arc-rubber",
+    "name": "Degraded ARC Rubber"
+  },
+  "diving goggles": {
+    "id": "diving-googles",
+    "name": "Diving Goggles"
+  },
+  "dog collar": {
+    "id": "dog-collar",
+    "name": "Dog Collar"
+  },
+  "door blocker": {
+    "id": "door-blocker",
+    "name": "Door Blocker"
+  },
+  "dried out arc resin": {
+    "id": "dried-out-arc-resin",
+    "name": "Dried-Out ARC Resin"
+  },
+  "duct tape": {
+    "id": "duct-tape-recipe",
+    "name": "Duct Tape"
+  },
+  "durable cloth": {
+    "id": "durable-cloth",
+    "name": "Durable Cloth"
+  },
+  "electrical components": {
+    "id": "electrical-components",
+    "name": "Electrical Components"
+  },
+  "empty wine bottle": {
+    "id": "empty-wine-bottle",
+    "name": "Empty Wine Bottle"
+  },
+  "energy clip": {
+    "id": "energy-ammo",
+    "name": "Energy Clip"
+  },
+  "equalizer": {
+    "id": "equalizer-i",
+    "name": "Equalizer"
+  },
+  "equalizer blueprint": {
+    "id": "equalizer-recipe",
+    "name": "Equalizer Blueprint"
+  },
+  "esr analyzer": {
+    "id": "esr-analyzer",
+    "name": "ESR Analyzer"
+  },
+  "exodus modules": {
+    "id": "exodus-modules",
+    "name": "Exodus Modules"
+  },
+  "expired pasta": {
+    "id": "expired-pasta",
+    "name": "Expired Pasta"
+  },
+  "expired respirator": {
+    "id": "expired-respirator",
+    "name": "Expired Respirator"
+  },
+  "explosive compound": {
+    "id": "explosive-compound",
+    "name": "Explosive Compound"
+  },
+  "explosive mine": {
+    "id": "explosive-mine",
+    "name": "Explosive Mine"
+  },
+  "explosive mine blueprint": {
+    "id": "explosive-mine-blueprint",
+    "name": "Explosive Mine Blueprint"
+  },
+  "extended barrel": {
+    "id": "extended-barrel",
+    "name": "Extended Barrel"
+  },
+  "extended barrel blueprint": {
+    "id": "extended-barrel-recipe",
+    "name": "Extended Barrel Blueprint"
+  },
+  "extended light mag i": {
+    "id": "extended-light-mag-i",
+    "name": "Extended Light Mag I"
+  },
+  "extended light mag ii": {
+    "id": "extended-light-mag-ii",
+    "name": "Extended Light Mag II"
+  },
+  "extended light mag ii blueprint": {
+    "id": "extended-light-mag-ii-recipe",
+    "name": "Extended Light Mag II Blueprint"
+  },
+  "extended light mag iii": {
+    "id": "extended-light-mag-iii",
+    "name": "Extended Light Mag III"
+  },
+  "extended light mag iii blueprint": {
+    "id": "extended-light-mag-iii-recipe",
+    "name": "Extended Light Mag III Blueprint"
+  },
+  "extended medium mag i": {
+    "id": "extended-medium-mag-i",
+    "name": "Extended Medium Mag I"
+  },
+  "extended medium mag ii": {
+    "id": "extended-medium-mag-ii",
+    "name": "Extended Medium Mag II"
+  },
+  "extended medium mag ii blueprint": {
+    "id": "extended-medium-mag-ii-recipe",
+    "name": "Extended Medium Mag II Blueprint"
+  },
+  "extended medium mag iii": {
+    "id": "extended-medium-mag-iii",
+    "name": "Extended Medium Mag III"
+  },
+  "extended medium mag iii blueprint": {
+    "id": "extended-medium-mag-iii-blueprint",
+    "name": "Extended Medium Mag III Blueprint"
+  },
+  "extended shotgun mag i": {
+    "id": "extended-shotgun-mag-i",
+    "name": "Extended Shotgun Mag I"
+  },
+  "extended shotgun mag ii": {
+    "id": "extended-shotgun-mag-ii",
+    "name": "Extended Shotgun Mag II"
+  },
+  "extended shotgun mag ii blueprint": {
+    "id": "extended-shotgun-mag-ii-recipe",
+    "name": "Extended Shotgun Mag II Blueprint"
+  },
+  "extended shotgun mag iii": {
+    "id": "extended-shotgun-mag-iii",
+    "name": "Extended Shotgun Mag III"
+  },
+  "extended shotgun mag iii blueprint": {
+    "id": "extended-shotgun-mag-iii-recipe",
+    "name": "Extended Shotgun Mag III Blueprint"
+  },
+  "fabric": {
+    "id": "fabric",
+    "name": "Fabric"
+  },
+  "faded photograph": {
+    "id": "faded-photograph",
+    "name": "Faded Photograph"
+  },
+  "ferro i": {
+    "id": "ferro-i",
+    "name": "Ferro I"
+  },
+  "ferro ii": {
+    "id": "ferro-ii",
+    "name": "Ferro II"
+  },
+  "ferro iii": {
+    "id": "ferro-iii",
+    "name": "Ferro III"
+  },
+  "ferro iv": {
+    "id": "ferro-iv",
+    "name": "Ferro IV"
+  },
+  "fertilizer": {
+    "id": "fertilizer",
+    "name": "Fertilizer"
+  },
+  "film reel": {
+    "id": "film-reel",
+    "name": "Film Reel"
+  },
+  "fine wristwatch": {
+    "id": "fine-wristwatch",
+    "name": "Fine Wristwatch"
+  },
+  "fireball burner": {
+    "id": "fireball-burner",
+    "name": "Fireball Burner"
+  },
+  "firecracker": {
+    "id": "firecracker",
+    "name": "Firecracker"
+  },
+  "fireworks box": {
+    "id": "fireworks-box",
+    "name": "Fireworks Box"
+  },
+  "fireworks box blueprint": {
+    "id": "fireworks-box-blueprint",
+    "name": "Fireworks Box Blueprint"
+  },
+  "flame spray": {
+    "id": "flame-spray",
+    "name": "Flame Spray"
+  },
+  "flow controller": {
+    "id": "flow-controller",
+    "name": "Flow Controller"
+  },
+  "flushing terminal key": {
+    "id": "flushing-terminal-key",
+    "name": "Flushing Terminal Key"
+  },
+  "fossilized lightning": {
+    "id": "fossilized-lightning",
+    "name": "Fossilized Lightning"
+  },
+  "free loadout augment": {
+    "id": "free-loadout-augment",
+    "name": "Free Loadout Augment"
+  },
+  "frequency modulation box": {
+    "id": "frequency-modulation-box",
+    "name": "Frequency Modulation Box"
+  },
+  "fried motherboard": {
+    "id": "fried-motherboard",
+    "name": "Fried Motherboard"
+  },
+  "fruit mix": {
+    "id": "fruit-mix",
+    "name": "Fruit Mix"
+  },
+  "frying pan": {
+    "id": "frying-pan",
+    "name": "Frying Pan"
+  },
+  "garlic press": {
+    "id": "garlic-press",
+    "name": "Garlic Press"
+  },
+  "gas grenade": {
+    "id": "gas-grenade",
+    "name": "Gas Grenade"
+  },
+  "gas grenade trap": {
+    "id": "gas-grenade-trap",
+    "name": "Gas Grenade Trap"
+  },
+  "gas mine": {
+    "id": "gas-mine",
+    "name": "Gas Mine"
+  },
+  "gas mine blueprint": {
+    "id": "gas-mine-blueprint",
+    "name": "Gas Mine Blueprint"
+  },
+  "geiger counter": {
+    "id": "geiger-counter",
+    "name": "Geiger Counter"
+  },
+  "goggles radio renegade variant": {
+    "id": "goggles-radio-renegade-variant",
+    "name": "Goggles (Radio Renegade Variant)"
+  },
+  "great mullein": {
+    "id": "great-muullein",
+    "name": "Great Mullein"
+  },
+  "green light stick": {
+    "id": "green-light-stick",
+    "name": "Green Light Stick"
+  },
+  "green light stick blueprint": {
+    "id": "green-light-stick-blueprint",
+    "name": "Green Light Stick Blueprint"
+  },
+  "hairpin i": {
+    "id": "hairpin-i",
+    "name": "Hairpin I"
+  },
+  "hairpin ii": {
+    "id": "hairpin-ii",
+    "name": "Hairpin II"
+  },
+  "hairpin iii": {
+    "id": "hairpin-iii",
+    "name": "Hairpin III"
+  },
+  "hairpin iv": {
+    "id": "hairpin-iv",
+    "name": "Hairpin IV"
+  },
+  "happy jig emote": {
+    "id": "happy-jig-emote",
+    "name": "Happy Jig (Emote)"
+  },
+  "headphones": {
+    "id": "headphones",
+    "name": "Headphones"
+  },
+  "heavy ammo": {
+    "id": "heavy-ammo",
+    "name": "Heavy Ammo"
+  },
+  "heavy fuze grenade": {
+    "id": "heavy-fuze-grenade",
+    "name": "Heavy Fuze Grenade"
+  },
+  "heavy gun parts": {
+    "id": "heavy-gun-parts",
+    "name": "Heavy Gun Parts"
+  },
+  "heavy gun parts blueprint": {
+    "id": "heavy-gun-parts-recipe",
+    "name": "Heavy Gun Parts Blueprint"
+  },
+  "heavy shield": {
+    "id": "heavy-shield",
+    "name": "Heavy Shield"
+  },
+  "helmet radio renegade variant": {
+    "id": "helmet-radio-renegade-variant",
+    "name": "Helmet (Radio Renegade Variant)"
+  },
+  "herbal bandage": {
+    "id": "herbal-bandage",
+    "name": "Herbal Bandage"
+  },
+  "horizontal grip": {
+    "id": "horizontal-grip",
+    "name": "Horizontal Grip"
+  },
+  "hornet driver": {
+    "id": "hornet-driver",
+    "name": "Hornet Driver"
+  },
+  "household cleaner": {
+    "id": "household-cleaner",
+    "name": "Household Cleaner"
+  },
+  "hullcracker blueprint": {
+    "id": "hullcracker-blueprint",
+    "name": "Hullcracker Blueprint"
+  },
+  "hullcracker i": {
+    "id": "hullcracker-i",
+    "name": "Hullcracker I"
+  },
+  "hullcracker ii": {
+    "id": "hullcracker-ii",
+    "name": "Hullcracker II"
+  },
+  "hullcracker iii": {
+    "id": "hullcracker-iii",
+    "name": "Hullcracker III"
+  },
+  "hullcracker iv": {
+    "id": "hullcracker-iv",
+    "name": "Hullcracker IV "
+  },
+  "humidifier": {
+    "id": "humidifier",
+    "name": "Humidifier"
+  },
+  "ice cream scooper": {
+    "id": "ice-cream-scooper",
+    "name": "Ice Cream Scooper"
+  },
+  "il toro blueprint": {
+    "id": "il-toro-recipe",
+    "name": "Il Toro Blueprint"
+  },
+  "il toro i": {
+    "id": "il-toro-i",
+    "name": "Il Toro I"
+  },
+  "il toro ii": {
+    "id": "il-toro-ii",
+    "name": "Il Toro II"
+  },
+  "il toro iii": {
+    "id": "il-toro-iiii",
+    "name": "Il Toro III"
+  },
+  "il toro iv": {
+    "id": "il-toro-iv",
+    "name": "Il Toro IV"
+  },
+  "impure arc coolant": {
+    "id": "impure-arc-coolant",
+    "name": "Impure ARC Coolant"
+  },
+  "industrial battery": {
+    "id": "industrial-battery",
+    "name": "Industrial Battery"
+  },
+  "industrial charger": {
+    "id": "industrial-charger",
+    "name": "Industrial Charger"
+  },
+  "industrial magnet": {
+    "id": "industrial-magnet",
+    "name": "Industrial Magnet"
+  },
+  "ion sputter": {
+    "id": "ion-sputter",
+    "name": "Ion Sputter"
+  },
+  "jolt mine": {
+    "id": "jolt-mine",
+    "name": "Jolt Mine"
+  },
+  "jolt mine blueprint": {
+    "id": "jolt-mine-recipe",
+    "name": "Jolt Mine Blueprint"
+  },
+  "junior outfit": {
+    "id": "junior-outfit",
+    "name": "Junior (Outfit)"
+  },
+  "jupiter": {
+    "id": "jupiter-i",
+    "name": "Jupiter"
+  },
+  "jupiter blueprint": {
+    "id": "jupiter-i-recipe",
+    "name": "Jupiter Blueprint"
+  },
+  "kettle i": {
+    "id": "kettle-i",
+    "name": "Kettle I"
+  },
+  "kettle ii": {
+    "id": "kettle-ii",
+    "name": "Kettle II"
+  },
+  "kettle iii": {
+    "id": "kettle-iii",
+    "name": "Kettle III"
+  },
+  "kettle iv": {
+    "id": "kettle-iv",
+    "name": "Kettle IV"
+  },
+  "kinetic converter": {
+    "id": "kinetic-converter",
+    "name": "Kinetic Converter"
+  },
+  "laboratory reagents": {
+    "id": "laboratory-reagents",
+    "name": "Laboratory Reagents"
+  },
+  "lance s mixtape 5th edition": {
+    "id": "lances-mixtape-5th-edition",
+    "name": "Lance's Mixtape (5th Edition)"
+  },
+  "laser trap lure": {
+    "id": "laser-trap-lure-recipe",
+    "name": "Laser Trap: Lure"
+  },
+  "launcher ammo": {
+    "id": "launcher-ammo",
+    "name": "Launcher Ammo"
+  },
+  "leaper pulse unit": {
+    "id": "leaper-pulse-unit",
+    "name": "Leaper Pulse Unit"
+  },
+  "lemon": {
+    "id": "lemon",
+    "name": "Lemon"
+  },
+  "lidar scanner": {
+    "id": "lidar-scanner",
+    "name": "Lidar Scanner"
+  },
+  "light ammo": {
+    "id": "light-ammo",
+    "name": "Light Ammo"
+  },
+  "light bulb": {
+    "id": "light-bulb",
+    "name": "Light Bulb"
+  },
+  "light gun parts": {
+    "id": "light-gun-parts",
+    "name": "Light Gun Parts"
+  },
+  "light gun parts blueprint": {
+    "id": "light-gun-parts-recipe",
+    "name": "Light Gun Parts Blueprint"
+  },
+  "light impact grenade": {
+    "id": "light-impact-grenade",
+    "name": "Light Impact Grenade"
+  },
+  "light shield": {
+    "id": "light-shield",
+    "name": "Light Shield"
+  },
+  "lightweight stock": {
+    "id": "lightweight-stock",
+    "name": "Lightweight Stock"
+  },
+  "lightweight stock blueprint": {
+    "id": "lightweight-stock-recipe",
+    "name": "Lightweight Stock Blueprint"
+  },
+  "li l smoke grenade": {
+    "id": "lil-smoke-grenade",
+    "name": "Li'l Smoke Grenade"
+  },
+  "looting mk 1": {
+    "id": "looting-mk-1",
+    "name": "Looting Mk. 1"
+  },
+  "looting mk 2": {
+    "id": "looting-mk-2",
+    "name": "Looting Mk. 2"
+  },
+  "looting mk 3 cautious": {
+    "id": "looting-mk-3-cautious",
+    "name": "Looting MK. 3 (Cautious)"
+  },
+  "looting mk 3 survivor": {
+    "id": "looting-mk-3-survivor",
+    "name": "Looting MK. 3 (Survivor)"
+  },
+  "looting mk 3 survivor blueprint": {
+    "id": "looting-mk-3-survivor-blueprint",
+    "name": "Looting MK. 3 (Survivor) Blueprint"
+  },
+  "lure grenade": {
+    "id": "lure-grenade",
+    "name": "Lure Grenade"
+  },
+  "lure grenade blueprint": {
+    "id": "lure-grenade-recipe",
+    "name": "Lure Grenade Blueprint"
+  },
+  "lure grenade trap": {
+    "id": "lure-grenade-trap",
+    "name": "Lure Grenade Trap"
+  },
+  "magnet": {
+    "id": "magnet",
+    "name": "Magnet"
+  },
+  "magnetic accelerator": {
+    "id": "magnetic-accelerator",
+    "name": "Magnetic Accelerator"
+  },
+  "magnetron": {
+    "id": "magnetron",
+    "name": "Magnetron"
+  },
+  "mastery medal backpack charm": {
+    "id": "mastery-medal-backpack-charm",
+    "name": "Mastery Medal (Backpack Charm)"
+  },
+  "matriarch reactor": {
+    "id": "matriarch-reactor",
+    "name": "Matriarch Reactor"
+  },
+  "mechanical components": {
+    "id": "mechanical-components",
+    "name": "Mechanical Components"
+  },
+  "medium ammo": {
+    "id": "medium-ammo",
+    "name": "Medium Ammo"
+  },
+  "medium gun parts": {
+    "id": "medium-gun-parts",
+    "name": "Medium Gun Parts"
+  },
+  "medium gun parts blueprint": {
+    "id": "medium-gun-parts-recipe",
+    "name": "Medium Gun Parts Blueprint"
+  },
+  "medium shield": {
+    "id": "medium-shield",
+    "name": "Medium Shield"
+  },
+  "metal brackets": {
+    "id": "metal-brackets",
+    "name": "Metal Brackets"
+  },
+  "metal parts": {
+    "id": "metal-parts",
+    "name": "Metal Parts"
+  },
+  "microscope": {
+    "id": "microscope",
+    "name": "Microscope"
+  },
+  "mini centrifuge": {
+    "id": "mini-centrifuge",
+    "name": "Mini Centrifuge"
+  },
+  "mod components": {
+    "id": "mod-components",
+    "name": "Mod Components"
+  },
+  "moss": {
+    "id": "moss",
+    "name": "Moss"
+  },
+  "motor": {
+    "id": "motor",
+    "name": "Motor"
+  },
+  "mushroom": {
+    "id": "mushroom",
+    "name": "Mushroom"
+  },
+  "music album": {
+    "id": "music-album",
+    "name": "Music Album"
+  },
+  "music box": {
+    "id": "music-box",
+    "name": "Music Box"
+  },
+  "muzzle brake i": {
+    "id": "muzzle-brake-i",
+    "name": "Muzzle Brake I"
+  },
+  "muzzle brake ii": {
+    "id": "muzzle-brake-ii",
+    "name": "Muzzle Brake II"
+  },
+  "muzzle brake ii blueprint": {
+    "id": "muzzle-brake-ii-recipe",
+    "name": "Muzzle Brake II Blueprint"
+  },
+  "muzzle brake iii": {
+    "id": "muzzle-brake-iii",
+    "name": "Muzzle Brake III"
+  },
+  "muzzle brake iii blueprint": {
+    "id": "muzzle-brake-iii-recipe",
+    "name": "Muzzle Brake III Blueprint"
+  },
+  "noisemaker": {
+    "id": "noisemaker",
+    "name": "Noisemaker"
+  },
+  "not in game anvil splitter blueprint": {
+    "id": "anvil-splitter-recipe",
+    "name": "not-in-game Anvil Splitter Blueprint"
+  },
+  "not in game horizontal grip blueprint": {
+    "id": "horizontal-grip-blueprint",
+    "name": "not-in-game Horizontal Grip Blueprint"
+  },
+  "not in game kinetic converter blueprint": {
+    "id": "kinetic-converter-recipe",
+    "name": "not-in-game Kinetic Converter Blueprint"
+  },
+  "not in game silencer iii blueprint": {
+    "id": "silencer-iii-recipe",
+    "name": "not-in-game Silencer III Blueprint"
+  },
+  "number plate": {
+    "id": "number-plate",
+    "name": "Number Plate"
+  },
+  "oil": {
+    "id": "oil",
+    "name": "Oil"
+  },
+  "olives": {
+    "id": "olives",
+    "name": "Olives"
+  },
+  "orange camo origin outfit": {
+    "id": "orange-camo-origin-outfit",
+    "name": "Orange Camo (Origin Outfit)"
+  },
+  "osprey blueprint": {
+    "id": "osprey-recipe",
+    "name": "Osprey Blueprint"
+  },
+  "osprey i": {
+    "id": "osprey-i",
+    "name": "Osprey I"
+  },
+  "osprey ii": {
+    "id": "osprey-ii",
+    "name": "Osprey II"
+  },
+  "osprey iii": {
+    "id": "osprey-iii",
+    "name": "Osprey III"
+  },
+  "osprey iv": {
+    "id": "osprey-iv",
+    "name": "Osprey IV"
+  },
+  "padded stock": {
+    "id": "padded-stock",
+    "name": "Padded Stock"
+  },
+  "padded stock blueprint": {
+    "id": "padded-stock-recipe",
+    "name": "Padded Stock Blueprint"
+  },
+  "painted box": {
+    "id": "painted-box",
+    "name": "Painted Box"
+  },
+  "patrol car key": {
+    "id": "patrol-car-key",
+    "name": "Patrol Car Key"
+  },
+  "patrol outfit": {
+    "id": "patrol-outfit",
+    "name": "Patrol (Outfit)"
+  },
+  "photoelectric cloak": {
+    "id": "photoelectric-cloak",
+    "name": "Photoelectric Cloak"
+  },
+  "plastic parts": {
+    "id": "plastic-parts",
+    "name": "Plastic Parts"
+  },
+  "playing cards": {
+    "id": "playing-cards",
+    "name": "Playing Cards"
+  },
+  "polluted air filter": {
+    "id": "polluted-air-filter",
+    "name": "Polluted Air Filter"
+  },
+  "pop trigger": {
+    "id": "pop-trigger",
+    "name": "Pop Trigger"
+  },
+  "portable tv": {
+    "id": "portable-television",
+    "name": "Portable TV"
+  },
+  "poster of natural wonder": {
+    "id": "poster-natural-wonder",
+    "name": "Poster of Natural Wonder"
+  },
+  "pottery": {
+    "id": "pottery",
+    "name": "Pottery"
+  },
+  "power bank": {
+    "id": "power-bank",
+    "name": "Power Bank"
+  },
+  "power cable": {
+    "id": "power-cable",
+    "name": "Power Cable"
+  },
+  "power rod": {
+    "id": "power-rod",
+    "name": "Power Rod"
+  },
+  "prickly pear": {
+    "id": "prickly-pear",
+    "name": "Prickly Pear"
+  },
+  "processor": {
+    "id": "processor",
+    "name": "Processor"
+  },
+  "projector": {
+    "id": "projector",
+    "name": "Projector"
+  },
+  "pulse mine": {
+    "id": "pulse-mine",
+    "name": "Pulse Mine"
+  },
+  "pulse mine blueprint": {
+    "id": "pulse-mine-blueprint",
+    "name": "Pulse Mine Blueprint"
+  },
+  "queen reactor": {
+    "id": "queen-reactor",
+    "name": "Queen Reactor"
+  },
+  "radio": {
+    "id": "radio",
+    "name": "Radio"
+  },
+  "radio relay": {
+    "id": "radio-relay",
+    "name": "Radio Relay"
+  },
+  "radio renegade outfit": {
+    "id": "radio-renegade-outfit",
+    "name": "Radio Renegade (Outfit)"
+  },
+  "raider hatch key": {
+    "id": "raider-hatch-key",
+    "name": "Raider Hatch Key"
+  },
+  "rattler i": {
+    "id": "rattler-i",
+    "name": "Rattler I"
+  },
+  "rattler ii": {
+    "id": "rattler-ii",
+    "name": "Rattler II"
+  },
+  "rattler iii": {
+    "id": "rattler-iii",
+    "name": "Rattler III"
+  },
+  "rattler iv": {
+    "id": "rattler-iv",
+    "name": "Rattler IV"
+  },
+  "recorder": {
+    "id": "recorder",
+    "name": "Recorder"
+  },
+  "red coral jewelry": {
+    "id": "red-coral-jewelry",
+    "name": "Red Coral Jewelry"
+  },
+  "red light stick": {
+    "id": "red-light-stick",
+    "name": "Red Light Stick"
+  },
+  "red light stick blueprint": {
+    "id": "red-light-stick-blueprint",
+    "name": "Red Light Stick Blueprint"
+  },
+  "refinement 1": {
+    "id": "refinement-1",
+    "name": "Refinement 1"
+  },
+  "remote control": {
+    "id": "remote-control",
+    "name": "Remote Control"
+  },
+  "remote raider flare": {
+    "id": "remote-raider-flare",
+    "name": "Remote Raider Flare"
+  },
+  "remote raider flare blueprint": {
+    "id": "remote-raider-flare-blueprint",
+    "name": "Remote Raider Flare Blueprint"
+  },
+  "renegade i": {
+    "id": "renegade-i",
+    "name": "Renegade I"
+  },
+  "renegade ii": {
+    "id": "renegade-ii",
+    "name": "Renegade II"
+  },
+  "renegade iii": {
+    "id": "renegade-iii",
+    "name": "Renegade III"
+  },
+  "renegade iv": {
+    "id": "renegade-iv",
+    "name": "Renegade IV"
+  },
+  "resin": {
+    "id": "resin",
+    "name": "Resin"
+  },
+  "ripped safety vest": {
+    "id": "ripped-safety-vest",
+    "name": "Ripped Safety Vest"
+  },
+  "rocketeer driver": {
+    "id": "rocketeer-part",
+    "name": "Rocketeer Driver"
+  },
+  "rocket thruster": {
+    "id": "rocket-thruster",
+    "name": "Rocket Thruster"
+  },
+  "roots": {
+    "id": "roots",
+    "name": "Roots"
+  },
+  "rope": {
+    "id": "rope",
+    "name": "Rope"
+  },
+  "rosary": {
+    "id": "rosary",
+    "name": "Rosary"
+  },
+  "rotary encoder": {
+    "id": "rotary-encoder",
+    "name": "Rotary Encoder"
+  },
+  "rubber duck": {
+    "id": "rubber-duck",
+    "name": "Rubber Duck"
+  },
+  "rubber pad": {
+    "id": "rubber-pad",
+    "name": "Rubber Pad"
+  },
+  "rubber parts": {
+    "id": "rubber-parts-recipe",
+    "name": "Rubber Parts"
+  },
+  "ruined accordion": {
+    "id": "ruined-accordion",
+    "name": "Ruined Accordion"
+  },
+  "ruined augment": {
+    "id": "ruined-augment",
+    "name": "Ruined Augment"
+  },
+  "ruined baton": {
+    "id": "ruined-baton",
+    "name": "Ruined Baton"
+  },
+  "ruined handcuffs": {
+    "id": "ruined-handcuffs",
+    "name": "Ruined Handcuffs"
+  },
+  "ruined parachute": {
+    "id": "ruined-parachute",
+    "name": "Ruined Parachute"
+  },
+  "ruined riot shield": {
+    "id": "ruined-riot-shield",
+    "name": "Ruined Riot Shield"
+  },
+  "ruined tactical vest": {
+    "id": "ruined-tactical-vest",
+    "name": "Ruined Tactical Vest"
+  },
+  "rusted bolts": {
+    "id": "rusted-bolts",
+    "name": "Rusted Bolts"
+  },
+  "rusted gear": {
+    "id": "rusted-gear",
+    "name": "Rusted Gear"
+  },
+  "rusted shut medical kit": {
+    "id": "rusted-shut-medical-kit",
+    "name": "Rusted Shut Medical Kit"
+  },
+  "rusted tools": {
+    "id": "rusted-tools",
+    "name": "Rusted Tools"
+  },
+  "rusty arc steel": {
+    "id": "rusty-arc-steel",
+    "name": "Rusty ARC Steel"
+  },
+  "sample cleaner": {
+    "id": "sample-cleaner",
+    "name": "Sample Cleaner"
+  },
+  "seeker grenade": {
+    "id": "seeker-grenade",
+    "name": "Seeker Grenade"
+  },
+  "seeker grenade blueprint": {
+    "id": "seeker-grenade-blueprint",
+    "name": "Seeker Grenade Blueprint"
+  },
+  "sensors": {
+    "id": "sensors-recipe",
+    "name": "Sensors"
+  },
+  "sentinel firing core": {
+    "id": "sentinel-part",
+    "name": "Sentinel Firing Core"
+  },
+  "shaker": {
+    "id": "shaker",
+    "name": "Shaker"
+  },
+  "shield recharger": {
+    "id": "shield-recharger",
+    "name": "Shield Recharger"
+  },
+  "shotgun ammo": {
+    "id": "shotgun-ammo",
+    "name": "Shotgun ammo"
+  },
+  "shotgun choke i": {
+    "id": "shotgun-choke-i",
+    "name": "Shotgun Choke I"
+  },
+  "shotgun choke ii": {
+    "id": "shotgun-choke-ii",
+    "name": "Shotgun Choke II"
+  },
+  "shotgun choke ii blueprint": {
+    "id": "shotgun-choke-ii-recipe",
+    "name": "Shotgun Choke II Blueprint"
+  },
+  "shotgun choke iii": {
+    "id": "shotgun-choke-iii",
+    "name": "Shotgun Choke III"
+  },
+  "shotgun choke iii blueprint": {
+    "id": "shotgun-choke-iii-recipe",
+    "name": "Shotgun Choke III Blueprint"
+  },
+  "shotgun parts": {
+    "id": "shotgun-gun-parts",
+    "name": "Shotgun Parts"
+  },
+  "shotgun silencer": {
+    "id": "shotgun-silencer",
+    "name": "Shotgun Silencer"
+  },
+  "shotgun silencer blueprint": {
+    "id": "shotgun-silencer-blueprint",
+    "name": "Shotgun Silencer Blueprint"
+  },
+  "showstopper": {
+    "id": "showstopper",
+    "name": "Showstopper"
+  },
+  "showstopper blueprint": {
+    "id": "showstopper-blueprint",
+    "name": "Showstopper Blueprint"
+  },
+  "shrapnel grenade": {
+    "id": "shrapnel-grenade",
+    "name": "Shrapnel Grenade"
+  },
+  "shredder gyro": {
+    "id": "shredder-gyro",
+    "name": "Shredder Gyro"
+  },
+  "signal amplifier": {
+    "id": "signal-amplifier",
+    "name": "Signal Amplifier"
+  },
+  "silencer i": {
+    "id": "silencer-i",
+    "name": "Silencer I"
+  },
+  "silencer i blueprint": {
+    "id": "silencer-i-recipe",
+    "name": "Silencer I Blueprint"
+  },
+  "silencer ii": {
+    "id": "silencer-ii",
+    "name": "Silencer II"
+  },
+  "silencer ii blueprint": {
+    "id": "silencer-ii-recipe",
+    "name": "Silencer II Blueprint"
+  },
+  "silencer iii": {
+    "id": "silencer-iii",
+    "name": "Silencer III"
+  },
+  "silver teaspoon set": {
+    "id": "silver-teaspoon-set",
+    "name": "Silver Teaspoon Set"
+  },
+  "simple gun parts": {
+    "id": "simple-gun-parts",
+    "name": "Simple Gun Parts"
+  },
+  "smoke grenade": {
+    "id": "smoke-grenade",
+    "name": "Smoke Grenade"
+  },
+  "smoke grenade blueprint": {
+    "id": "smoke-grenade-blueprint",
+    "name": "Smoke Grenade Blueprint"
+  },
+  "smoke grenade trap": {
+    "id": "laser-trap-smoke-recipe",
+    "name": "Smoke Grenade Trap"
+  },
+  "snap blast grenade": {
+    "id": "snap-blast-grenade",
+    "name": "Snap Blast Grenade"
+  },
+  "snap hook": {
+    "id": "snap-hook",
+    "name": "Snap Hook"
+  },
+  "snap hook blueprint": {
+    "id": "snap-hook-recipe",
+    "name": "Snap Hook Blueprint"
+  },
+  "snitch scanner": {
+    "id": "snitch-scanner",
+    "name": "Snitch Scanner"
+  },
+  "snowball": {
+    "id": "snowball",
+    "name": "Snowball"
+  },
+  "spaceport container storage key": {
+    "id": "spaceport-container-storage-key",
+    "name": "Spaceport Container Storage Key"
+  },
+  "spaceport control tower key": {
+    "id": "spaceport-ground-control-key",
+    "name": "Spaceport Control Tower Key"
+  },
+  "spaceport outskirts bunker key": {
+    "id": "spaceport-outskirts-bunker-key",
+    "name": "Spaceport Outskirts Bunker Key"
+  },
+  "spaceport trench tower key": {
+    "id": "spaceport-trench-tower-key",
+    "name": "Spaceport Trench Tower Key"
+  },
+  "spaceport warehouse key": {
+    "id": "spaceport-warehouse-key",
+    "name": "Spaceport Warehouse Key"
+  },
+  "speaker component": {
+    "id": "speaker-component",
+    "name": "Speaker Component"
+  },
+  "spectrometer": {
+    "id": "spectrometer",
+    "name": "Spectrometer"
+  },
+  "spectrum analyzer": {
+    "id": "spectrum-analyzer",
+    "name": "Spectrum Analyzer"
+  },
+  "spotter relay": {
+    "id": "spotter-relay",
+    "name": "Spotter Relay"
+  },
+  "spring cushion": {
+    "id": "spring-cushion",
+    "name": "Spring Cushion"
+  },
+  "stable stock i": {
+    "id": "stable-stock-i",
+    "name": "Stable Stock I"
+  },
+  "stable stock ii": {
+    "id": "stable-stock-ii",
+    "name": "Stable Stock II"
+  },
+  "stable stock ii blueprint": {
+    "id": "stable-stock-ii-recipe",
+    "name": "Stable Stock II Blueprint"
+  },
+  "stable stock iii": {
+    "id": "stable-stock-iii",
+    "name": "Stable Stock III"
+  },
+  "stable stock iii blueprint": {
+    "id": "stable-stock-iii-recipe",
+    "name": "Stable Stock III Blueprint"
+  },
+  "statuette": {
+    "id": "statuette",
+    "name": "Statuette"
+  },
+  "steel spring": {
+    "id": "spring",
+    "name": "Steel Spring"
+  },
+  "stella montis archives key": {
+    "id": "stella-montis-archives-key",
+    "name": "Stella Montis Archives Key"
+  },
+  "stella montis assembly admin key": {
+    "id": "stella-montis-assembly-admin-key",
+    "name": "Stella Montis Assembly Admin Key"
+  },
+  "stella montis medical storage key": {
+    "id": "stella-montis-medical-storage-key",
+    "name": "Stella Montis Medical Storage Key"
+  },
+  "stella montis security checkpoint key": {
+    "id": "stella-montis-security-checkpoint-key",
+    "name": "Stella Montis Security Checkpoint Key"
+  },
+  "sterilized bandage": {
+    "id": "sterilized-bandage",
+    "name": "Sterilized Bandage"
+  },
+  "stitcher i": {
+    "id": "stitcher-i",
+    "name": "Stitcher I"
+  },
+  "stitcher ii": {
+    "id": "stitcher-ii",
+    "name": "Stitcher II"
+  },
+  "stitcher iii": {
+    "id": "stitcher-iii",
+    "name": "Stitcher III"
+  },
+  "stitcher iv": {
+    "id": "stitcher-iv",
+    "name": "Stitcher IV"
+  },
+  "succulent backpack charm": {
+    "id": "succulent-backpack-charm",
+    "name": "Succulent (Backpack Charm)"
+  },
+  "surge shield recharger": {
+    "id": "surge-shield-recharger",
+    "name": "Surge Shield Recharger"
+  },
+  "surveyor vault": {
+    "id": "surveyor-vault",
+    "name": "Surveyor Vault"
+  },
+  "synthesized fuel": {
+    "id": "synthesized-fuel",
+    "name": "Synthesized Fuel"
+  },
+  "syringe": {
+    "id": "syringe",
+    "name": "Syringe"
+  },
+  "tactical mk 1": {
+    "id": "tactical-mk-1",
+    "name": "Tactical Mk. 1"
+  },
+  "tactical mk 2": {
+    "id": "tactical-mk-2",
+    "name": "Tactical Mk. 2"
+  },
+  "tactical mk 3 defensive": {
+    "id": "tactical-mk3-defensive",
+    "name": "Tactical Mk.3 (Defensive)"
+  },
+  "tactical mk 3 defensive blueprint": {
+    "id": "tactical-mk3-defensive-blueprint",
+    "name": "Tactical MK.3 (Defensive) Blueprint"
+  },
+  "tactical mk 3 healing": {
+    "id": "tactical-mk-3-healing",
+    "name": "Tactical Mk. 3 (Healing)"
+  },
+  "tactical mk 3 healing blueprint": {
+    "id": "tacical-mk3-healing-blueprint",
+    "name": "Tactical MK.3 (Healing) Blueprint"
+  },
+  "tagging grenade": {
+    "id": "tagging-grenade",
+    "name": "Tagging Grenade"
+  },
+  "tagging grenade blueprint": {
+    "id": "tagging-grenade-recipe",
+    "name": "Tagging Grenade Blueprint"
+  },
+  "tangerine warden color": {
+    "id": "tangerine-warden-color",
+    "name": "Tangerine (Warden Color)"
+  },
+  "tattered arc lining": {
+    "id": "tattered-arc-lining",
+    "name": "Tattered ARC Lining"
+  },
+  "tattered clothes": {
+    "id": "tattered-clothes",
+    "name": "Tattered Clothes"
+  },
+  "telemetry transceiver": {
+    "id": "telemetry-transceiver",
+    "name": "Telemetry Transceiver"
+  },
+  "tempest i": {
+    "id": "tempest-i",
+    "name": "Tempest I"
+  },
+  "tempest i blueprint": {
+    "id": "tempest-i-recipe",
+    "name": "Tempest I Blueprint"
+  },
+  "tempest ii": {
+    "id": "tempest-ii",
+    "name": "Tempest II"
+  },
+  "tempest iii": {
+    "id": "tempest-iii",
+    "name": "Tempest III"
+  },
+  "tempest iv": {
+    "id": "tempest-iv",
+    "name": "Tempest IV"
+  },
+  "thermostat": {
+    "id": "thermostat",
+    "name": "Thermostat"
+  },
+  "tick pod": {
+    "id": "tick-pod",
+    "name": "Tick Pod"
+  },
+  "toaster": {
+    "id": "toaster",
+    "name": "Toaster"
+  },
+  "torch ginger": {
+    "id": "torch-ginger",
+    "name": "Torch Ginger"
+  },
+  "torn blanket": {
+    "id": "torn-blanket",
+    "name": "Torn Blanket"
+  },
+  "torn book": {
+    "id": "torn-book",
+    "name": "Torn Book"
+  },
+  "torrente blueprint": {
+    "id": "torrent-i-recipe",
+    "name": "Torrente Blueprint"
+  },
+  "torrente i": {
+    "id": "torrente-i",
+    "name": "Torrente I"
+  },
+  "torrente ii": {
+    "id": "torrente-ii",
+    "name": "Torrente II"
+  },
+  "torrente iii": {
+    "id": "torrente-iii",
+    "name": "Torrente III"
+  },
+  "torrente iv": {
+    "id": "torrente-iv",
+    "name": "Torrente IV"
+  },
+  "trailblazer grenade": {
+    "id": "trailblazer-grenade",
+    "name": "Trailblazer Grenade"
+  },
+  "trailblazer grenade blueprint": {
+    "id": "trailblazer-grenade-blueprint",
+    "name": "Trailblazer Grenade Blueprint"
+  },
+  "trigger nade": {
+    "id": "trigger-nade",
+    "name": "Trigger Nade"
+  },
+  "trigger nade blueprint": {
+    "id": "trigger-nade-recipe",
+    "name": "Trigger Nade Blueprint"
+  },
+  "turbo pump": {
+    "id": "turbo-pump",
+    "name": "Turbo Pump"
+  },
+  "unusable weapon": {
+    "id": "unusable-weapon",
+    "name": "Unusable Weapon"
+  },
+  "vase": {
+    "id": "vase",
+    "name": "Vase"
+  },
+  "venator blueprint": {
+    "id": "venator-recipe",
+    "name": "Venator Blueprint"
+  },
+  "venator i": {
+    "id": "venator-i",
+    "name": "Venator I"
+  },
+  "venator ii": {
+    "id": "venator-ii",
+    "name": "Venator II"
+  },
+  "venator iii": {
+    "id": "venator-iii",
+    "name": "Venator III"
+  },
+  "venator iv": {
+    "id": "venator-iv",
+    "name": "Venator IV"
+  },
+  "vertical grip i": {
+    "id": "vertical-grip-i",
+    "name": "Vertical Grip I"
+  },
+  "vertical grip ii": {
+    "id": "vertical-grip-ii",
+    "name": "Vertical Grip II"
+  },
+  "vertical grip ii blueprint": {
+    "id": "vertical-grip-ii-recipe",
+    "name": "Vertical Grip II Blueprint"
+  },
+  "vertical grip iii": {
+    "id": "vertical-grip-iii",
+    "name": "Vertical Grip III"
+  },
+  "vertical grip iii blueprint": {
+    "id": "vertical-grip-iii-recipe",
+    "name": "Vertical Grip III Blueprint"
+  },
+  "very comfortable pillow": {
+    "id": "very-comfortable-pillow",
+    "name": "Very Comfortable Pillow"
+  },
+  "vita shot": {
+    "id": "vita-shot",
+    "name": "Vita Shot"
+  },
+  "vita shot blueprint": {
+    "id": "vita-shot-recipe",
+    "name": "Vita Shot Blueprint"
+  },
+  "vita spray": {
+    "id": "vita-spray",
+    "name": "Vita Spray"
+  },
+  "vita spray blueprint": {
+    "id": "vita-spray-recipe",
+    "name": "Vita Spray Blueprint"
+  },
+  "volcanic rock": {
+    "id": "volcanic-rock",
+    "name": "Volcanic Rock"
+  },
+  "voltage converter": {
+    "id": "voltage-converter",
+    "name": "Voltage Converter"
+  },
+  "vulcano blueprint": {
+    "id": "vulcano-blueprint",
+    "name": "Vulcano Blueprint"
+  },
+  "vulcano i": {
+    "id": "vulcano-i",
+    "name": "Vulcano I"
+  },
+  "vulcano ii": {
+    "id": "vulcano-ii",
+    "name": "Vulcano II"
+  },
+  "vulcano iii": {
+    "id": "vulcano-iii",
+    "name": "Vulcano III"
+  },
+  "vulcano iv": {
+    "id": "vulcano-iv",
+    "name": "Vulcano IV"
+  },
+  "warden outfit": {
+    "id": "warden-outfit",
+    "name": "Warden (Outfit)"
+  },
+  "wasp driver": {
+    "id": "wasp-driver",
+    "name": "Wasp Driver"
+  },
+  "water filter": {
+    "id": "water-filter",
+    "name": "Water Filter"
+  },
+  "water pump": {
+    "id": "water-pump",
+    "name": "Water Pump"
+  },
+  "wires": {
+    "id": "wires-recipe",
+    "name": "Wires"
+  },
+  "wolfpack": {
+    "id": "wolfpack",
+    "name": "WolfPack"
+  },
+  "wolfpack blueprint": {
+    "id": "wolfpack-recipe",
+    "name": "Wolfpack Blueprint"
+  },
+  "yellow light stick": {
+    "id": "yellow-light-stick",
+    "name": "Yellow Light Stick"
+  },
+  "yellow light stick blueprint": {
+    "id": "yellow-light-stick-blueprint",
+    "name": "Yellow Light Stick Blueprint"
+  },
+  "zipline": {
+    "id": "zipline",
+    "name": "Zipline"
+  },
+  "angled grip 1": {
+    "id": "angled-grip-i",
+    "name": "Angled Grip I"
+  },
+  "angled grip 2": {
+    "id": "angled-grip-ii",
+    "name": "Angled Grip II"
+  },
+  "angled grip 3": {
+    "id": "angled-grip-iii",
+    "name": "Angled Grip III"
+  },
+  "anvil 1": {
+    "id": "anvil-i",
+    "name": "Anvil I"
+  },
+  "anvil 2": {
+    "id": "anvil-ii",
+    "name": "Anvil II"
+  },
+  "anvil 3": {
+    "id": "anvil-iii",
+    "name": "Anvil III"
+  },
+  "arpeggio 1": {
+    "id": "arpeggio-i",
+    "name": "Arpeggio I"
+  },
+  "arpeggio 2": {
+    "id": "arpeggio-ii",
+    "name": "Arpeggio II"
+  },
+  "arpeggio 3": {
+    "id": "arpeggio-iii",
+    "name": "Arpeggio III"
+  },
+  "bettina 1": {
+    "id": "bettina-i",
+    "name": "Bettina I"
+  },
+  "bettina 2": {
+    "id": "bettina-ii",
+    "name": "Bettina II"
+  },
+  "bettina 3": {
+    "id": "bettina-iii",
+    "name": "Bettina III"
+  },
+  "bobcat 1": {
+    "id": "bobcat-i",
+    "name": "Bobcat I"
+  },
+  "bobcat 2": {
+    "id": "bobcat-ii",
+    "name": "Bobcat II"
+  },
+  "bobcat 3": {
+    "id": "bobcat-iii",
+    "name": "Bobcat III"
+  },
+  "burletta 1": {
+    "id": "burletta-i",
+    "name": "Burletta I"
+  },
+  "burletta 2": {
+    "id": "burletta-ii",
+    "name": "Burletta II"
+  },
+  "burletta 3": {
+    "id": "burletta-iiii",
+    "name": "Burletta III"
+  },
+  "combat mk i": {
+    "id": "combat-mk-1",
+    "name": "Combat Mk. 1"
+  },
+  "combat mk ii": {
+    "id": "combat-mk-2",
+    "name": "Combat Mk. 2"
+  },
+  "compensator 1": {
+    "id": "compensator-i",
+    "name": "Compensator I"
+  },
+  "compensator 2": {
+    "id": "compensator-ii",
+    "name": "Compensator II"
+  },
+  "compensator 3": {
+    "id": "compensator-iii",
+    "name": "Compensator III"
+  },
+  "extended light mag 1": {
+    "id": "extended-light-mag-i",
+    "name": "Extended Light Mag I"
+  },
+  "extended light mag 2": {
+    "id": "extended-light-mag-ii",
+    "name": "Extended Light Mag II"
+  },
+  "extended light mag 3": {
+    "id": "extended-light-mag-iii",
+    "name": "Extended Light Mag III"
+  },
+  "extended medium mag 1": {
+    "id": "extended-medium-mag-i",
+    "name": "Extended Medium Mag I"
+  },
+  "extended medium mag 2": {
+    "id": "extended-medium-mag-ii",
+    "name": "Extended Medium Mag II"
+  },
+  "extended medium mag 3": {
+    "id": "extended-medium-mag-iii",
+    "name": "Extended Medium Mag III"
+  },
+  "extended shotgun mag 1": {
+    "id": "extended-shotgun-mag-i",
+    "name": "Extended Shotgun Mag I"
+  },
+  "extended shotgun mag 2": {
+    "id": "extended-shotgun-mag-ii",
+    "name": "Extended Shotgun Mag II"
+  },
+  "extended shotgun mag 3": {
+    "id": "extended-shotgun-mag-iii",
+    "name": "Extended Shotgun Mag III"
+  },
+  "ferro 1": {
+    "id": "ferro-i",
+    "name": "Ferro I"
+  },
+  "ferro 2": {
+    "id": "ferro-ii",
+    "name": "Ferro II"
+  },
+  "ferro 3": {
+    "id": "ferro-iii",
+    "name": "Ferro III"
+  },
+  "hairpin 1": {
+    "id": "hairpin-i",
+    "name": "Hairpin I"
+  },
+  "hairpin 2": {
+    "id": "hairpin-ii",
+    "name": "Hairpin II"
+  },
+  "hairpin 3": {
+    "id": "hairpin-iii",
+    "name": "Hairpin III"
+  },
+  "hullcracker 1": {
+    "id": "hullcracker-i",
+    "name": "Hullcracker I"
+  },
+  "hullcracker 2": {
+    "id": "hullcracker-ii",
+    "name": "Hullcracker II"
+  },
+  "hullcracker 3": {
+    "id": "hullcracker-iii",
+    "name": "Hullcracker III"
+  },
+  "il toro 1": {
+    "id": "il-toro-i",
+    "name": "Il Toro I"
+  },
+  "il toro 2": {
+    "id": "il-toro-ii",
+    "name": "Il Toro II"
+  },
+  "il toro 3": {
+    "id": "il-toro-iiii",
+    "name": "Il Toro III"
+  },
+  "kettle 1": {
+    "id": "kettle-i",
+    "name": "Kettle I"
+  },
+  "kettle 2": {
+    "id": "kettle-ii",
+    "name": "Kettle II"
+  },
+  "kettle 3": {
+    "id": "kettle-iii",
+    "name": "Kettle III"
+  },
+  "looting mk i": {
+    "id": "looting-mk-1",
+    "name": "Looting Mk. 1"
+  },
+  "looting mk ii": {
+    "id": "looting-mk-2",
+    "name": "Looting Mk. 2"
+  },
+  "muzzle brake 1": {
+    "id": "muzzle-brake-i",
+    "name": "Muzzle Brake I"
+  },
+  "muzzle brake 2": {
+    "id": "muzzle-brake-ii",
+    "name": "Muzzle Brake II"
+  },
+  "muzzle brake 3": {
+    "id": "muzzle-brake-iii",
+    "name": "Muzzle Brake III"
+  },
+  "osprey 1": {
+    "id": "osprey-i",
+    "name": "Osprey I"
+  },
+  "osprey 2": {
+    "id": "osprey-ii",
+    "name": "Osprey II"
+  },
+  "osprey 3": {
+    "id": "osprey-iii",
+    "name": "Osprey III"
+  },
+  "rattler 1": {
+    "id": "rattler-i",
+    "name": "Rattler I"
+  },
+  "rattler 2": {
+    "id": "rattler-ii",
+    "name": "Rattler II"
+  },
+  "rattler 3": {
+    "id": "rattler-iii",
+    "name": "Rattler III"
+  },
+  "refinement i": {
+    "id": "refinement-1",
+    "name": "Refinement 1"
+  },
+  "renegade 1": {
+    "id": "renegade-i",
+    "name": "Renegade I"
+  },
+  "renegade 2": {
+    "id": "renegade-ii",
+    "name": "Renegade II"
+  },
+  "renegade 3": {
+    "id": "renegade-iii",
+    "name": "Renegade III"
+  },
+  "shotgun choke 1": {
+    "id": "shotgun-choke-i",
+    "name": "Shotgun Choke I"
+  },
+  "shotgun choke 2": {
+    "id": "shotgun-choke-ii",
+    "name": "Shotgun Choke II"
+  },
+  "shotgun choke 3": {
+    "id": "shotgun-choke-iii",
+    "name": "Shotgun Choke III"
+  },
+  "silencer 1": {
+    "id": "silencer-i",
+    "name": "Silencer I"
+  },
+  "silencer 2": {
+    "id": "silencer-ii",
+    "name": "Silencer II"
+  },
+  "silencer 3": {
+    "id": "silencer-iii",
+    "name": "Silencer III"
+  },
+  "stable stock 1": {
+    "id": "stable-stock-i",
+    "name": "Stable Stock I"
+  },
+  "stable stock 2": {
+    "id": "stable-stock-ii",
+    "name": "Stable Stock II"
+  },
+  "stable stock 3": {
+    "id": "stable-stock-iii",
+    "name": "Stable Stock III"
+  },
+  "stitcher 1": {
+    "id": "stitcher-i",
+    "name": "Stitcher I"
+  },
+  "stitcher 2": {
+    "id": "stitcher-ii",
+    "name": "Stitcher II"
+  },
+  "stitcher 3": {
+    "id": "stitcher-iii",
+    "name": "Stitcher III"
+  },
+  "tactical mk i": {
+    "id": "tactical-mk-1",
+    "name": "Tactical Mk. 1"
+  },
+  "tactical mk ii": {
+    "id": "tactical-mk-2",
+    "name": "Tactical Mk. 2"
+  },
+  "tempest 1": {
+    "id": "tempest-i",
+    "name": "Tempest I"
+  },
+  "tempest 2": {
+    "id": "tempest-ii",
+    "name": "Tempest II"
+  },
+  "tempest 3": {
+    "id": "tempest-iii",
+    "name": "Tempest III"
+  },
+  "torrente 1": {
+    "id": "torrente-i",
+    "name": "Torrente I"
+  },
+  "torrente 2": {
+    "id": "torrente-ii",
+    "name": "Torrente II"
+  },
+  "torrente 3": {
+    "id": "torrente-iii",
+    "name": "Torrente III"
+  },
+  "venator 1": {
+    "id": "venator-i",
+    "name": "Venator I"
+  },
+  "venator 2": {
+    "id": "venator-ii",
+    "name": "Venator II"
+  },
+  "venator 3": {
+    "id": "venator-iii",
+    "name": "Venator III"
+  },
+  "vertical grip 1": {
+    "id": "vertical-grip-i",
+    "name": "Vertical Grip I"
+  },
+  "vertical grip 2": {
+    "id": "vertical-grip-ii",
+    "name": "Vertical Grip II"
+  },
+  "vertical grip 3": {
+    "id": "vertical-grip-iii",
+    "name": "Vertical Grip III"
+  },
+  "vulcano 1": {
+    "id": "vulcano-i",
+    "name": "Vulcano I"
+  },
+  "vulcano 2": {
+    "id": "vulcano-ii",
+    "name": "Vulcano II"
+  },
+  "vulcano 3": {
+    "id": "vulcano-iii",
+    "name": "Vulcano III"
+  }
+}

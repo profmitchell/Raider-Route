@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "createdISO": "2026-01-07T06:41:04Z",
+  "files": [
+    "arcs.all.json",
+    "arcs.page.1.json",
+    "items.all.json",
+    "items.page.1.json",
+    "items.page.2.json",
+    "items.page.3.json",
+    "items.page.4.json",
+    "items.page.5.json",
+    "items.page.6.json",
+    "map.blue-gate.json",
+    "map.buried-city.json",
+    "map.dam.json",
+    "map.spaceport.json",
+    "map.stella-montis.json"
+  ]
+}

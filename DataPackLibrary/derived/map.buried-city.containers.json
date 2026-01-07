@@ -1,0 +1,4169 @@
+[
+  {
+    "id": "cc8436e2-4f3a-3994-ffad-92cda82812bf",
+    "mapID": "buried-city",
+    "lat": 5677.405158933227,
+    "lng": 6856.770343400999,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "bbbdf438-04c4-898c-ecf8-b0a739b4967c",
+    "mapID": "buried-city",
+    "lat": 5738.171529328833,
+    "lng": 7191.983071448374,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "4c6e2793-42db-eba9-f494-94b41afb11e7",
+    "mapID": "buried-city",
+    "lat": 5666.0,
+    "lng": 7337.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "ea5bfcf5-da12-d42c-5330-f177ec8640bb",
+    "mapID": "buried-city",
+    "lat": 5114.3807735506225,
+    "lng": 7409.9289034016765,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "ae7329e0-305e-789b-384a-341ebf41202b",
+    "mapID": "buried-city",
+    "lat": 3808.419864684073,
+    "lng": 6078.840185869102,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "22735524-56a2-71aa-fbeb-a600736b4700",
+    "mapID": "buried-city",
+    "lat": 5513.351332470209,
+    "lng": 6056.572486942735,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "c5a2c83a-fc31-74f9-4d61-15c4ce9188ea",
+    "mapID": "buried-city",
+    "lat": 5118.618801974307,
+    "lng": 7329.61485028808,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "4bf66fc4-df3c-35ee-e29b-ac0b8f7deec2",
+    "mapID": "buried-city",
+    "lat": 5736.175237947244,
+    "lng": 7387.906261624303,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "ce99b5e9-6b15-2123-2154-af2532f2e7ad",
+    "mapID": "buried-city",
+    "lat": 5160.605485412377,
+    "lng": 7344.952014879107,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "336fdf48-6910-cb87-5dc6-7e50f0c143ca",
+    "mapID": "buried-city",
+    "lat": 5105.313051126775,
+    "lng": 7255.197029379171,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "38f06638-36b8-a663-8bf1-6b039decf33f",
+    "mapID": "buried-city",
+    "lat": 5096.935226639754,
+    "lng": 7282.795528438247,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "039999d2-af1e-51f6-27a5-bda6b2e4caf3",
+    "mapID": "buried-city",
+    "lat": 4361.740407823261,
+    "lng": 7537.292075399041,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "18cf1530-d038-dcf2-4814-f8eef9871cb7",
+    "mapID": "buried-city",
+    "lat": 4352.486019527598,
+    "lng": 7636.505549140827,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "a5044769-7b1c-3b64-2f47-909deecb4686",
+    "mapID": "buried-city",
+    "lat": 4485.833341787831,
+    "lng": 7599.5106945252455,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6545ae7d-d15b-bbed-cb2e-1df1ce3b0b96",
+    "mapID": "buried-city",
+    "lat": 5771.640565384866,
+    "lng": 7744.174636972281,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "270eedc6-89d1-c884-b426-438a547569c3",
+    "mapID": "buried-city",
+    "lat": 6094.2481721766835,
+    "lng": 6351.897706137632,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c1b399bf-361c-2610-1204-3fd77e1129f8",
+    "mapID": "buried-city",
+    "lat": 6420.733258226176,
+    "lng": 6901.729200247985,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3ff31ab8-302b-5c9f-0a3f-8ba02deb56bb",
+    "mapID": "buried-city",
+    "lat": 6206.628507051008,
+    "lng": 7397.667699938003,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3c36f9c0-1ecd-4637-731f-643cd9d8c8c2",
+    "mapID": "buried-city",
+    "lat": 5395.75,
+    "lng": 7550.294874534291,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e9a53462-941d-d8bb-8006-1aafb439ad20",
+    "mapID": "buried-city",
+    "lat": 4810.290757934812,
+    "lng": 6683.753254804711,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "fd1c1cf8-b417-b2ed-062a-381a6daf171c",
+    "mapID": "buried-city",
+    "lat": 5200.481659609184,
+    "lng": 6073.8288902665845,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3960d04b-65bc-5449-7e7a-718585ef9051",
+    "mapID": "buried-city",
+    "lat": 5184.47382774562,
+    "lng": 6367.792436453813,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e59d89f0-673b-2859-59e2-37bc62387340",
+    "mapID": "buried-city",
+    "lat": 5186.305442678995,
+    "lng": 8179.687290762555,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a9548f83-764f-3733-e69c-1c23503de5b2",
+    "mapID": "buried-city",
+    "lat": 3666.48474174736,
+    "lng": 7266.576202353747,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "938f059f-122f-0898-1a6e-5a3d07a555ec",
+    "mapID": "buried-city",
+    "lat": 3733.707832775944,
+    "lng": 7294.519104414687,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8a2bce79-c147-d83d-6274-76fc9a4a14d8",
+    "mapID": "buried-city",
+    "lat": 4242.292954945415,
+    "lng": 7286.115251257972,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "902f5732-4736-b0c8-3e3f-56db52a5b778",
+    "mapID": "buried-city",
+    "lat": 4234.336378121839,
+    "lng": 7821.309545416555,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "bb32b56c-5a2d-8348-5f0b-da71f00e7b0a",
+    "mapID": "buried-city",
+    "lat": 4622.760065229356,
+    "lng": 6413.296652338516,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c4e11def-f8a3-734a-d227-34a1a23d37a5",
+    "mapID": "buried-city",
+    "lat": 5132.175727438716,
+    "lng": 7652.869187848729,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "eb5969d7-5032-1057-c704-d4051425c7b8",
+    "mapID": "buried-city",
+    "lat": 5975.1962860805725,
+    "lng": 7650.8371977681345,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "fb8bd9c3-2c9e-7b86-8832-5ff36f8a281d",
+    "mapID": "buried-city",
+    "lat": 6184.298589798376,
+    "lng": 7952.799752014879,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1df94983-7daa-39b9-c819-0895ae675250",
+    "mapID": "buried-city",
+    "lat": 6412.0,
+    "lng": 6696.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2027f862-add5-0e30-1993-aa3ac710bd01",
+    "mapID": "buried-city",
+    "lat": 5273.919723398469,
+    "lng": 6733.730192188468,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ec24c9b6-9915-d6ba-eb79-b36e8b99654f",
+    "mapID": "buried-city",
+    "lat": 4175.219292179791,
+    "lng": 6659.871419714817,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5e7dd97b-d124-2b56-a9d9-8cda67e37c85",
+    "mapID": "buried-city",
+    "lat": 4009.138036595315,
+    "lng": 6933.8374457532545,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a6579e72-fc8e-5b3b-1058-8c0d1672e401",
+    "mapID": "buried-city",
+    "lat": 4507.191013472763,
+    "lng": 7703.511023717737,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "e2eeaa11-a02a-7768-8e61-ded6b19adc37",
+    "mapID": "buried-city",
+    "lat": 4488.57368400606,
+    "lng": 7417.697954122753,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "91605c99-9340-8044-093f-c4121077404c",
+    "mapID": "buried-city",
+    "lat": 5216.1174779534595,
+    "lng": 7162.870427774334,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ff6bcd11-d26e-39d4-2739-083644f45ed5",
+    "mapID": "buried-city",
+    "lat": 5829.800108213776,
+    "lng": 5248.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5a81f186-f6e9-c355-72bb-856d02d75d20",
+    "mapID": "buried-city",
+    "lat": 4331.033185476915,
+    "lng": 7605.952523038093,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "69200a10-6e2a-023d-f1c8-2ee0e5e6b359",
+    "mapID": "buried-city",
+    "lat": 4402.373786904479,
+    "lng": 7627.355991339648,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6e94d01d-91ba-4ffa-c11c-58cc5f0aaf31",
+    "mapID": "buried-city",
+    "lat": 4235.940469070919,
+    "lng": 7533.574031753963,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "2d3acf72-b527-5e0b-ab12-35598fee368e",
+    "mapID": "buried-city",
+    "lat": 3545.2192867096605,
+    "lng": 6641.399887673838,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": ""
+  },
+  {
+    "id": "4aa0d22e-ffdb-7b57-89fb-162b64ca79bb",
+    "mapID": "buried-city",
+    "lat": 4413.791420465268,
+    "lng": 7567.966182012065,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "407256ac-97e4-c5ae-bca8-25deb3d2e89c",
+    "mapID": "buried-city",
+    "lat": 5376.610429610623,
+    "lng": 8936.957086416858,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "031e3fd0-c6a9-0ba2-a295-dc3d4e5f8e00",
+    "mapID": "buried-city",
+    "lat": 5363.158316799061,
+    "lng": 8809.154324656027,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "7802c2f5-323d-078f-c276-125e28946e47",
+    "mapID": "buried-city",
+    "lat": 5371.565887306288,
+    "lng": 8770.477173070512,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "236982f2-e53f-14fb-8d3f-12c7cb50bdbc",
+    "mapID": "buried-city",
+    "lat": 5570.174484017915,
+    "lng": 8327.366077508803,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Security Breach"
+  },
+  {
+    "id": "93b4893c-ce9c-ef77-0300-fe4f6716b676",
+    "mapID": "buried-city",
+    "lat": 5500.2183004460485,
+    "lng": 8295.343356648335,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b1798bf4-fbfa-6e5b-fff2-e9eee3166a0e",
+    "mapID": "buried-city",
+    "lat": 5606.153688837099,
+    "lng": 8083.459830571168,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "4f10bb5b-d31b-74af-cf3a-a52f14c4c3a5",
+    "mapID": "buried-city",
+    "lat": 5945.913747752057,
+    "lng": 7662.12385486535,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "c05a81da-12b7-abbb-5c48-5446a4d9b421",
+    "mapID": "buried-city",
+    "lat": 5967.773431070846,
+    "lng": 7696.596968235048,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "30949d44-3714-361c-3951-a37585690b69",
+    "mapID": "buried-city",
+    "lat": 3662.700837269015,
+    "lng": 7203.118693063319,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "597285bb-9199-2546-0dc2-8d1bd5e04629",
+    "mapID": "buried-city",
+    "lat": 3784.995100355893,
+    "lng": 7292.3922343768645,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ed3d2c21-991e-3bef-5e06-9713af9fa6ca",
+    "mapID": "buried-city",
+    "lat": 5433.352892242222,
+    "lng": 9272.062574659663,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "8716776e-e6d8-b968-6383-f72c503d8a39",
+    "mapID": "buried-city",
+    "lat": 6499.767973391263,
+    "lng": 6615.739879458792,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "65ea4276-641e-bd88-0777-bf957d9e78ef",
+    "mapID": "buried-city",
+    "lat": 5765.185822979467,
+    "lng": 7963.289052452677,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "826e2489-9839-af4e-8c1a-59f6697f8ee7",
+    "mapID": "buried-city",
+    "lat": 5877.684751841286,
+    "lng": 5900.452535611145,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "03da8c87-7c7f-f442-f0fe-39cc8f3e9745",
+    "mapID": "buried-city",
+    "lat": 5863.8053538931335,
+    "lng": 5908.769773442896,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b6bbf0cc-efe2-25f6-c497-31b594ab1c8b",
+    "mapID": "buried-city",
+    "lat": 6135.919093746265,
+    "lng": 7885.654823792377,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Locker"
+  },
+  {
+    "id": "762de069-7f66-99db-9e29-0f9e8261a764",
+    "mapID": "buried-city",
+    "lat": 6413.812058752579,
+    "lng": 7269.4112639883015,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1f6a9682-4b3c-d1ec-3315-d211781ed816",
+    "mapID": "buried-city",
+    "lat": 6161.282062829098,
+    "lng": 7023.457221206071,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b6e772df-2b55-4c8c-8abb-d8457a6873ec",
+    "mapID": "buried-city",
+    "lat": 3738.8671695685553,
+    "lng": 8519.479771879494,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "d088fcaa-e7e2-4f96-8410-340b6a0cb1cd",
+    "mapID": "buried-city",
+    "lat": 4252.6046432497305,
+    "lng": 7939.1466997581665,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "08f513eb-ec8c-46c4-aff1-335bee78c133",
+    "mapID": "buried-city",
+    "lat": 3786.435454168664,
+    "lng": 8295.908834258982,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "4b746d61-ae1a-49f0-b9fe-4f1286ad987d",
+    "mapID": "buried-city",
+    "lat": 5492.0,
+    "lng": 5460.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "28b02f2e-9ee8-4bff-8f3f-f8b9e3231137",
+    "mapID": "buried-city",
+    "lat": 5504.0,
+    "lng": 5588.0,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "dc37d592-9ef1-4e53-987d-95f25921aeff",
+    "mapID": "buried-city",
+    "lat": 5774.233975169347,
+    "lng": 7020.156123620043,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "97888571-d3d4-4cd2-b7f0-37c73a32ae49",
+    "mapID": "buried-city",
+    "lat": 6270.622935562303,
+    "lng": 6963.58758112512,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "9d4957d5-e77b-d8dd-ed96-9c6b0e832e92",
+    "mapID": "buried-city",
+    "lat": 5695.038015676453,
+    "lng": 4963.182497148377,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "1f12bdba-8183-7784-2bb1-25fd406134cf",
+    "mapID": "buried-city",
+    "lat": 5834.0,
+    "lng": 5272.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "77855f42-0d99-10cc-bb94-692077f1333f",
+    "mapID": "buried-city",
+    "lat": 5232.0,
+    "lng": 5612.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "997007c2-6bbd-a8c2-8316-7309c7bc72ba",
+    "mapID": "buried-city",
+    "lat": 6618.0,
+    "lng": 6726.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "61dd077a-b2e6-4096-9d3b-72eed5bd0154",
+    "mapID": "buried-city",
+    "lat": 5974.569030377642,
+    "lng": 7677.184755953561,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "in house"
+  },
+  {
+    "id": "150b9b7f-f5fb-4826-a5f8-e1bce78e5e86",
+    "mapID": "buried-city",
+    "lat": 5900.452535611145,
+    "lng": 7326.510136569115,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Crate"
+  },
+  {
+    "id": "a52a4812-e744-452d-ba85-d7304ea300f8",
+    "mapID": "buried-city",
+    "lat": 5679.414388623588,
+    "lng": 5676.0508029625735,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "6030361f-3bc6-1e80-07cc-064ec0e90401",
+    "mapID": "buried-city",
+    "lat": 5725.815833437504,
+    "lng": 5266.0,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9e3f4f69-757d-07f6-a0d2-af4f1f2a1103",
+    "mapID": "buried-city",
+    "lat": 5746.627729163123,
+    "lng": 5218.094491766127,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "88365727-d774-9306-a527-836cf80c0ea6",
+    "mapID": "buried-city",
+    "lat": 5854.399287204512,
+    "lng": 5484.62321439255,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3e6637f7-cd49-ecf6-507d-8c003d340a4e",
+    "mapID": "buried-city",
+    "lat": 5582.627129579209,
+    "lng": 5678.573492208335,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "a2d7d6ad-5315-65a5-6956-6b34377c89d1",
+    "mapID": "buried-city",
+    "lat": 5545.202788956678,
+    "lng": 5688.243800983752,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "758b354a-85be-e5d9-ae57-afaa69eb294c",
+    "mapID": "buried-city",
+    "lat": 5369.482011884138,
+    "lng": 5701.2776954201845,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": ""
+  },
+  {
+    "id": "201c728f-1e80-4c2a-b9de-27de8217d485",
+    "mapID": "buried-city",
+    "lat": 4608.112355590356,
+    "lng": 6410.99426989432,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "06eac320-298c-47d5-9301-164232919e6d",
+    "mapID": "buried-city",
+    "lat": 6902.158095475794,
+    "lng": 7091.836630318728,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "raider cache"
+  },
+  {
+    "id": "2b633379-7589-ac74-dadf-270f573ba401",
+    "mapID": "buried-city",
+    "lat": 6244.418608499076,
+    "lng": 5916.305397138538,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9a128da8-dfd0-536a-cb34-2dd13a52ee23",
+    "mapID": "buried-city",
+    "lat": 6444.162119810283,
+    "lng": 6355.122822574542,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "98fca781-bc1a-4a01-dde5-34e32e7d079a",
+    "mapID": "buried-city",
+    "lat": 5958.591998487821,
+    "lng": 6562.3556246399885,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8d738269-ed15-f168-5605-d3592c1dbca1",
+    "mapID": "buried-city",
+    "lat": 6029.227297369133,
+    "lng": 6580.855345775571,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "f07936f2-ec10-216c-60b4-06bd17f65f37",
+    "mapID": "buried-city",
+    "lat": 6508.365391303172,
+    "lng": 6739.236720720421,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "aa1d0d22-5db5-0945-7a3d-ba3dc1a636b7",
+    "mapID": "buried-city",
+    "lat": 6568.500348735048,
+    "lng": 6633.397287485179,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "786c957b-b71b-10db-1cd0-f70bc994b626",
+    "mapID": "buried-city",
+    "lat": 5989.705165852209,
+    "lng": 6405.948891402798,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "84fe5678-6edf-0adb-33a9-29153a6391be",
+    "mapID": "buried-city",
+    "lat": 5771.0227268216,
+    "lng": 6588.423413512854,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "8caa37f2-db81-b9de-d894-dca5a818f3e4",
+    "mapID": "buried-city",
+    "lat": 5824.828437810616,
+    "lng": 6593.468792004376,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1ed18653-9712-1815-0aae-8e4ece615115",
+    "mapID": "buried-city",
+    "lat": 5767.027570020215,
+    "lng": 6642.3163408476985,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "97a88395-99f4-1905-bcf8-8e33d7d31f91",
+    "mapID": "buried-city",
+    "lat": 5805.073953127112,
+    "lng": 6544.206753859974,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "11bedabb-71db-3538-5f6e-0a73f3caafc9",
+    "mapID": "buried-city",
+    "lat": 5847.593671674331,
+    "lng": 6614.491202385719,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "fbbb0cc6-adcf-b513-0b73-415f1e8ded0f",
+    "mapID": "buried-city",
+    "lat": 4328.713898609905,
+    "lng": 5187.321435641869,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "1a1013a0-775b-4cd2-b4b8-2547d24220b5",
+    "mapID": "buried-city",
+    "lat": 4591.40964000007,
+    "lng": 5320.5126325221745,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "6a974a99-c377-8346-bc73-bec9501f7704",
+    "mapID": "buried-city",
+    "lat": 4587.908619347865,
+    "lng": 5269.3767265770575,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "75f14cad-cb9b-b849-6c84-42cecdbb0357",
+    "mapID": "buried-city",
+    "lat": 4144.6325037642355,
+    "lng": 6127.612177953818,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "3e4b1bfe-cfa4-5d60-5ae9-ae0b5dc8ae32",
+    "mapID": "buried-city",
+    "lat": 4157.248318346696,
+    "lng": 6307.564010818113,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5409d2ad-ff54-6661-716c-eda321fb8ab5",
+    "mapID": "buried-city",
+    "lat": 3970.6097583535466,
+    "lng": 6277.29173986898,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c10d8943-cf73-d511-ddc5-d7cf56ebbcec",
+    "mapID": "buried-city",
+    "lat": 3946.9214644208737,
+    "lng": 6602.718652572167,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d5f3ed53-a604-1219-fa1d-0beb7752a826",
+    "mapID": "buried-city",
+    "lat": 3930.2587543706913,
+    "lng": 6685.126501267031,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": ""
+  },
+  {
+    "id": "6814920d-b620-d2c6-8ffb-861b4856fe05",
+    "mapID": "buried-city",
+    "lat": 5102.690891291755,
+    "lng": 6705.938921500345,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": ""
+  },
+  {
+    "id": "4ae77f6b-562b-4376-ac33-d8b5d0d925e3",
+    "mapID": "buried-city",
+    "lat": 3615.0,
+    "lng": 7180.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "40e18047-8ca9-4959-a4c8-48ce5fccc20d",
+    "mapID": "buried-city",
+    "lat": 4168.0,
+    "lng": 7422.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Raider's Camp 1st"
+  },
+  {
+    "id": "96aa4a8c-ee85-4f9d-9740-d40951fbc33a",
+    "mapID": "buried-city",
+    "lat": 5924.0,
+    "lng": 5482.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "7c1d94a8-4574-457b-b01b-b6574791af9c",
+    "mapID": "buried-city",
+    "lat": 6188.633826474161,
+    "lng": 6188.633826474161,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "raider cache"
+  },
+  {
+    "id": "a4d8ef61-a994-47f7-9f56-801c756bee36",
+    "mapID": "buried-city",
+    "lat": 3182.7929317353096,
+    "lng": 6047.7270185047155,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "49539915-342a-4a6b-bbe2-505c7113af63",
+    "mapID": "buried-city",
+    "lat": 5341.9183605922235,
+    "lng": 7785.738981922816,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "f5f8abd8-1fe0-6f3f-d703-7619884e7f42",
+    "mapID": "buried-city",
+    "lat": 5201.785224759478,
+    "lng": 8824.276278832855,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "989d41e8-e259-7b44-ae0f-a711c404301e",
+    "mapID": "buried-city",
+    "lat": 5122.740961725629,
+    "lng": 8866.317169663147,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "b4c26b8a-114e-6854-c312-cb39ff957924",
+    "mapID": "buried-city",
+    "lat": 5126.945443801897,
+    "lng": 8792.325201801832,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": ""
+  },
+  {
+    "id": "9350e9dd-e1f3-da86-6294-650b631f4de0",
+    "mapID": "buried-city",
+    "lat": 4918.403132818977,
+    "lng": 8725.90059428997,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "59f5afa9-743c-3ca1-d23e-170fef7f5cac",
+    "mapID": "buried-city",
+    "lat": 4844.40424827665,
+    "lng": 8691.42706380913,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c7384707-ca04-6b34-2ae8-d719c40696d1",
+    "mapID": "buried-city",
+    "lat": 5573.219144460252,
+    "lng": 6050.044178895534,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Crate (inside locked door)"
+  },
+  {
+    "id": "cd4c758b-7c0f-4710-8d0d-5802f219623b",
+    "mapID": "buried-city",
+    "lat": 5274.133555037069,
+    "lng": 6757.074827445462,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "on the top floo"
+  },
+  {
+    "id": "32837896-c638-4109-9ac7-26d218ad6865",
+    "mapID": "buried-city",
+    "lat": 6715.398772216165,
+    "lng": 8066.719311528884,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "167bd4e3-0bd3-40b0-8240-f33acd5b9f71",
+    "mapID": "buried-city",
+    "lat": 4646.0,
+    "lng": 6582.0,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "1ab3cda2-7663-4506-87e6-d46349751022",
+    "mapID": "buried-city",
+    "lat": 6146.17214207347,
+    "lng": 5702.109083488319,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "95c262c8-031a-45db-8479-251e46de4923",
+    "mapID": "buried-city",
+    "lat": 5487.0016286225555,
+    "lng": 5798.573892753268,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache "
+  },
+  {
+    "id": "694442c2-5874-4ebc-8840-f5d51a73d8ba",
+    "mapID": "buried-city",
+    "lat": 5433.408506637431,
+    "lng": 7616.954246941489,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "4bc48e30-f304-425b-b4b3-3406c6811e4e",
+    "mapID": "buried-city",
+    "lat": 6120.0,
+    "lng": 5736.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "d9e41c27-c511-40d1-8996-cf4205daa26a",
+    "mapID": "buried-city",
+    "lat": 6341.333613680958,
+    "lng": 5949.5964569036105,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "cc02b9ae-53e9-44ea-b976-419c49b6bb42",
+    "mapID": "buried-city",
+    "lat": 5018.469806234169,
+    "lng": 6804.533792233058,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case at Attic"
+  },
+  {
+    "id": "89011ea3-000b-4d24-b310-37679d468630",
+    "mapID": "buried-city",
+    "lat": 4141.414845124545,
+    "lng": 7397.786213194554,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Caja Medica"
+  },
+  {
+    "id": "cbd161c8-ecf2-47c1-9362-fc80cebcace1",
+    "mapID": "buried-city",
+    "lat": 5620.0,
+    "lng": 5932.0,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "16c4e433-da94-4ca8-bb32-36a164eb6d02",
+    "mapID": "buried-city",
+    "lat": 2959.955381693075,
+    "lng": 6807.8973778940735,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "442316dd-98af-4f9e-88e4-427c270427f5",
+    "mapID": "buried-city",
+    "lat": 2791.7760986423323,
+    "lng": 7088.756780588814,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "1fb00e9e-486b-41fb-902c-8ebc7483c25a",
+    "mapID": "buried-city",
+    "lat": 4627.032524933565,
+    "lng": 8580.507021248903,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "3418ea98-90e8-4dce-9276-36498141319c",
+    "mapID": "buried-city",
+    "lat": 5163.125,
+    "lng": 7613.5,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "aa2b36da-bd25-4260-f584-015a9e0c5c98",
+    "mapID": "buried-city",
+    "lat": 3132.015937221123,
+    "lng": 6473.001646266011,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "24ecf06e-c942-b549-fbd0-fa58c7e1fca2",
+    "mapID": "buried-city",
+    "lat": 3127.0268827843092,
+    "lng": 6467.253101902947,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "ce65075f-393b-1916-e66f-a833cf299be0",
+    "mapID": "buried-city",
+    "lat": 3159.784761184185,
+    "lng": 6448.7532256446275,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "5df9a408-a732-b064-842b-ff0b1b6aa0d6",
+    "mapID": "buried-city",
+    "lat": 3138.779709385791,
+    "lng": 6438.503294204207,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "cfe6055d-2e05-03be-378b-b63449ec7ba6",
+    "mapID": "buried-city",
+    "lat": 3148.2698463508323,
+    "lng": 6469.8766671683225,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "d424c8a9-e546-c216-d900-315aa3415c30",
+    "mapID": "buried-city",
+    "lat": 3911.85012376028,
+    "lng": 7726.192924215461,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case (Requires Zipline)"
+  },
+  {
+    "id": "38436d76-9f43-bd94-835d-07d2caf7a7cb",
+    "mapID": "buried-city",
+    "lat": 6483.831728937874,
+    "lng": 6974.927002466475,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": ""
+  },
+  {
+    "id": "d00cbac4-6f47-91e4-cf05-6c70ece02710",
+    "mapID": "buried-city",
+    "lat": 5723.927214701186,
+    "lng": 7169.438567546417,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "88bada87-bdfa-cb0f-2e1f-503dd1790e80",
+    "mapID": "buried-city",
+    "lat": 5891.265834104232,
+    "lng": 8883.86036009762,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": ""
+  },
+  {
+    "id": "1be06855-f5ba-444b-9278-f4875a46b058",
+    "mapID": "buried-city",
+    "lat": 5057.9112063271405,
+    "lng": 6306.557081069445,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case"
+  },
+  {
+    "id": "03725250-2489-43a3-9037-7c44b3d6c561",
+    "mapID": "buried-city",
+    "lat": 6854.589810875685,
+    "lng": 7852.334580362967,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "6d6fe9e7-fdf7-4a37-a6a2-9b4f247d8ed7",
+    "mapID": "buried-city",
+    "lat": 3785.295213264596,
+    "lng": 5650.403462297335,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "4d5cccb6-73d4-4c23-b9f8-aadc0a1123e8",
+    "mapID": "buried-city",
+    "lat": 5055.5,
+    "lng": 5330.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "6d574304-9f54-4057-a9b5-dcb269ea8cb2",
+    "mapID": "buried-city",
+    "lat": 3733.922177346699,
+    "lng": 5719.606362052797,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "12b616d3-d103-4c66-87d8-602878f0aa08",
+    "mapID": "buried-city",
+    "lat": 2712.581429321207,
+    "lng": 6664.316672475249,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "df9bdde8-dddc-4f1b-a75c-8c7b9ef14579",
+    "mapID": "buried-city",
+    "lat": 5799.5,
+    "lng": 7049.5,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag of ammo & parts"
+  },
+  {
+    "id": "436cc8ec-864c-9e4d-9e34-b5440c9b2162",
+    "mapID": "buried-city",
+    "lat": 5969.3954467768335,
+    "lng": 6415.579825705545,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Grenade Tube"
+  },
+  {
+    "id": "62151e16-129e-1e36-3c80-fbab6b44418b",
+    "mapID": "buried-city",
+    "lat": 5970.809660339207,
+    "lng": 6438.914349484701,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Ammo Crate"
+  },
+  {
+    "id": "8d89220d-0c4c-43d5-9fec-70c85151f841",
+    "mapID": "buried-city",
+    "lat": 2787.0,
+    "lng": 7229.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "4c3bb975-4d85-4eb5-9f2c-3cc63467b09a",
+    "mapID": "buried-city",
+    "lat": 6369.0,
+    "lng": 7885.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "0f4dd047-8b4b-40fa-b462-a53b21f7439a",
+    "mapID": "buried-city",
+    "lat": 6412.676062724828,
+    "lng": 8506.508136706576,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "935705d5-2a5d-4058-b327-827eef470284",
+    "mapID": "buried-city",
+    "lat": 5693.709627682902,
+    "lng": 8075.969172096675,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "1237ba91-5d5f-9f5f-8184-ac135972068b",
+    "mapID": "buried-city",
+    "lat": 4154.869187768603,
+    "lng": 7507.943643592791,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Grenade Tube"
+  },
+  {
+    "id": "4b1425bc-bad1-49a6-80f7-563f8cc26cac",
+    "mapID": "buried-city",
+    "lat": 5510.191167365108,
+    "lng": 7736.981490207703,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "8203aeb7-35e4-4e27-b59e-7a99081db0f5",
+    "mapID": "buried-city",
+    "lat": 6526.9991209027285,
+    "lng": 7697.5,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag hidden in a bush"
+  },
+  {
+    "id": "ac62a290-01f5-4795-9149-b635a6bef132",
+    "mapID": "buried-city",
+    "lat": 6655.062281880424,
+    "lng": 6290.905638364395,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider cache"
+  },
+  {
+    "id": "9c62ff70-054d-4138-8ceb-9a6da19696ea",
+    "mapID": "buried-city",
+    "lat": 5775.6481887317195,
+    "lng": 8315.575746753799,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "ea307691-b4a6-466e-ba4b-8f9ef4e2d596",
+    "mapID": "buried-city",
+    "lat": 3207.291589162339,
+    "lng": 8087.797589133506,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "54a1a58c-4394-43d2-b17c-b1d2d4c1fd0f",
+    "mapID": "buried-city",
+    "lat": 3496.268918108,
+    "lng": 8141.311909308629,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "cc41e9d2-0ccd-4b5b-a568-f91931e9de7b",
+    "mapID": "buried-city",
+    "lat": 6054.322108457531,
+    "lng": 7945.051793412047,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider cache"
+  },
+  {
+    "id": "b3fa68d5-db6a-47d4-a2f5-7036db3543ce",
+    "mapID": "buried-city",
+    "lat": 6614.491202385719,
+    "lng": 7926.289610181513,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "747e4489-d86b-45fb-863d-0a3a80bb943d",
+    "mapID": "buried-city",
+    "lat": 4678.0,
+    "lng": 6119.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "09fb1490-2b26-4846-9164-30fba1f5cafd",
+    "mapID": "buried-city",
+    "lat": 7076.371112724374,
+    "lng": 7648.42049870429,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "ff0171ed-99b6-4d2e-9a97-e134f5d02a16",
+    "mapID": "buried-city",
+    "lat": 5937.116521651085,
+    "lng": 7904.065089865586,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "ffac16e7-12ac-4595-a13f-139ea7b6115d",
+    "mapID": "buried-city",
+    "lat": 5563.791131526203,
+    "lng": 5140.820234653584,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "9345cac9-eeb6-405b-bb38-909d078fbfc0",
+    "mapID": "buried-city",
+    "lat": 5998.114130004746,
+    "lng": 7653.83917163931,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "6036b91d-5ade-4d02-aad2-ecc1000b9774",
+    "mapID": "buried-city",
+    "lat": 3349.0,
+    "lng": 6819.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "e4b55744-c909-4759-8664-08be445ee46e",
+    "mapID": "buried-city",
+    "lat": 7032.416720766815,
+    "lng": 7554.613394639372,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "f4b61eb4-e5cb-4c23-a19b-a5c0c0fa29e8",
+    "mapID": "buried-city",
+    "lat": 6459.504277760097,
+    "lng": 7982.629670003513,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "6bc2fad1-a318-4ff1-b3ea-423c46e37f4f",
+    "mapID": "buried-city",
+    "lat": 5641.003950015408,
+    "lng": 6152.957613024079,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "33ed04bc-e9cb-4aae-8d80-8fee0b9253f0",
+    "mapID": "buried-city",
+    "lat": 6304.0,
+    "lng": 5850.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "5ed81261-5430-0123-0558-f79c4fe35edf",
+    "mapID": "buried-city",
+    "lat": 5835.383795958529,
+    "lng": 7071.969847580006,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": ""
+  },
+  {
+    "id": "50e83bc9-6900-4e7a-a6b8-da97c4f4e3fa",
+    "mapID": "buried-city",
+    "lat": 2930.957608018239,
+    "lng": 6916.2114267856205,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "7a29abf4-2f47-4ed6-8faa-2e9aadb2fab7",
+    "mapID": "buried-city",
+    "lat": 3571.4972996863394,
+    "lng": 7157.710286639618,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Security breach on roof (ONLY accessible by zipline)"
+  },
+  {
+    "id": "c8a330e2-6a3a-448d-812c-35fa372aadcb",
+    "mapID": "buried-city",
+    "lat": 4652.679865598802,
+    "lng": 5303.533691005177,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "888ed9da-3272-4fb3-b84c-c1dc71900c89",
+    "mapID": "buried-city",
+    "lat": 5654.025822367634,
+    "lng": 5956.667524715476,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Security Breach (inside locked door)"
+  },
+  {
+    "id": "4692eee6-df01-4ad6-a0f2-e622d428afa1",
+    "mapID": "buried-city",
+    "lat": 6311.227428629888,
+    "lng": 8655.049382989804,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Downed ARC"
+  },
+  {
+    "id": "c6c3c8d8-839a-4cab-892e-184610d4ee6b",
+    "mapID": "buried-city",
+    "lat": 3590.6276931333614,
+    "lng": 6479.106879529871,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case "
+  },
+  {
+    "id": "5f9f0e22-250d-4ab0-b4ee-55417563a397",
+    "mapID": "buried-city",
+    "lat": 5782.033569650388,
+    "lng": 5325.0,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "bb3ddc74-c3ea-447b-b68f-7732fd2b3da6",
+    "mapID": "buried-city",
+    "lat": 6173.427134842342,
+    "lng": 8356.361441571755,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "5fbd471e-62ef-49b9-bdc0-6ae1d18a89d6",
+    "mapID": "buried-city",
+    "lat": 4119.413446369426,
+    "lng": 6497.827676374868,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "72906148-1ff1-4f51-84e4-68d4b9b03cbc",
+    "mapID": "buried-city",
+    "lat": 5508.0,
+    "lng": 8992.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "10cb63e3-e00b-48ca-98f1-4583782c3205",
+    "mapID": "buried-city",
+    "lat": 6309.126091000901,
+    "lng": 7338.557468966786,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": "Pharmacy"
+  },
+  {
+    "id": "d1e6609a-b9b0-4465-9ca3-85a1a3910650",
+    "mapID": "buried-city",
+    "lat": 6474.692173349788,
+    "lng": 7669.605979425317,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "aab0cf00-7834-4657-8381-f49d8a87e7f1",
+    "mapID": "buried-city",
+    "lat": 6039.3180543521785,
+    "lng": 7672.338892774892,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "60ac639e-49d7-423f-ab89-b94317f04134",
+    "mapID": "buried-city",
+    "lat": 6107.767742653976,
+    "lng": 6452.637806004765,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "8d2b3e19-f6d3-4ef7-baab-299ab3f53b94",
+    "mapID": "buried-city",
+    "lat": 3622.581756913002,
+    "lng": 5646.619428428693,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "c891e53f-5e4c-4316-ad30-811c85021f33",
+    "mapID": "buried-city",
+    "lat": 5533.81766956592,
+    "lng": 6518.110308977594,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "49ebe998-c516-4548-b60c-fa4d45b76a9d",
+    "mapID": "buried-city",
+    "lat": 4104.047758006722,
+    "lng": 6603.670229501166,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Library First Floor Cache"
+  },
+  {
+    "id": "72ff9ac0-3ebd-4a9a-b954-89322095c05e",
+    "mapID": "buried-city",
+    "lat": 6744.3844789572895,
+    "lng": 7913.939095039839,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier"
+  },
+  {
+    "id": "fd6458d5-65c1-47ff-9929-86f9174766a4",
+    "mapID": "buried-city",
+    "lat": 3511.583430099512,
+    "lng": 5654.187496165977,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "ARC Rocketeer Husk"
+  },
+  {
+    "id": "21c046c4-28d1-4802-adce-5e448815ca93",
+    "mapID": "buried-city",
+    "lat": 3599.1353335557355,
+    "lng": 6051.875008248848,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "de4fecd7-6a79-49c3-93cc-3ad2fbab656c",
+    "mapID": "buried-city",
+    "lat": 3980.8036298110846,
+    "lng": 6098.1808034199385,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "e8439aa1-4ada-4385-8ed0-4d0da61c4124",
+    "mapID": "buried-city",
+    "lat": 4707.338132590294,
+    "lng": 5282.511280623835,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "b753cd37-c2ce-468c-95df-7c1575534a79",
+    "mapID": "buried-city",
+    "lat": 6120.849020919006,
+    "lng": 6455.01622023477,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "a28e04d6-2d59-4d79-a4ef-01ba967f99e7",
+    "mapID": "buried-city",
+    "lat": 5772.411336223208,
+    "lng": 7106.701719256262,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": null
+  },
+  {
+    "id": "0a5432a2-87bc-47d2-8104-5d887ece1888",
+    "mapID": "buried-city",
+    "lat": 5076.030159513355,
+    "lng": 7299.821780817496,
+    "category": "containers",
+    "subcategory": "security_breach",
+    "instanceName": "Security Breach (inside locked room)"
+  },
+  {
+    "id": "06e48062-2bb4-4f87-8a92-fa98450021bb",
+    "mapID": "buried-city",
+    "lat": 4286.0,
+    "lng": 5570.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "e901f30e-9eb5-41b7-90bd-45c7917f3157",
+    "mapID": "buried-city",
+    "lat": 3434.9691396247554,
+    "lng": 7756.008804047748,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Bombs crate"
+  },
+  {
+    "id": "4a153e3b-f2c6-40f8-ab95-90732982df88",
+    "mapID": "buried-city",
+    "lat": 5392.396313328611,
+    "lng": 9021.268314377972,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "85b415d3-4101-499e-8917-8b0660ffe438",
+    "mapID": "buried-city",
+    "lat": 4928.493889802021,
+    "lng": 8713.36865485899,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "11da2c46-d07e-49ef-aeb2-75adc5c4756d",
+    "mapID": "buried-city",
+    "lat": 4861.0,
+    "lng": 5710.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Gym bag"
+  },
+  {
+    "id": "7b785e3d-962a-4d82-ba47-faf7e09e890f",
+    "mapID": "buried-city",
+    "lat": 5083.218830208704,
+    "lng": 8909.297519613106,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "8732017a-f855-4b4e-be98-da55f9698c5b",
+    "mapID": "buried-city",
+    "lat": 4412.255698438846,
+    "lng": 6167.5254001828625,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "4403065f-68b1-4d06-8224-5b561e6ca7b1",
+    "mapID": "buried-city",
+    "lat": 6227.67885136901,
+    "lng": 8679.732798248842,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "dfb353a7-1e5f-4dcc-9014-845bb6a13ae1",
+    "mapID": "buried-city",
+    "lat": 3442.6299240487074,
+    "lng": 6079.681082284356,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "d66f0900-b345-480e-8413-878396de9536",
+    "mapID": "buried-city",
+    "lat": 4398.877118395066,
+    "lng": 8417.20795998926,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "7a77fbbe-204f-49f0-82e0-82bbf8fcb90c",
+    "mapID": "buried-city",
+    "lat": 5568.465901844062,
+    "lng": 6713.978887366268,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon case "
+  },
+  {
+    "id": "37b042d6-77a3-4d2a-97b4-bf1fa50e6ada",
+    "mapID": "buried-city",
+    "lat": 4493.0,
+    "lng": 8091.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "86c31a3c-bcf3-4536-9d1f-05b43cfe61fb",
+    "mapID": "buried-city",
+    "lat": 4159.202086939273,
+    "lng": 7457.14811439333,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Parking lot under"
+  },
+  {
+    "id": "a4f195a6-e5f2-4b2f-b656-9d68ac5a82a7",
+    "mapID": "buried-city",
+    "lat": 3346.0,
+    "lng": 6052.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "53c752be-24c7-4d14-b7d2-de014170fa85",
+    "mapID": "buried-city",
+    "lat": 6289.007711873153,
+    "lng": 6830.651506262048,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "e22bed35-c8a9-457f-98b0-bb5f427a3cf8",
+    "mapID": "buried-city",
+    "lat": 5932.625894155133,
+    "lng": 7874.341115293392,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "f651648c-58d8-4cb9-9222-011d414cdf79",
+    "mapID": "buried-city",
+    "lat": 5391.865059422337,
+    "lng": 8256.070395906392,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "ab5e129e-daec-4469-8672-76ec9dcca1fe",
+    "mapID": "buried-city",
+    "lat": 4209.527454760095,
+    "lng": 6379.040206114679,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "bd5acfa0-0a6e-41d7-bf44-a64a025f388f",
+    "mapID": "buried-city",
+    "lat": 4905.789686590171,
+    "lng": 5287.556659115357,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "c7d339a0-acf4-404c-bbfc-560d4858048f",
+    "mapID": "buried-city",
+    "lat": 3721.6236664010157,
+    "lng": 8625.319205114736,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "b9d106ea-40f4-4da3-b0bb-f388fc18711d",
+    "mapID": "buried-city",
+    "lat": 3299.0,
+    "lng": 6345.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "0f839f6c-3ab4-4e95-a30d-1a5927886484",
+    "mapID": "buried-city",
+    "lat": 4693.883789946235,
+    "lng": 7402.411143478449,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "388690f0-3dc3-4263-914b-a29ba431a305",
+    "mapID": "buried-city",
+    "lat": 5803.5,
+    "lng": 8405.5,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Rooftop Weapon Case"
+  },
+  {
+    "id": "bb3b24e7-70a2-4d12-be5d-4f88e7e6e9e9",
+    "mapID": "buried-city",
+    "lat": 3061.019114017004,
+    "lng": 6978.093772317288,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "07b14b7a-4544-4633-b318-8be9c3b29e02",
+    "mapID": "buried-city",
+    "lat": 4892.398071121194,
+    "lng": 8243.583721198864,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "ad47680c-eda7-4c66-b132-c5d7fbdd150f",
+    "mapID": "buried-city",
+    "lat": 5832.216731226644,
+    "lng": 8877.018531015918,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "ad4529c0-916a-4d4d-906c-cdcb4051b5d0",
+    "mapID": "buried-city",
+    "lat": 5288.0,
+    "lng": 7212.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "589f0690-0ab1-43b7-9f71-9960b83d01fb",
+    "mapID": "buried-city",
+    "lat": 5646.583104540979,
+    "lng": 6039.982937098821,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "58563891-402e-428f-a5f2-f0b039b8becd",
+    "mapID": "buried-city",
+    "lat": 3316.0,
+    "lng": 6651.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "be1458f6-0688-4621-a83a-b7957b821de7",
+    "mapID": "buried-city",
+    "lat": 4425.566600940071,
+    "lng": 8348.205140749244,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "a26a9aac-61ec-49c6-837b-11b5a60446f1",
+    "mapID": "buried-city",
+    "lat": 5421.387691357259,
+    "lng": 8816.91445461506,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket near buried house"
+  },
+  {
+    "id": "d0be97e5-e8d3-4bca-996b-9254885ed606",
+    "mapID": "buried-city",
+    "lat": 3826.0786894044013,
+    "lng": 6089.7718392674005,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "aba6ffa3-6727-4825-9a09-4b5018af1d50",
+    "mapID": "buried-city",
+    "lat": 3340.0,
+    "lng": 7384.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "95eaa53f-be35-4daf-b582-8fd691065b6d",
+    "mapID": "buried-city",
+    "lat": 5981.25,
+    "lng": 7690.25,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag"
+  },
+  {
+    "id": "9f20741f-3da8-4d49-a028-2881f76d5df2",
+    "mapID": "buried-city",
+    "lat": 3430.8625267828506,
+    "lng": 5641.598553572909,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "4f02eb9c-5ed3-4d8b-b85c-6bac5628a8f1",
+    "mapID": "buried-city",
+    "lat": 5000.615918586443,
+    "lng": 6265.932288949338,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "0b4948b7-92f2-4ff1-b89c-cdedcc49cd82",
+    "mapID": "buried-city",
+    "lat": 3873.044412621739,
+    "lng": 7281.370889621015,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Raider bag (ONLY accessible by zipline)"
+  },
+  {
+    "id": "918aff10-4d84-4d77-8e4a-0dee78223131",
+    "mapID": "buried-city",
+    "lat": 5814.798711479436,
+    "lng": 6152.83907041143,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "b465c011-7738-48a6-b5fd-0599104c851e",
+    "mapID": "buried-city",
+    "lat": 5260.0,
+    "lng": 5608.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "924f8995-c2ed-43b0-a918-5a80fb5b5589",
+    "mapID": "buried-city",
+    "lat": 5306.129286023852,
+    "lng": 8373.558502811095,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache under Highway"
+  },
+  {
+    "id": "b5ae0cb4-ccbc-4ffb-a167-a5a7374b6f06",
+    "mapID": "buried-city",
+    "lat": 4758.828637385464,
+    "lng": 8063.845732651387,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "390ee36e-223f-441c-ad07-013a838e3191",
+    "mapID": "buried-city",
+    "lat": 6047.118179788837,
+    "lng": 6463.935273597291,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag and Container"
+  },
+  {
+    "id": "a9c68e19-d267-400d-8b9a-740d06efd3d8",
+    "mapID": "buried-city",
+    "lat": 5325.0,
+    "lng": 8771.5,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "28ab50f9-41a5-4c9d-8151-d0a3892b2186",
+    "mapID": "buried-city",
+    "lat": 4565.366114495447,
+    "lng": 8431.478445369292,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "4b777fd0-b6b2-4f75-9d12-22228f2d7d3e",
+    "mapID": "buried-city",
+    "lat": 3662.8131265463157,
+    "lng": 7544.829355260462,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "893cb115-db7f-48af-bf1a-e5166072d685",
+    "mapID": "buried-city",
+    "lat": 4772.08715656483,
+    "lng": 8456.895248206607,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "e1c07f59-eb68-45e8-88d0-74f97fe45921",
+    "mapID": "buried-city",
+    "lat": 4350.12091785964,
+    "lng": 8745.49666971522,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "4a1326a3-fbce-4f15-80bd-be0e93b08b73",
+    "mapID": "buried-city",
+    "lat": 5120.218272479868,
+    "lng": 7312.435227046302,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "118126eb-8c16-4720-821b-70501524e1a5",
+    "mapID": "buried-city",
+    "lat": 5443.820048990968,
+    "lng": 8277.784311757567,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "1fd14a47-c55e-436b-9751-2a7c7f35eb48",
+    "mapID": "buried-city",
+    "lat": 6380.721998945186,
+    "lng": 6145.271002674146,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "36a3fada-e95f-40f4-9e42-fa5bdafdd84d",
+    "mapID": "buried-city",
+    "lat": 6733.885288702908,
+    "lng": 6280.20277432937,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "9b90d271-4320-4c99-b92f-417cc69ebf97",
+    "mapID": "buried-city",
+    "lat": 4707.085484743481,
+    "lng": 8715.050447689498,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache (found during uncovered caches event)"
+  },
+  {
+    "id": "75d136b7-9a8f-483d-8bef-6c89ebe01f78",
+    "mapID": "buried-city",
+    "lat": 3085.728529855882,
+    "lng": 7436.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "efc102a4-c58e-4c92-8062-0257f848e3b4",
+    "mapID": "buried-city",
+    "lat": 5174.876539471359,
+    "lng": 8314.78375402873,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "e35c9f28-0da9-4f5a-9be6-aac7b2f10951",
+    "mapID": "buried-city",
+    "lat": 5501.8667175600895,
+    "lng": 8434.4514631568,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "2728f8bc-9203-4940-9640-2a41e8189ad2",
+    "mapID": "buried-city",
+    "lat": 6241.553543091782,
+    "lng": 7906.443504095591,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "7a8170db-2e6b-415a-b120-f44c85091ccc",
+    "mapID": "buried-city",
+    "lat": 5932.359693191074,
+    "lng": 8246.55673898637,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "8592b64a-6dea-4ab5-a58f-2b3fba8dc92f",
+    "mapID": "buried-city",
+    "lat": 5243.214170046997,
+    "lng": 7882.064758238035,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "3188cfa6-0c5c-462d-9335-fc8b9435e2c4",
+    "mapID": "buried-city",
+    "lat": 4919.3418767148105,
+    "lng": 8252.643243228196,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "4f960cb1-7aa5-4eb1-92a8-b801f37d3e43",
+    "mapID": "buried-city",
+    "lat": 4422.66126069512,
+    "lng": 8131.798252388607,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "ee441e15-0d36-4037-83a0-b571e893b2d4",
+    "mapID": "buried-city",
+    "lat": 3729.2811639778515,
+    "lng": 7479.068424610113,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "145e8f78-fe54-4194-a574-ca8fb5f138c2",
+    "mapID": "buried-city",
+    "lat": 4011.88525638698,
+    "lng": 5500.249491150432,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "9fe425e8-2abf-4c4a-8723-1657e3ab62c8",
+    "mapID": "buried-city",
+    "lat": 3850.652638378811,
+    "lng": 8278.070727533941,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "846f49ef-ee6e-4b4d-9724-7c284355751e",
+    "mapID": "buried-city",
+    "lat": 5202.082171788364,
+    "lng": 8207.31290419128,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Ammo Crate"
+  },
+  {
+    "id": "87f05159-d347-469b-8633-715ec973e0ba",
+    "mapID": "buried-city",
+    "lat": 5755.095065996423,
+    "lng": 7142.574151165051,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "weapon create upon zip from attic"
+  },
+  {
+    "id": "16512228-bfb8-4d4f-9859-e31f406506b6",
+    "mapID": "buried-city",
+    "lat": 3957.258530183981,
+    "lng": 8182.7630168338965,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "518a2a58-62e6-44ea-838b-b521c3449dea",
+    "mapID": "buried-city",
+    "lat": 4086.7565781330527,
+    "lng": 6069.590325301312,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "bc0554fa-38f7-4769-b092-96ba74afc1ff",
+    "mapID": "buried-city",
+    "lat": 3048.2279909228596,
+    "lng": 6188.997616267339,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "b710cbee-1bf1-4b60-a61c-acdacecd4c70",
+    "mapID": "buried-city",
+    "lat": 3255.9509198623828,
+    "lng": 7690.838613910473,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "d3a0554b-0756-4afc-a229-56aca2030b44",
+    "mapID": "buried-city",
+    "lat": 6060.75,
+    "lng": 6441.75,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "1345e013-f268-4b9e-b83c-8934af38ed6e",
+    "mapID": "buried-city",
+    "lat": 6510.0,
+    "lng": 8478.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "5b0da5ff-481b-40d7-a618-de2c76381245",
+    "mapID": "buried-city",
+    "lat": 3227.2353493354026,
+    "lng": 7455.733900830956,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "5a3031f8-11bf-49cf-b725-445f532fdd76",
+    "mapID": "buried-city",
+    "lat": 6915.504320004435,
+    "lng": 6841.965214761033,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "0cec68f8-2a4d-47b1-b369-c294ea30ffbe",
+    "mapID": "buried-city",
+    "lat": 5276.382555389228,
+    "lng": 7915.252847728831,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "bag inside the bridge"
+  },
+  {
+    "id": "88b653b7-9d76-4b2a-9c51-23334a423e0d",
+    "mapID": "buried-city",
+    "lat": 5073.880211142302,
+    "lng": 8823.34962323672,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "grenade tube under the floor"
+  },
+  {
+    "id": "05c01b5f-1880-4ee3-b61b-26443d47667b",
+    "mapID": "buried-city",
+    "lat": 3804.2153826078047,
+    "lng": 6097.339907004684,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "3acd2d94-e50b-4df6-93dc-9fc2e234ae67",
+    "mapID": "buried-city",
+    "lat": 3105.0199403110337,
+    "lng": 6744.587974602808,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Rairder Cache"
+  },
+  {
+    "id": "87923b80-9a84-4d69-8f5a-6d887ab6c9fc",
+    "mapID": "buried-city",
+    "lat": 3029.7497841591335,
+    "lng": 6906.282258478758,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "ARC Wasp Husk"
+  },
+  {
+    "id": "e74016fa-f78b-4b82-989e-e3ff365d2287",
+    "mapID": "buried-city",
+    "lat": 6675.088011438225,
+    "lng": 7503.817164645081,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "ARC Wasp Husk"
+  },
+  {
+    "id": "50e842dd-41c3-4bb6-a430-aa191172870f",
+    "mapID": "buried-city",
+    "lat": 5528.0,
+    "lng": 7875.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "c03b41af-6fe1-45a8-9eb6-9d1ddeb7088f",
+    "mapID": "buried-city",
+    "lat": 3525.280857605532,
+    "lng": 7728.677118368964,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "cb86ea5b-b3d7-4a8f-91a7-398a90d341dd",
+    "mapID": "buried-city",
+    "lat": 3667.0,
+    "lng": 7522.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "dc57c38a-0360-426b-8ce7-063e622d286f",
+    "mapID": "buried-city",
+    "lat": 3455.0,
+    "lng": 7373.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "e23f80e8-13b7-4ca0-b728-e398bd8b3c39",
+    "mapID": "buried-city",
+    "lat": 3187.5,
+    "lng": 6253.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "78c882e7-8721-444d-9730-398441d9ba7f",
+    "mapID": "buried-city",
+    "lat": 5400.189509227356,
+    "lng": 7574.060115452331,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": "Random 1st Floor Med Crate"
+  },
+  {
+    "id": "f9f8e4c7-d5dd-4d0e-a57e-dd9945af75d6",
+    "mapID": "buried-city",
+    "lat": 4523.743865470351,
+    "lng": 6412.204764094672,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "5a971e9b-beac-4b47-956e-1b69c364bffc",
+    "mapID": "buried-city",
+    "lat": 4485.689237790264,
+    "lng": 7032.970878126092,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Fountain Weapon Case"
+  },
+  {
+    "id": "f39babae-b25c-493d-837a-cdb155186122",
+    "mapID": "buried-city",
+    "lat": 6952.0,
+    "lng": 6868.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "df0e1420-7290-4620-bf8b-e9576b1cf316",
+    "mapID": "buried-city",
+    "lat": 6215.906301555458,
+    "lng": 8763.822439774212,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "b660f03e-f45b-494d-9c94-37577a5ea173",
+    "mapID": "buried-city",
+    "lat": 4898.641408474959,
+    "lng": 8259.043413693898,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "f545a1dc-67c4-416c-b122-d6a84547cd81",
+    "mapID": "buried-city",
+    "lat": 2949.3423843290893,
+    "lng": 7292.3922343768645,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "98612b13-dc0b-4353-94ad-c94bca01d1da",
+    "mapID": "buried-city",
+    "lat": 6137.686860699232,
+    "lng": 7797.973582925246,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "a69f3cd9-a05c-4b79-b911-9936bd1ad1d1",
+    "mapID": "buried-city",
+    "lat": 6897.119543693584,
+    "lng": 7445.834405894345,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "e9228e4f-a81e-4e94-8ac0-0a755c697923",
+    "mapID": "buried-city",
+    "lat": 5463.1069914472655,
+    "lng": 8272.088679710825,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Terminal"
+  },
+  {
+    "id": "5506e33d-b6ad-4adb-b547-c2724dfc376a",
+    "mapID": "buried-city",
+    "lat": 5212.791190907228,
+    "lng": 8360.830580749738,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "8364fc8d-b802-446f-9818-9fa8c007c2dc",
+    "mapID": "buried-city",
+    "lat": 6856.107350384765,
+    "lng": 6279.108216936542,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "7dcd848a-3e2d-4663-ae60-3e30a1dbb61e",
+    "mapID": "buried-city",
+    "lat": 4478.033379322571,
+    "lng": 8395.003571483549,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Wasp Husk"
+  },
+  {
+    "id": "8494ef95-3632-4c7c-b1ea-123b73b989e9",
+    "mapID": "buried-city",
+    "lat": 4447.045137947568,
+    "lng": 8449.003294396165,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "4ff53868-37cd-4792-b146-98a0ce85a183",
+    "mapID": "buried-city",
+    "lat": 4366.0534844361255,
+    "lng": 8406.086646614904,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "899bec9d-d67f-472f-b368-4082c1ce9245",
+    "mapID": "buried-city",
+    "lat": 4732.869975783198,
+    "lng": 8085.4207188192595,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "13d57306-284a-40c7-9476-9ccff8f72013",
+    "mapID": "buried-city",
+    "lat": 4942.091038167887,
+    "lng": 8036.663477290924,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "ee84732c-ae76-401a-bc33-67271c6f348c",
+    "mapID": "buried-city",
+    "lat": 6394.491926775917,
+    "lng": 5927.2076721559815,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "c5cb7c3e-808f-48e8-96ee-3629ee7811bd",
+    "mapID": "buried-city",
+    "lat": 6265.591018415058,
+    "lng": 6013.405609734072,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": null
+  },
+  {
+    "id": "b0f32fb8-ff05-4610-9a69-ec2f59d515c1",
+    "mapID": "buried-city",
+    "lat": 6080.431487120509,
+    "lng": 6122.985994699419,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": null
+  },
+  {
+    "id": "c1a93d06-7685-4892-8ba6-72bbd8787718",
+    "mapID": "buried-city",
+    "lat": 5260.728603290223,
+    "lng": 7425.127563309897,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "341402e4-f1b4-4ddf-a4af-04c74de73564",
+    "mapID": "buried-city",
+    "lat": 4988.127938989265,
+    "lng": 6223.6509385354975,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "a2fb45bf-023b-439a-b05a-a9a648a47452",
+    "mapID": "buried-city",
+    "lat": 6584.163983147979,
+    "lng": 6967.667696792279,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider cache"
+  },
+  {
+    "id": "9043c6e4-d9ed-40ed-b190-540e8ab3e94c",
+    "mapID": "buried-city",
+    "lat": 6792.65601677397,
+    "lng": 7725.089419057676,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider cache"
+  },
+  {
+    "id": "439ac62e-9e95-4828-ae8e-3ff9867b6a2a",
+    "mapID": "buried-city",
+    "lat": 6594.979610809287,
+    "lng": 6165.452516640235,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "c4a60d5f-0ddc-4a3d-a58c-6adb4bd1a4c4",
+    "mapID": "buried-city",
+    "lat": 6760.0,
+    "lng": 6958.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "829e7752-2824-4907-a109-0f69b356bd29",
+    "mapID": "buried-city",
+    "lat": 6154.657423447709,
+    "lng": 6408.50875789368,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "7fee356e-bb20-42c2-87c7-7e3bc6c8b043",
+    "mapID": "buried-city",
+    "lat": 4970.0,
+    "lng": 8092.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "26ca37bb-1925-4cbd-89f6-644e73c12927",
+    "mapID": "buried-city",
+    "lat": 5565.052476149083,
+    "lng": 6957.997388016861,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "da Vinci Backpack"
+  },
+  {
+    "id": "b60b8eb7-9966-4951-80ca-aa0191b89185",
+    "mapID": "buried-city",
+    "lat": 5690.766490229514,
+    "lng": 7134.165187012514,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": ""
+  },
+  {
+    "id": "72945b4d-bcba-4289-87f2-1ae4a411bda1",
+    "mapID": "buried-city",
+    "lat": 5695.391420513409,
+    "lng": 7224.5615516522885,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": ""
+  },
+  {
+    "id": "801ec533-c879-4745-90f1-447b0a374809",
+    "mapID": "buried-city",
+    "lat": 5019.310702649423,
+    "lng": 5665.119149564275,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Backpack Under the Ramp"
+  },
+  {
+    "id": "a77d282c-3d66-4dc8-8ed7-a42fefe51ace",
+    "mapID": "buried-city",
+    "lat": 3124.771079082803,
+    "lng": 7151.824011732842,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "416ad5df-8520-498f-98c0-d3b6f26de082",
+    "mapID": "buried-city",
+    "lat": 3553.628250862198,
+    "lng": 7660.56634296134,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "56d6fde4-c65f-4001-a94c-305bb5cd88c1",
+    "mapID": "buried-city",
+    "lat": 6486.6749472671545,
+    "lng": 8239.94397307115,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "c78500f5-2108-4342-9d9b-03fbd324e387",
+    "mapID": "buried-city",
+    "lat": 5874.0,
+    "lng": 5466.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "4f2248a9-3dc3-480c-8b3c-716c2df9488d",
+    "mapID": "buried-city",
+    "lat": 5824.7364492833285,
+    "lng": 6559.66644635501,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "403bb16b-75e9-419d-bf99-c2dbc7e0dda7",
+    "mapID": "buried-city",
+    "lat": 4367.997462733904,
+    "lng": 8614.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "266cdab2-d5e0-43b9-9a9e-1e49b0a1c327",
+    "mapID": "buried-city",
+    "lat": 6022.075808838084,
+    "lng": 8638.400483379766,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "1e852363-a1c9-44fa-abf1-bfecfd66ed74",
+    "mapID": "buried-city",
+    "lat": 6547.280004746435,
+    "lng": 7874.311854885029,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "89436ac9-e6f7-4ce4-a8ae-c5e90d5c52d4",
+    "mapID": "buried-city",
+    "lat": 3715.9275797825185,
+    "lng": 6578.346983986793,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "8e663bda-76d4-4e49-b7f2-50db7ef15e2e",
+    "mapID": "buried-city",
+    "lat": 6535.014971665928,
+    "lng": 7221.618414198901,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Plaza Rosa Cache Tower"
+  },
+  {
+    "id": "ff47058b-c21a-4c43-8345-08a3ad243cde",
+    "mapID": "buried-city",
+    "lat": 4494.3707012216955,
+    "lng": 8413.156482557542,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Inside apartment"
+  },
+  {
+    "id": "06bcc6b0-36c8-40ac-9aae-687db290d163",
+    "mapID": "buried-city",
+    "lat": 3694.8988486248218,
+    "lng": 7936.380367164558,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "58250129-b40a-4173-aa59-ecfa3f6bd07a",
+    "mapID": "buried-city",
+    "lat": 3259.0,
+    "lng": 6245.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "dac370bd-ae9b-4f42-a4a4-075f5cff5abb",
+    "mapID": "buried-city",
+    "lat": 6401.0,
+    "lng": 6736.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "A bag"
+  },
+  {
+    "id": "4954e61f-f412-4bbe-866a-6fd6fac11819",
+    "mapID": "buried-city",
+    "lat": 3826.1547930004085,
+    "lng": 6699.836751742538,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Library Roof Weapon Case"
+  },
+  {
+    "id": "6f1bf694-9b70-40dd-9b41-834f7de45847",
+    "mapID": "buried-city",
+    "lat": 5229.0,
+    "lng": 5971.5,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "944cb580-0f07-4f68-b24f-42c39f6d106f",
+    "mapID": "buried-city",
+    "lat": 6273.067531639354,
+    "lng": 8854.24157475276,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "b2f51f2f-490d-46ea-b12d-5393bafbc282",
+    "mapID": "buried-city",
+    "lat": 3292.914501442535,
+    "lng": 6670.2627080502625,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Basket"
+  },
+  {
+    "id": "81659344-abe0-47b7-9c64-2e43da02e0fc",
+    "mapID": "buried-city",
+    "lat": 3723.624309728359,
+    "lng": 8036.975674966298,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "aa328fa1-56cd-44cb-99d5-7d44c7ed8a72",
+    "mapID": "buried-city",
+    "lat": 2928.001317913434,
+    "lng": 6869.282816207594,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "45ae3137-b3e7-4adb-a1cc-fb46c44eb073",
+    "mapID": "buried-city",
+    "lat": 5127.0,
+    "lng": 7947.0,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "7f1c0072-cea9-4b2c-970b-4684b9aa9c6d",
+    "mapID": "buried-city",
+    "lat": 5888.061728157223,
+    "lng": 6741.912436729177,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "0eaadfb1-b594-486d-a360-b07894ab68be",
+    "mapID": "buried-city",
+    "lat": 5283.400519700143,
+    "lng": 8014.250903953478,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": "Grenade tube in a buried truck"
+  },
+  {
+    "id": "a9373e42-8ee3-4395-b9e0-590a5793eb6f",
+    "mapID": "buried-city",
+    "lat": 5918.0,
+    "lng": 7980.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "fc8ebd00-abfe-436f-9924-860636291c88",
+    "mapID": "buried-city",
+    "lat": 6074.635703792834,
+    "lng": 7576.476701435969,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "28b433aa-d091-47ca-830d-f9b46573baaf",
+    "mapID": "buried-city",
+    "lat": 6628.418966842696,
+    "lng": 7553.3146366347,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "7e2a5040-a184-406f-93b3-3527570daf57",
+    "mapID": "buried-city",
+    "lat": 6652.460597403038,
+    "lng": 7537.758287448596,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": null
+  },
+  {
+    "id": "f41cce83-df98-4f3f-80ae-59f6089c08af",
+    "mapID": "buried-city",
+    "lat": 5564.930367938128,
+    "lng": 6836.308360511541,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": null
+  },
+  {
+    "id": "6ea2c97f-7260-4861-8ed2-99d7ee7eda0d",
+    "mapID": "buried-city",
+    "lat": 5565.052476149083,
+    "lng": 8719.675377973394,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "6683b2e0-ea94-4066-9ed3-2f56f6bd3afd",
+    "mapID": "buried-city",
+    "lat": 4524.0,
+    "lng": 7694.0,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "a3259361-c6aa-41ae-b9d3-376d3bd94cd6",
+    "mapID": "buried-city",
+    "lat": 4890.350498686163,
+    "lng": 5182.385599316206,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "93b61805-3faf-4032-8bef-05ac58ac143a",
+    "mapID": "buried-city",
+    "lat": 6860.032955639804,
+    "lng": 6165.452516640235,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "aa6eaddf-5a6c-455f-ad06-0799ad990f16",
+    "mapID": "buried-city",
+    "lat": 2740.745883879058,
+    "lng": 6720.342848396947,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Bascket"
+  },
+  {
+    "id": "d1b499f4-1136-4114-8bf6-7bbb2a609369",
+    "mapID": "buried-city",
+    "lat": 3993.176713393404,
+    "lng": 6552.366503653815,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Backpack on the upper floor"
+  },
+  {
+    "id": "799e976d-876c-49af-8acc-76daacd80a3c",
+    "mapID": "buried-city",
+    "lat": 4397.888251776927,
+    "lng": 5137.036200784943,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "c3c3b011-193b-4ac2-b9da-fdfaa5f26db0",
+    "mapID": "buried-city",
+    "lat": 2749.446849886291,
+    "lng": 7228.000844986539,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "da0bbf75-d542-48a6-a3e4-c4ca7846cb7a",
+    "mapID": "buried-city",
+    "lat": 5174.876539471359,
+    "lng": 7591.612836910535,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "d8e70ccb-45dd-466e-ba6e-4e271349b607",
+    "mapID": "buried-city",
+    "lat": 3379.041232734932,
+    "lng": 8116.171634459192,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "410186a1-f773-4218-981b-5bb232d19b11",
+    "mapID": "buried-city",
+    "lat": 3275.6709982749953,
+    "lng": 5966.252095968652,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "ae3d1f71-1a84-e88d-2e8a-c581b487b950",
+    "mapID": "buried-city",
+    "lat": 5179.591589394352,
+    "lng": 7462.8692501995765,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": ""
+  },
+  {
+    "id": "f852c241-aad7-42ce-8471-e72e5cf3dd61",
+    "mapID": "buried-city",
+    "lat": 5990.60865021243,
+    "lng": 6477.098115668775,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "18c57043-ecc2-464c-8667-d255a752fa84",
+    "mapID": "buried-city",
+    "lat": 6375.274739177912,
+    "lng": 5775.6481887317195,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "626afb57-0f08-43c6-86c6-8ccd9b203401",
+    "mapID": "buried-city",
+    "lat": 5173.645553819339,
+    "lng": 5890.7374441659795,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "1c6bfaa1-1812-4e84-8b6a-f010ad7aa6b2",
+    "mapID": "buried-city",
+    "lat": 5192.0,
+    "lng": 6362.0,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "7756158a-9b80-4d62-a8fd-46e5180febdf",
+    "mapID": "buried-city",
+    "lat": 3085.4591716696923,
+    "lng": 6883.5780552669075,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Bag "
+  },
+  {
+    "id": "7828a612-fd31-4e8e-83e9-2e8e66a9e8cb",
+    "mapID": "buried-city",
+    "lat": 4288.0,
+    "lng": 5550.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "On Top of Roof"
+  },
+  {
+    "id": "2a70faeb-1895-4df6-8065-27ad5fd8a163",
+    "mapID": "buried-city",
+    "lat": 3954.494673785767,
+    "lng": 6529.777570867173,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "d9311ddc-4f40-4b5e-8a41-eb78eb9057ee",
+    "mapID": "buried-city",
+    "lat": 4480.7588956838545,
+    "lng": 7024.221987611866,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": "Backpack"
+  },
+  {
+    "id": "bf34674d-584d-493f-9b60-9c9423a45739",
+    "mapID": "buried-city",
+    "lat": 5448.0,
+    "lng": 8858.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "4d6c0f2f-d9ad-4231-a8c0-1f933fc22934",
+    "mapID": "buried-city",
+    "lat": 4007.62797755917,
+    "lng": 6550.152789434988,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "f2321ced-9da5-4de2-958e-eee0fab8c8c2",
+    "mapID": "buried-city",
+    "lat": 5993.0,
+    "lng": 8577.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "e6cb9787-2960-49f6-8403-f7336c794d6c",
+    "mapID": "buried-city",
+    "lat": 6615.214246313836,
+    "lng": 7509.1952019435475,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "26e18e23-8b6f-d4a1-366b-d589120b834b",
+    "mapID": "buried-city",
+    "lat": 3466.2470246606485,
+    "lng": 7033.213476843096,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "dcc54bab-4517-bde9-402f-a0349cde3cca",
+    "mapID": "buried-city",
+    "lat": 3460.4979620963345,
+    "lng": 7051.209746818561,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "54ee66d9-d774-9512-1c10-0ec9a096f5af",
+    "mapID": "buried-city",
+    "lat": 3440.001304258346,
+    "lng": 7039.712129889792,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "fcd99748-cb67-20b0-0210-5b4410279c93",
+    "mapID": "buried-city",
+    "lat": 3448.2499592419267,
+    "lng": 7018.216585196876,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": ""
+  },
+  {
+    "id": "c04cd38a-eb30-f3ad-1f8a-b4e64a0ded7b",
+    "mapID": "buried-city",
+    "lat": 3425.7536274685244,
+    "lng": 7021.965808108431,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "4094e3e7-b8a5-48ad-99d5-1ef0887e31b7",
+    "mapID": "buried-city",
+    "lat": 4362.1417331398125,
+    "lng": 7416.135921084511,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Roof Weapon Case"
+  },
+  {
+    "id": "247a6f37-845a-4c46-a69d-54351b90b3bb",
+    "mapID": "buried-city",
+    "lat": 5829.0,
+    "lng": 7189.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "84470658-e077-4366-abc9-aca3875ad61f",
+    "mapID": "buried-city",
+    "lat": 4178.0,
+    "lng": 5428.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "536f6828-772c-4db3-bba3-2b6876160445",
+    "mapID": "buried-city",
+    "lat": 4426.0,
+    "lng": 6515.0,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "b5b8b083-58b6-49cb-b4f2-de423741ce92",
+    "mapID": "buried-city",
+    "lat": 6041.840743597939,
+    "lng": 6790.2385531737455,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Ammo crate before room."
+  },
+  {
+    "id": "9fa6e7e5-fe93-460d-820d-e4e2bd43f55e",
+    "mapID": "buried-city",
+    "lat": 6040.158950767432,
+    "lng": 6780.1477961907,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": "Weapon Case far side of room"
+  },
+  {
+    "id": "85765057-3aea-45c8-8ffb-2bce60cedce6",
+    "mapID": "buried-city",
+    "lat": 4315.059954874437,
+    "lng": 7508.364091800418,
+    "category": "containers",
+    "subcategory": "weapon_case",
+    "instanceName": null
+  },
+  {
+    "id": "8a9921ef-3b7c-473b-b133-aefef69389ca",
+    "mapID": "buried-city",
+    "lat": 4306.25,
+    "lng": 7502.875,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "aa4aaabf-52ff-4205-9d62-da2090876e44",
+    "mapID": "buried-city",
+    "lat": 5425.5781711060745,
+    "lng": 7808.378202485175,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": null
+  },
+  {
+    "id": "8ca69036-66e4-0012-d2c3-f8d21ecd80d4",
+    "mapID": "buried-city",
+    "lat": 4937.019546244474,
+    "lng": 8659.029093202831,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": ""
+  },
+  {
+    "id": "82fcb95c-aa5e-4e56-970c-ccbda0e57e31",
+    "mapID": "buried-city",
+    "lat": 3101.2259794556994,
+    "lng": 6875.1690911143705,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "d620b2b7-d63d-4aa4-a0c6-27fc9f4317ca",
+    "mapID": "buried-city",
+    "lat": 4589.5,
+    "lng": 7168.5,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": "Candleberry Basket"
+  },
+  {
+    "id": "1ac5b9e0-22b4-4133-bf60-27012bc1448d",
+    "mapID": "buried-city",
+    "lat": 4421.537518590982,
+    "lng": 6943.158494726577,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "16a0cd50-e2ee-4b80-b9ce-bc33ea522c00",
+    "mapID": "buried-city",
+    "lat": 5287.556659115357,
+    "lng": 7805.200526384979,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "b06978a6-b7bc-4482-8b11-f7e60d038f95",
+    "mapID": "buried-city",
+    "lat": 5304.374587420431,
+    "lng": 7643.748414656266,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "c075c790-b887-4564-b909-8084aeaec71c",
+    "mapID": "buried-city",
+    "lat": 5321.1925157255055,
+    "lng": 7426.797139520807,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "1c88ae64-1646-4d56-81c5-3ff23e428795",
+    "mapID": "buried-city",
+    "lat": 5327.919687047535,
+    "lng": 7324.207776859854,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": "Ammo Crate"
+  },
+  {
+    "id": "ca9a2011-098d-4e62-9d1e-bd786c6c4c7a",
+    "mapID": "buried-city",
+    "lat": 5380.055264793265,
+    "lng": 7233.390964012453,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "508d5c4e-d2df-4411-935c-d18e82bc0293",
+    "mapID": "buried-city",
+    "lat": 5346.419408183117,
+    "lng": 7167.801043622663,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "b5cedfb6-2de5-467f-be46-345874cb3ed8",
+    "mapID": "buried-city",
+    "lat": 5395.191400267832,
+    "lng": 7009.7125175549645,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "44ab8493-c4d3-4880-887b-cd6b3abe1d64",
+    "mapID": "buried-city",
+    "lat": 5514.59869123386,
+    "lng": 6727.171322029717,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "8f87e5b9-6be8-45d2-ac24-4e03b5b3eb8b",
+    "mapID": "buried-city",
+    "lat": 5543.189169352487,
+    "lng": 6728.853114860224,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "8778ac48-de4b-4d65-922c-ee07d6517b47",
+    "mapID": "buried-city",
+    "lat": 5581.870404454157,
+    "lng": 6614.491202385719,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "c4d395f5-0ac4-4998-979d-6909b488a664",
+    "mapID": "buried-city",
+    "lat": 5736.595344860841,
+    "lng": 6412.676062724828,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "b10a3782-d4be-4310-a317-e1dc0c5dbc2c",
+    "mapID": "buried-city",
+    "lat": 5968.682755470866,
+    "lng": 6227.67885136901,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "a8eb9d87-eb6d-4786-b9e2-e6833eb08e22",
+    "mapID": "buried-city",
+    "lat": 6416.039648385842,
+    "lng": 5852.639050165853,
+    "category": "containers",
+    "subcategory": "breachable_container",
+    "instanceName": "Breachable Container"
+  },
+  {
+    "id": "0e95d25c-7207-4e4d-b884-0095aa23749d",
+    "mapID": "buried-city",
+    "lat": 6759.125385809358,
+    "lng": 5669.323631640544,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "5e7611b1-dd43-4613-aab9-af2077445c2c",
+    "mapID": "buried-city",
+    "lat": 4968.016021318946,
+    "lng": 8094.468893232256,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Containers"
+  },
+  {
+    "id": "80e52b6a-a71e-4b27-b098-f5502f091d56",
+    "mapID": "buried-city",
+    "lat": 4697.2473756072495,
+    "lng": 8282.82969024909,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "d15361fb-248f-45e7-b407-f61df7310b62",
+    "mapID": "buried-city",
+    "lat": 3780.670282980701,
+    "lng": 6229.360644199518,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "56a8ea3f-1fe1-4ce9-a06d-e1315731bdc7",
+    "mapID": "buried-city",
+    "lat": 3452.720681031752,
+    "lng": 6718.762357877179,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "74219a26-8869-475d-a967-d7abfeffd0b6",
+    "mapID": "buried-city",
+    "lat": 4155.710084183857,
+    "lng": 7302.344470063257,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "953f812d-0a23-476a-bbd6-bd3c1d508b11",
+    "mapID": "buried-city",
+    "lat": 4179.255183810961,
+    "lng": 7450.342239147911,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "391d7350-8a7b-4f62-9e37-addc9c0ac5dc",
+    "mapID": "buried-city",
+    "lat": 4132.164984556754,
+    "lng": 7514.250366707193,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "9959eaa8-5634-42ee-b20e-5ff10f460af5",
+    "mapID": "buried-city",
+    "lat": 4125.437813234724,
+    "lng": 7404.93383272421,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "bb3823e3-b998-411c-bb83-176ca9a2ac8e",
+    "mapID": "buried-city",
+    "lat": 3943.8041875399213,
+    "lng": 7399.888454232689,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "a2f9099c-f8d3-4f7a-8dbb-014de4a6aef9",
+    "mapID": "buried-city",
+    "lat": 3952.2131516924583,
+    "lng": 7391.479490080151,
+    "category": "containers",
+    "subcategory": "car",
+    "instanceName": "Car"
+  },
+  {
+    "id": "51bef185-f454-45fc-ba4c-1b53810f0562",
+    "mapID": "buried-city",
+    "lat": 6813.0,
+    "lng": 6962.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "5e756a40-d5f6-4951-9a61-f31cc791fe94",
+    "mapID": "buried-city",
+    "lat": 3064.226537184536,
+    "lng": 7288.890127419198,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "c70fb628-18a4-4949-315b-0a4848511248",
+    "mapID": "buried-city",
+    "lat": 3732.1057578480145,
+    "lng": 7114.5,
+    "category": "containers",
+    "subcategory": "ammo_crate",
+    "instanceName": ""
+  },
+  {
+    "id": "c809ca9d-c306-45a7-8b2e-d78b7a36511a",
+    "mapID": "buried-city",
+    "lat": 3900.0,
+    "lng": 6833.0,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Frozen Raider container"
+  },
+  {
+    "id": "b6f4a1b0-2ca8-407d-a9f5-f1551f964a36",
+    "mapID": "buried-city",
+    "lat": 3724.0,
+    "lng": 7119.307014826046,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "frozen cache"
+  },
+  {
+    "id": "df42d609-7ff4-481d-b1ad-99890023ab59",
+    "mapID": "buried-city",
+    "lat": 6202.904311854193,
+    "lng": 5940.089539438592,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "830eff87-8716-4f2d-8b1d-b39aa5281a63",
+    "mapID": "buried-city",
+    "lat": 5388.1536726414915,
+    "lng": 5625.741551120172,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "c064fc3b-8e00-482c-80d8-362868448bfe",
+    "mapID": "buried-city",
+    "lat": 5235.1673973028965,
+    "lng": 5275.15671362954,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": "Arc Courier "
+  },
+  {
+    "id": "d7dd531c-ec2f-4ad3-8048-c688d2560e8f",
+    "mapID": "buried-city",
+    "lat": 5081.4820024066275,
+    "lng": 5593.435665415299,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "e55dba65-8291-4748-93ec-7db430064f9f",
+    "mapID": "buried-city",
+    "lat": 3791.192282628675,
+    "lng": 6950.915587190905,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "cdea314c-bd86-41f0-a4d0-72a77dfdf9c5",
+    "mapID": "buried-city",
+    "lat": 4901.585204513903,
+    "lng": 8571.257160681113,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "d976afb7-4248-443f-a4cd-ec20a110a084",
+    "mapID": "buried-city",
+    "lat": 4826.0,
+    "lng": 6372.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "6454f2db-1fa9-4ca3-a582-e64f40d4f0a0",
+    "mapID": "buried-city",
+    "lat": 5055.106378702628,
+    "lng": 6742.26315861373,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "3e868221-3ace-4b17-8986-67ef8bf36890",
+    "mapID": "buried-city",
+    "lat": 5386.0,
+    "lng": 6375.0,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "971a37ba-9776-42b2-8aad-848246fad353",
+    "mapID": "buried-city",
+    "lat": 5301.886645336733,
+    "lng": 8038.389888528672,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "3b09ca1e-77a0-4aea-adab-493c56b8af78",
+    "mapID": "buried-city",
+    "lat": 4868.790244319008,
+    "lng": 7280.481163266661,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "8cfe0c48-4e16-4eb2-842b-6ad368951315",
+    "mapID": "buried-city",
+    "lat": 4936.061957539305,
+    "lng": 7105.574708893888,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "14c8e14a-9433-4f2b-ac2b-c5abc8378eec",
+    "mapID": "buried-city",
+    "lat": 4579.223514964081,
+    "lng": 7013.0850558081775,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "5d9f1e65-0e43-4f1f-8935-792397a6ecd2",
+    "mapID": "buried-city",
+    "lat": 4944.09061405634,
+    "lng": 6861.764204634257,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "9f4bc3bb-99e7-4848-a664-1f202b7ff239",
+    "mapID": "buried-city",
+    "lat": 3216.8052460823606,
+    "lng": 7281.515165161662,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "fcc39ac3-0232-4f28-9f50-b01dbd1744dc",
+    "mapID": "buried-city",
+    "lat": 5441.21715469495,
+    "lng": 8689.536389324883,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": "Raider Cache"
+  },
+  {
+    "id": "379090cd-b803-46f4-b352-ed08917022eb",
+    "mapID": "buried-city",
+    "lat": 5543.717164502532,
+    "lng": 7399.165358336033,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "9413b926-4bf5-4190-9c3d-f4b8e8999d89",
+    "mapID": "buried-city",
+    "lat": 5499.4625557592935,
+    "lng": 7879.1994109273055,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Arc Husk"
+  },
+  {
+    "id": "fdf59db3-5365-4207-b4aa-eb21b96cae82",
+    "mapID": "buried-city",
+    "lat": 5487.596232180056,
+    "lng": 8503.425475826958,
+    "category": "containers",
+    "subcategory": "arc_husk",
+    "instanceName": "Rocketeer Husk"
+  },
+  {
+    "id": "42eb5842-51e0-4a92-8086-e3206f0a9992",
+    "mapID": "buried-city",
+    "lat": 6035.22610863881,
+    "lng": 7273.190715356643,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  },
+  {
+    "id": "900db3ed-04f3-40e3-a16b-c848726a97be",
+    "mapID": "buried-city",
+    "lat": 3694.8988486248218,
+    "lng": 7700.625462829914,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": "Downed Probe"
+  },
+  {
+    "id": "1db5369f-5ef6-4c05-a008-c895e9a695d2",
+    "mapID": "buried-city",
+    "lat": 3750.398012031567,
+    "lng": 7645.137853531577,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "0c7cff59-7e4b-4ccc-bd89-5fb61993b925",
+    "mapID": "buried-city",
+    "lat": 4538.211321655262,
+    "lng": 6833.479933386795,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "abb149fd-872e-475d-bbf2-a47fab3daa67",
+    "mapID": "buried-city",
+    "lat": 5548.840398602697,
+    "lng": 6024.523244603785,
+    "category": "containers",
+    "subcategory": "base_container",
+    "instanceName": "Kitchen"
+  },
+  {
+    "id": "94d5ccd5-fb2e-4276-b310-28daa1eb8897",
+    "mapID": "buried-city",
+    "lat": 2933.0789283617987,
+    "lng": 6772.668750204752,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "690636a2-69fd-4214-91f0-4b00c88be4f1",
+    "mapID": "buried-city",
+    "lat": 5956.0,
+    "lng": 7376.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "4a9cc0a7-e899-40b5-bb0d-8867cd115a0a",
+    "mapID": "buried-city",
+    "lat": 4485.689237790264,
+    "lng": 6575.126138850045,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "3c1fbf51-a9c0-4cc7-9eec-e9962547dbdd",
+    "mapID": "buried-city",
+    "lat": 3790.0,
+    "lng": 7016.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "a099e395-aa8d-48ef-8bed-f980ad89371f",
+    "mapID": "buried-city",
+    "lat": 4638.0,
+    "lng": 7078.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "ca43c88b-25d5-4b93-b7ea-73a3031b160f",
+    "mapID": "buried-city",
+    "lat": 5518.0,
+    "lng": 7202.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "f355cb4c-542d-40aa-99ae-11e1d6b22ef9",
+    "mapID": "buried-city",
+    "lat": 5304.0,
+    "lng": 6234.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "a27a8ab9-e84c-4ad6-8e41-1c1ce47ab9c9",
+    "mapID": "buried-city",
+    "lat": 5516.0,
+    "lng": 6516.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "33213f26-ecab-4d6f-a463-9b1f40b23098",
+    "mapID": "buried-city",
+    "lat": 5754.0,
+    "lng": 6232.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "53ba0eee-bb08-4b00-9fe7-1561834fefdd",
+    "mapID": "buried-city",
+    "lat": 5832.0,
+    "lng": 5992.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "ad0edcd7-6a9d-4bdb-987b-9477cac273ac",
+    "mapID": "buried-city",
+    "lat": 4798.0,
+    "lng": 8308.0,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "b136cbed-3845-471e-a1fd-ae0663ba3d12",
+    "mapID": "buried-city",
+    "lat": 5841.385348893366,
+    "lng": 7917.7409716881175,
+    "category": "containers",
+    "subcategory": "arc_probe",
+    "instanceName": null
+  },
+  {
+    "id": "e86ea511-97f3-4f5b-aae7-26657ee41d80",
+    "mapID": "buried-city",
+    "lat": 6664.944987300942,
+    "lng": 6528.7197680298395,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "f9443559-aeec-4a69-9df5-d157ac1728ce",
+    "mapID": "buried-city",
+    "lat": 2949.8646247100305,
+    "lng": 6614.491202385719,
+    "category": "containers",
+    "subcategory": "arc_courier",
+    "instanceName": null
+  },
+  {
+    "id": "ea155d4d-7288-48bb-ad46-fa5393d04c07",
+    "mapID": "buried-city",
+    "lat": 4188.3874590395835,
+    "lng": 8782.294544295095,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "237119f6-cb02-427e-9048-5ac402348c64",
+    "mapID": "buried-city",
+    "lat": 3433.541202452559,
+    "lng": 7139.112041767741,
+    "category": "containers",
+    "subcategory": "locker",
+    "instanceName": "Hospital Red Lockers"
+  },
+  {
+    "id": "17c5d22c-3cfd-46aa-b729-0674e174f3b1",
+    "mapID": "buried-city",
+    "lat": 3835.192945883776,
+    "lng": 7324.32662130176,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "0b30ca0c-5df5-4bca-ab78-c6418e4e0347",
+    "mapID": "buried-city",
+    "lat": 3721.0290628435146,
+    "lng": 7285.082786506669,
+    "category": "containers",
+    "subcategory": "bag",
+    "instanceName": null
+  },
+  {
+    "id": "c9860a8d-eff3-48ea-a26a-7b807e1a31cd",
+    "mapID": "buried-city",
+    "lat": 3855.112165060071,
+    "lng": 7268.136585117881,
+    "category": "containers",
+    "subcategory": "utility_crate",
+    "instanceName": null
+  },
+  {
+    "id": "892d5316-d307-44ce-a546-d12d589da91b",
+    "mapID": "buried-city",
+    "lat": 3618.75725095328,
+    "lng": 7235.730691234056,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "69ac7c45-1b8c-4af3-9774-adff7b18b273",
+    "mapID": "buried-city",
+    "lat": 3672.2715711284027,
+    "lng": 7348.110763601814,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "9a6487bc-b90d-41fe-832b-cca6fb2005a3",
+    "mapID": "buried-city",
+    "lat": 6647.496386684427,
+    "lng": 5598.898556863045,
+    "category": "containers",
+    "subcategory": "raider_cache",
+    "instanceName": null
+  },
+  {
+    "id": "8adccb0a-103b-4ecd-b730-db92cf5de1cc",
+    "mapID": "buried-city",
+    "lat": 3954.1136573840477,
+    "lng": 7789.306603267823,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "12027a1b-6a7b-49ea-87a3-dc68ba0a0b4a",
+    "mapID": "buried-city",
+    "lat": 3835.796346043013,
+    "lng": 7721.672428863284,
+    "category": "containers",
+    "subcategory": "med_crate",
+    "instanceName": null
+  },
+  {
+    "id": "37f63364-61b2-4ef2-a124-55f50ec54930",
+    "mapID": "buried-city",
+    "lat": 4514.2077925218255,
+    "lng": 7173.297317696414,
+    "category": "containers",
+    "subcategory": "basket",
+    "instanceName": null
+  }
+]

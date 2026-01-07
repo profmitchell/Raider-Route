@@ -1,0 +1,191 @@
+[
+  {
+    "id": "41fa5b95-a3f6-fb1d-c120-c0230cdc548c",
+    "mapID": "spaceport",
+    "lat": 1217.8597562374225,
+    "lng": 2551.241266521063,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "e5d4bc7f-0523-d6ac-3840-53485ac48490",
+    "mapID": "spaceport",
+    "lat": 865.9667440654594,
+    "lng": 2971.9976325336393,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "e3b803fa-99a4-40fe-fee4-d18e57cc6642",
+    "mapID": "spaceport",
+    "lat": 1056.585013976573,
+    "lng": 3411.083112443905,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "31a6aaf2-7047-3471-4508-6bdb3ec1dca1",
+    "mapID": "spaceport",
+    "lat": 1025.4904476544702,
+    "lng": 3945.6558390209348,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "d62c64b8-415b-88b6-9d60-76336d525c08",
+    "mapID": "spaceport",
+    "lat": 1615.4164785559997,
+    "lng": 3658.5704858591967,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "973fd64b-3b91-5bcc-dee5-98a385ee39e1",
+    "mapID": "spaceport",
+    "lat": 1614.0017878344133,
+    "lng": 4696.603240641049,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "de84d5d3-7db1-a991-3afd-fba16dfc52a2",
+    "mapID": "spaceport",
+    "lat": 1821.9613239076145,
+    "lng": 4464.672216411861,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "78270be3-98b7-7852-2172-34086eaa7f55",
+    "mapID": "spaceport",
+    "lat": 2117.6316847191724,
+    "lng": 5273.6023740892715,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "82350d24-5982-85b4-c895-38be099b1f88",
+    "mapID": "spaceport",
+    "lat": 2506.671633155433,
+    "lng": 5160.465289099424,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "b6d3a52f-cfc1-a835-d16a-3db4df096dc1",
+    "mapID": "spaceport",
+    "lat": 2823.562354790787,
+    "lng": 5062.88455329568,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "a9b92061-fe88-4456-6b1d-98bbeb89e604",
+    "mapID": "spaceport",
+    "lat": 3389.438643425348,
+    "lng": 5123.695736477723,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "1a120236-4834-603b-4059-02bacff31cab",
+    "mapID": "spaceport",
+    "lat": 3835.066220725065,
+    "lng": 4560.838738653231,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "8a6f21bd-f114-f74b-06c9-475f0ca428af",
+    "mapID": "spaceport",
+    "lat": 3586.080653725858,
+    "lng": 4152.131019127407,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "fac2c013-518f-0ded-43f9-34d7757af472",
+    "mapID": "spaceport",
+    "lat": 3010.3015300401917,
+    "lng": 3422.39682094289,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "7a4dee40-4b2a-0781-93ca-ff84d26433aa",
+    "mapID": "spaceport",
+    "lat": 3318.7041073460277,
+    "lng": 3081.5713524109738,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "fe5644b2-6bf3-01b4-5544-09c11f09ce18",
+    "mapID": "spaceport",
+    "lat": 2451.4986950135635,
+    "lng": 2828.4271247461897,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "c935026f-41b1-1ebd-fe9c-ab86c2b651bc",
+    "mapID": "spaceport",
+    "lat": 1874.3048806063114,
+    "lng": 2620.537731077345,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "ed052135-f76b-4167-4e1b-c8d664197ebb",
+    "mapID": "spaceport",
+    "lat": 1649.3690558740732,
+    "lng": 2832.6697654333093,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "78d15586-f83a-2509-941a-d1fb2582330c",
+    "mapID": "spaceport",
+    "lat": 2195.574059852138,
+    "lng": 4147.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "d6dd52f5-5028-467c-b29b-a84482c4ced4",
+    "mapID": "spaceport",
+    "lat": 2911.8657249262023,
+    "lng": 2877.9245994292482,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Fuel Lines Player Spawn"
+  },
+  {
+    "id": "2711de5f-2abc-49a6-bd9e-256fc12d248f",
+    "mapID": "spaceport",
+    "lat": 3572.833398310457,
+    "lng": 3631.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Player Spawn"
+  }
+]

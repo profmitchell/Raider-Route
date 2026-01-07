@@ -1,0 +1,236 @@
+[
+  {
+    "id": "a2e6287f-2ea0-49f9-a802-63ff7a3b370a",
+    "mapID": "stella-montis",
+    "lat": 3373.78058526272,
+    "lng": 5380.864893608563,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "5e0b4977-5825-4d35-a470-4bb6173d0858",
+    "mapID": "stella-montis",
+    "lat": 2231.1374817717597,
+    "lng": 5888.953633493475,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "bcd642c8-f2c2-49d8-989e-c05b881182ed",
+    "mapID": "stella-montis",
+    "lat": 1472.3379449018894,
+    "lng": 5028.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "20b8f15f-9c70-4d01-8076-067134cb8d8b",
+    "mapID": "stella-montis",
+    "lat": 1961.5557510769456,
+    "lng": 1943.9121276118235,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "dc9e9de4-dee0-9875-85e3-4671b9659ab9",
+    "mapID": "stella-montis",
+    "lat": 2118.218070024107,
+    "lng": 4832.631698463098,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": ""
+  },
+  {
+    "id": "f1a1be81-0c33-4150-aa71-110f5c95c2db",
+    "mapID": "stella-montis",
+    "lat": 2836.0,
+    "lng": 2132.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "10975e2c-170f-4f40-8acc-66b46c8c5350",
+    "mapID": "stella-montis",
+    "lat": 3384.2130547588163,
+    "lng": 2472.04530702817,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "7dbf9c75-55c4-4e8d-840e-f819505241aa",
+    "mapID": "stella-montis",
+    "lat": 1288.0,
+    "lng": 3420.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Player Spawn"
+  },
+  {
+    "id": "b42e8074-83a3-4a0e-ba42-ef328f49596e",
+    "mapID": "stella-montis",
+    "lat": 2718.1184668810884,
+    "lng": 2798.0215331551685,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "f1abd198-2e9f-423b-907c-0e2022468225",
+    "mapID": "stella-montis",
+    "lat": 3410.0,
+    "lng": 3090.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "b2a6d5f4-e00e-4535-bf8e-3198382ab62a",
+    "mapID": "stella-montis",
+    "lat": 3254.8785304222565,
+    "lng": 3894.2887230908213,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "9a0102eb-7ab1-41ca-858a-b6494585b24a",
+    "mapID": "stella-montis",
+    "lat": 1944.5436482630055,
+    "lng": 5448.964855823535,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "76713cf0-97b4-4e62-b3ff-ad169f5e4127",
+    "mapID": "stella-montis",
+    "lat": 1164.958422004837,
+    "lng": 4366.384373826931,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "4f4929db-0056-4abc-88f6-541084041dd0",
+    "mapID": "stella-montis",
+    "lat": 2230.921894643557,
+    "lng": 2317.8960287295026,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "85fcfd8e-44f9-4aef-a472-c322fde42042",
+    "mapID": "stella-montis",
+    "lat": 2834.434003216343,
+    "lng": 4768.945333341253,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "0b69a63a-69da-4c13-bda1-9bf30b9c87eb",
+    "mapID": "stella-montis",
+    "lat": 3379.0844033093585,
+    "lng": 5236.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "058e937a-7e71-4dd2-9871-cf2b4984d82f",
+    "mapID": "stella-montis",
+    "lat": 1372.0063472510476,
+    "lng": 2712.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "7cd88f20-e062-4cd3-ae38-9422fd524025",
+    "mapID": "stella-montis",
+    "lat": 3375.7277733845776,
+    "lng": 4808.326112068523,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "fde1acd5-efd8-41e3-8ad7-41784092286b",
+    "mapID": "stella-montis",
+    "lat": 2405.0,
+    "lng": 4665.0,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "RARE Spawn"
+  },
+  {
+    "id": "71053193-1ac6-4f63-baf8-86d47e3b36ba",
+    "mapID": "stella-montis",
+    "lat": 2760.5448737522815,
+    "lng": 1974.2421330728405,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "c41067e9-3bd7-4665-bd05-b4d0a3c123b8",
+    "mapID": "stella-montis",
+    "lat": 1869.5903294572315,
+    "lng": 2798.7286399363547,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "783b9b88-03e6-4923-93f9-ee113ef1a3b2",
+    "mapID": "stella-montis",
+    "lat": 2109.80910587157,
+    "lng": 3334.995182896232,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "e6a19c57-0766-4605-89c7-d612a31c7132",
+    "mapID": "stella-montis",
+    "lat": 3389.6534498877236,
+    "lng": 5473.394766886428,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "bf8a964d-c56e-495c-bfaa-6bee5483c805",
+    "mapID": "stella-montis",
+    "lat": 3169.959700059292,
+    "lng": 3897.5725779002496,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "c0444634-d29c-4cb5-9e10-c9fb2672199b",
+    "mapID": "stella-montis",
+    "lat": 2366.282512523953,
+    "lng": 3790.761039963745,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": null
+  },
+  {
+    "id": "d1e56fee-3b4a-44ac-ba8a-93921a59c1bb",
+    "mapID": "stella-montis",
+    "lat": 1204.909955141877,
+    "lng": 4864.894654563446,
+    "category": "locations",
+    "subcategory": "player_spawn",
+    "instanceName": "Update Required"
+  }
+]
